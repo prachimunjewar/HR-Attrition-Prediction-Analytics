@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,JobRole,Age,Gender,MonthlyIncome,YearsAtCompany,OverTime,JobSatisfaction,WorkLifeBalance,Attrition_Actual,Attrition_Prob,Risk_Score,Risk_Tier,salary_band
+1494,Research & Development,Laboratory Technician,24,Male,3172,0,Yes,1,2,Yes,0.9954346,99.5,🔴 Critical,$3K-$6K
+622,Research & Development,Laboratory Technician,26,Male,2340,1,Yes,4,1,Yes,0.99540377,99.5,🔴 Critical,< $3K
+959,Sales,Sales Representative,19,Male,2121,1,Yes,2,4,Yes,0.99382365,99.4,🔴 Critical,< $3K
+167,Sales,Sales Representative,19,Male,1675,0,Yes,3,2,Yes,0.9927008,99.3,🔴 Critical,< $3K
+1944,Human Resources,Human Resources,27,Female,2863,1,No,2,3,Yes,0.9922782,99.2,🔴 Critical,< $3K
+1427,Sales,Sales Representative,31,Female,1359,1,No,3,3,Yes,0.99002516,99.0,🔴 Critical,< $3K
+19,Research & Development,Laboratory Technician,28,Male,2028,4,Yes,3,3,Yes,0.98849046,98.8,🔴 Critical,< $3K
+911,Research & Development,Laboratory Technician,32,Male,2795,1,Yes,4,1,Yes,0.9881881,98.8,🔴 Critical,< $3K
+1273,Sales,Sales Representative,25,Male,1118,1,Yes,4,3,Yes,0.98737025,98.7,🔴 Critical,< $3K
+1624,Sales,Sales Representative,18,Female,1569,0,Yes,4,4,Yes,0.98632497,98.6,🔴 Critical,< $3K
+1016,Research & Development,Research Scientist,20,Female,2600,1,Yes,1,3,Yes,0.9861944,98.6,🔴 Critical,< $3K
+299,Sales,Sales Executive,30,Female,6696,6,No,1,2,Yes,0.9859524,98.6,🔴 Critical,$6K-$10K
+614,Sales,Sales Representative,18,Male,1878,0,Yes,2,3,Yes,0.98469144,98.5,🔴 Critical,< $3K
+478,Sales,Sales Representative,21,Female,2174,3,Yes,2,3,Yes,0.9841664,98.4,🔴 Critical,< $3K
+1248,Research & Development,Research Scientist,19,Female,1859,1,Yes,2,4,Yes,0.98395455,98.4,🔴 Critical,< $3K
+952,Sales,Sales Representative,25,Male,2413,1,Yes,2,3,Yes,0.9832864,98.3,🔴 Critical,< $3K
+1878,Research & Development,Research Scientist,22,Male,2472,1,Yes,2,3,Yes,0.9829096,98.3,🔴 Critical,< $3K
+1604,Research & Development,Laboratory Technician,28,Male,2408,1,Yes,2,3,Yes,0.98281187,98.3,🔴 Critical,< $3K
+2023,Sales,Sales Representative,23,Male,1790,1,No,1,2,Yes,0.98252064,98.3,🔴 Critical,< $3K
+1928,Sales,Sales Representative,29,Male,1091,1,No,1,3,Yes,0.98169506,98.2,🔴 Critical,< $3K
+587,Research & Development,Healthcare Representative,31,Male,9824,1,No,3,3,Yes,0.9804545,98.0,🔴 Critical,$6K-$10K
+1487,Sales,Sales Executive,29,Female,5765,5,No,2,1,Yes,0.980414,98.0,🔴 Critical,$3K-$6K
+55,Research & Development,Laboratory Technician,26,Male,2293,1,No,3,2,Yes,0.9795492,98.0,🔴 Critical,< $3K
+33,Research & Development,Research Scientist,32,Female,3919,10,Yes,1,3,Yes,0.9794596,97.9,🔴 Critical,$3K-$6K
+1868,Research & Development,Research Scientist,29,Male,2439,1,Yes,4,2,Yes,0.97852534,97.9,🔴 Critical,< $3K
+1108,Research & Development,Research Scientist,33,Male,2313,2,Yes,2,3,Yes,0.97820914,97.8,🔴 Critical,< $3K
+1844,Human Resources,Human Resources,29,Male,2335,2,Yes,1,3,Yes,0.97774863,97.8,🔴 Critical,< $3K
+1079,Research & Development,Laboratory Technician,21,Female,1416,1,No,1,2,Yes,0.9765919,97.7,🔴 Critical,< $3K
+1569,Research & Development,Laboratory Technician,35,Female,2074,1,Yes,1,3,Yes,0.97589976,97.6,🔴 Critical,< $3K
+1004,Research & Development,Research Scientist,30,Female,2132,5,Yes,3,3,Yes,0.97568965,97.6,🔴 Critical,< $3K
+1319,Sales,Sales Executive,52,Male,8446,8,Yes,2,2,Yes,0.9747063,97.5,🔴 Critical,$6K-$10K
+454,Research & Development,Laboratory Technician,29,Male,2119,7,Yes,1,2,Yes,0.9745044,97.5,🔴 Critical,< $3K
+648,Sales,Sales Representative,30,Male,2033,1,No,1,4,Yes,0.974393,97.4,🔴 Critical,< $3K
+1504,Research & Development,Laboratory Technician,28,Male,2561,0,No,1,2,Yes,0.9737979,97.4,🔴 Critical,< $3K
+1758,Sales,Sales Executive,33,Female,8564,0,Yes,1,2,Yes,0.9737327,97.4,🔴 Critical,$6K-$10K
+816,Research & Development,Laboratory Technician,29,Female,2319,1,Yes,1,3,Yes,0.97313935,97.3,🔴 Critical,< $3K
+1862,Sales,Sales Executive,32,Male,9907,2,Yes,2,2,Yes,0.9727312,97.3,🔴 Critical,$6K-$10K
+392,Research & Development,Laboratory Technician,44,Male,3161,1,Yes,3,1,Yes,0.97094506,97.1,🔴 Critical,$3K-$6K
+1458,Research & Development,Laboratory Technician,39,Female,3646,1,Yes,1,4,Yes,0.9702867,97.0,🔴 Critical,$3K-$6K
+514,Research & Development,Research Scientist,30,Male,2285,1,Yes,4,3,Yes,0.96959573,97.0,🔴 Critical,< $3K
+741,Research & Development,Research Scientist,28,Female,2216,7,Yes,2,3,Yes,0.9684134,96.8,🔴 Critical,< $3K
+811,Research & Development,Laboratory Technician,23,Male,1601,0,Yes,1,3,Yes,0.9681273,96.8,🔴 Critical,< $3K
+1716,Sales,Sales Executive,47,Male,12936,23,No,3,1,Yes,0.96716446,96.7,🔴 Critical,> $10K
+137,Research & Development,Laboratory Technician,20,Female,2926,1,Yes,4,3,Yes,0.96627665,96.6,🔴 Critical,< $3K
+1331,Sales,Sales Representative,31,Female,2302,3,Yes,2,4,Yes,0.96624005,96.6,🔴 Critical,< $3K
+970,Sales,Sales Executive,37,Male,10609,14,No,3,1,Yes,0.96590215,96.6,🔴 Critical,> $10K
+1464,Research & Development,Laboratory Technician,31,Male,3722,2,Yes,4,1,Yes,0.9631781,96.3,🔴 Critical,$3K-$6K
+881,Research & Development,Research Scientist,35,Female,2022,10,Yes,2,2,Yes,0.9630987,96.3,🔴 Critical,< $3K
+325,Research & Development,Laboratory Technician,33,Male,2436,5,Yes,4,1,Yes,0.96282876,96.3,🔴 Critical,< $3K
+960,Research & Development,Laboratory Technician,20,Male,2973,1,No,1,3,Yes,0.9624862,96.2,🔴 Critical,< $3K
+485,Sales,Sales Representative,33,Female,2851,1,Yes,3,3,Yes,0.96217465,96.2,🔴 Critical,< $3K
+608,Human Resources,Human Resources,26,Female,2741,7,Yes,3,2,Yes,0.96130645,96.1,🔴 Critical,< $3K
+1372,Sales,Sales Executive,55,Male,13695,19,Yes,3,2,Yes,0.9611549,96.1,🔴 Critical,> $10K
+235,Sales,Sales Representative,19,Female,2325,0,No,1,4,Yes,0.9611537,96.1,🔴 Critical,< $3K
+1053,Research & Development,Research Scientist,26,Male,2042,3,Yes,1,3,Yes,0.96084577,96.1,🔴 Critical,< $3K
+190,Research & Development,Laboratory Technician,32,Female,4200,5,No,1,4,Yes,0.95905733,95.9,🔴 Critical,$3K-$6K
+1405,Research & Development,Research Scientist,27,Female,2394,8,Yes,3,3,Yes,0.9583859,95.8,🔴 Critical,< $3K
+1279,Research & Development,Laboratory Technician,21,Female,2625,2,No,3,1,Yes,0.95789003,95.8,🔴 Critical,< $3K
+163,Sales,Sales Executive,31,Male,6172,7,Yes,3,2,Yes,0.9577272,95.8,🔴 Critical,$6K-$10K
+1968,Sales,Sales Executive,53,Male,10448,2,Yes,1,2,Yes,0.95740104,95.7,🔴 Critical,> $10K
+1933,Sales,Sales Executive,28,Female,9854,2,Yes,3,3,Yes,0.9568528,95.7,🔴 Critical,$6K-$10K
+1783,Research & Development,Laboratory Technician,22,Female,2398,1,Yes,1,3,Yes,0.955809,95.6,🔴 Critical,< $3K
+1905,Research & Development,Research Scientist,34,Male,2307,5,Yes,1,3,Yes,0.95506305,95.5,🔴 Critical,< $3K
+261,Research & Development,Manufacturing Director,35,Male,5916,1,Yes,3,3,Yes,0.9545509,95.5,🔴 Critical,$3K-$6K
+1939,Research & Development,Research Scientist,32,Female,2432,4,Yes,3,3,Yes,0.95448434,95.4,🔴 Critical,< $3K
+554,Sales,Sales Representative,24,Female,3202,5,Yes,2,3,Yes,0.9539431,95.4,🔴 Critical,$3K-$6K
+1111,Research & Development,Laboratory Technician,28,Male,2596,1,No,2,3,Yes,0.9536457,95.4,🔴 Critical,< $3K
+986,Sales,Sales Executive,40,Female,13194,1,Yes,2,2,Yes,0.9535231,95.4,🔴 Critical,> $10K
+440,Research & Development,Research Scientist,28,Male,3464,3,Yes,4,2,Yes,0.9529311,95.3,🔴 Critical,$3K-$6K
+994,Research & Development,Research Scientist,29,Female,2404,0,Yes,1,3,Yes,0.95249087,95.2,🔴 Critical,< $3K
+1692,Research & Development,Laboratory Technician,32,Male,1393,1,No,2,3,Yes,0.95158726,95.2,🔴 Critical,< $3K
+1876,Sales,Sales Representative,30,Male,1081,1,No,4,2,Yes,0.95143723,95.1,🔴 Critical,< $3K
+394,Research & Development,Laboratory Technician,26,Male,2373,3,Yes,2,3,Yes,0.9510933,95.1,🔴 Critical,< $3K
+1277,Sales,Manager,45,Female,18824,24,Yes,2,3,Yes,0.9506634,95.1,🔴 Critical,> $10K
+1734,Sales,Sales Executive,32,Male,6735,0,No,2,3,Yes,0.95054746,95.1,🔴 Critical,$6K-$10K
+1219,Research & Development,Laboratory Technician,24,Female,2210,1,No,2,1,Yes,0.94972074,95.0,🔴 Critical,< $3K
+1433,Research & Development,Research Scientist,31,Female,1261,1,No,2,4,Yes,0.9472163,94.7,🔴 Critical,< $3K
+932,Research & Development,Laboratory Technician,39,Male,2404,2,Yes,1,1,Yes,0.9466552,94.7,🔴 Critical,< $3K
+65,Research & Development,Laboratory Technician,28,Male,3441,2,Yes,3,2,Yes,0.9455666,94.6,🔴 Critical,$3K-$6K
+1767,Research & Development,Research Scientist,43,Male,2437,1,Yes,3,3,Yes,0.94526505,94.5,🔴 Critical,< $3K
+1188,Sales,Sales Executive,43,Female,5346,4,No,3,2,Yes,0.9448912,94.5,🔴 Critical,$3K-$6K
+918,Research & Development,Laboratory Technician,58,Male,2380,1,Yes,4,2,Yes,0.9444442,94.4,🔴 Critical,< $3K
+1714,Human Resources,Human Resources,24,Male,1555,1,No,3,3,Yes,0.9434984,94.3,🔴 Critical,< $3K
+1107,Research & Development,Laboratory Technician,26,Male,2377,1,No,3,2,Yes,0.9420529,94.2,🔴 Critical,< $3K
+1522,Research & Development,Research Scientist,29,Male,2362,9,No,1,1,Yes,0.9419288,94.2,🔴 Critical,< $3K
+376,Research & Development,Manager,47,Male,11849,10,Yes,2,2,Yes,0.94050217,94.1,🔴 Critical,> $10K
+502,Sales,Sales Executive,34,Male,5304,5,Yes,4,2,Yes,0.93936676,93.9,🔴 Critical,$3K-$6K
+147,Research & Development,Laboratory Technician,34,Male,6074,9,Yes,3,3,Yes,0.9386842,93.9,🔴 Critical,$6K-$10K
+701,Research & Development,Research Scientist,20,Male,1009,1,Yes,3,3,Yes,0.93771845,93.8,🔴 Critical,< $3K
+1037,Sales,Sales Executive,26,Male,4969,2,No,1,3,Yes,0.9377001,93.8,🔴 Critical,$3K-$6K
+566,Human Resources,Human Resources,19,Male,2564,1,No,4,4,Yes,0.9376585,93.8,🔴 Critical,< $3K
+1489,Sales,Sales Executive,34,Female,4599,15,Yes,2,4,Yes,0.9373466,93.7,🔴 Critical,$3K-$6K
+1649,Research & Development,Laboratory Technician,40,Male,2166,4,Yes,1,1,Yes,0.93707067,93.7,🔴 Critical,< $3K
+405,Research & Development,Laboratory Technician,18,Male,1420,0,No,3,3,Yes,0.93437815,93.4,🔴 Critical,< $3K
+45,Research & Development,Research Scientist,24,Male,2293,2,Yes,4,2,Yes,0.933679,93.4,🔴 Critical,< $3K
+243,Research & Development,Laboratory Technician,19,Male,1102,1,No,4,2,Yes,0.93347734,93.3,🔴 Critical,< $3K
+555,Sales,Sales Representative,34,Female,2351,2,No,3,2,Yes,0.9331455,93.3,🔴 Critical,< $3K
+1534,Research & Development,Laboratory Technician,40,Male,2018,5,No,1,1,Yes,0.9317058,93.2,🔴 Critical,< $3K
+291,Sales,Sales Executive,32,Male,10400,14,No,4,2,Yes,0.9313339,93.1,🔴 Critical,> $10K
+1127,Research & Development,Healthcare Representative,39,Male,12169,18,No,4,3,Yes,0.9311019,93.1,🔴 Critical,> $10K
+1639,Sales,Sales Executive,35,Male,10306,13,No,1,3,Yes,0.93081903,93.1,🔴 Critical,> $10K
+1684,Research & Development,Laboratory Technician,23,Male,3989,5,Yes,3,3,Yes,0.93079287,93.1,🔴 Critical,$3K-$6K
+927,Research & Development,Laboratory Technician,41,Female,2778,7,Yes,4,2,Yes,0.93017405,93.0,🔴 Critical,< $3K
+825,Research & Development,Research Director,58,Male,19246,31,Yes,2,3,Yes,0.92998964,93.0,🔴 Critical,> $10K
+2055,Sales,Sales Executive,50,Male,10854,3,Yes,1,3,Yes,0.92992574,93.0,🔴 Critical,> $10K
+494,Sales,Sales Representative,21,Female,2716,1,No,2,3,Yes,0.9289673,92.9,🔴 Critical,< $3K
+1038,Sales,Manager,52,Female,19845,32,No,4,3,Yes,0.92880374,92.9,🔴 Critical,> $10K
+1077,Sales,Sales Representative,20,Female,2323,2,Yes,4,3,Yes,0.9283459,92.8,🔴 Critical,< $3K
+1175,Research & Development,Laboratory Technician,28,Female,2515,1,Yes,4,2,Yes,0.9280934,92.8,🔴 Critical,< $3K
+364,Research & Development,Laboratory Technician,28,Male,3485,0,No,3,1,Yes,0.9277451,92.8,🔴 Critical,$3K-$6K
+411,Sales,Sales Representative,18,Female,1200,0,No,3,3,No,0.92709196,92.7,🔴 Critical,< $3K
+297,Research & Development,Research Scientist,30,Female,2657,5,Yes,1,3,Yes,0.9270318,92.7,🔴 Critical,< $3K
+819,Sales,Sales Executive,33,Female,5324,3,No,1,3,Yes,0.926251,92.6,🔴 Critical,$3K-$6K
+282,Research & Development,Healthcare Representative,38,Male,6673,1,Yes,1,3,Yes,0.92524314,92.5,🔴 Critical,$6K-$10K
+785,Sales,Sales Executive,47,Female,6397,5,Yes,3,3,Yes,0.92442566,92.4,🔴 Critical,$6K-$10K
+1421,Research & Development,Healthcare Representative,29,Female,7553,8,Yes,4,3,Yes,0.92297155,92.3,🔴 Critical,$6K-$10K
+64,Research & Development,Laboratory Technician,48,Male,5381,1,Yes,3,3,Yes,0.9229578,92.3,🔴 Critical,$3K-$6K
+1645,Sales,Sales Executive,35,Male,5440,2,Yes,4,2,Yes,0.92287046,92.3,🔴 Critical,$3K-$6K
+647,Research & Development,Laboratory Technician,24,Female,2886,6,Yes,3,3,Yes,0.92286396,92.3,🔴 Critical,< $3K
+1379,Sales,Sales Representative,31,Female,2785,1,No,4,4,Yes,0.92209387,92.2,🔴 Critical,< $3K
+1167,Sales,Sales Executive,42,Male,13758,21,Yes,1,2,Yes,0.9217971,92.2,🔴 Critical,> $10K
+593,Research & Development,Laboratory Technician,22,Male,3894,2,No,3,3,Yes,0.91960186,92.0,🔴 Critical,$3K-$6K
+1156,Research & Development,Laboratory Technician,18,Male,1904,0,No,3,3,Yes,0.91930294,91.9,🔴 Critical,< $3K
+1960,Research & Development,Laboratory Technician,28,Male,2367,4,No,4,2,Yes,0.9184997,91.8,🔴 Critical,< $3K
+1967,Sales,Sales Executive,31,Male,5617,10,Yes,4,3,Yes,0.9180819,91.8,🔴 Critical,$3K-$6K
+1537,Research & Development,Research Scientist,31,Female,4084,7,No,3,1,Yes,0.9151507,91.5,🔴 Critical,$3K-$6K
+1797,Sales,Sales Executive,35,Male,5813,10,Yes,4,3,Yes,0.914638,91.5,🔴 Critical,$3K-$6K
+1,Sales,Sales Executive,41,Female,5993,6,Yes,4,1,Yes,0.9142755,91.4,🔴 Critical,$3K-$6K
+2032,Research & Development,Laboratory Technician,56,Male,2339,10,No,3,1,Yes,0.9142295,91.4,🔴 Critical,< $3K
+1420,Research & Development,Laboratory Technician,49,Male,4284,4,No,1,3,Yes,0.913735,91.4,🔴 Critical,$3K-$6K
+584,Research & Development,Laboratory Technician,33,Male,3408,4,No,4,3,Yes,0.91214967,91.2,🔴 Critical,$3K-$6K
+1100,Sales,Sales Executive,35,Male,9582,8,Yes,1,3,Yes,0.91156125,91.2,🔴 Critical,$6K-$10K
+1010,Research & Development,Laboratory Technician,35,Male,3743,4,Yes,2,1,Yes,0.9113714,91.1,🔴 Critical,$3K-$6K
+1486,Sales,Sales Representative,28,Male,2909,3,No,3,4,Yes,0.9086538,90.9,🔴 Critical,< $3K
+133,Human Resources,Human Resources,37,Male,2073,3,Yes,1,3,Yes,0.9086009,90.9,🔴 Critical,< $3K
+1702,Sales,Sales Representative,23,Male,2275,3,Yes,4,3,Yes,0.9084542,90.8,🔴 Critical,< $3K
+1780,Sales,Sales Representative,21,Male,2679,1,No,2,3,Yes,0.9084117,90.8,🔴 Critical,< $3K
+582,Research & Development,Manager,33,Male,13610,7,Yes,3,4,Yes,0.90792805,90.8,🔴 Critical,> $10K
+1299,Research & Development,Laboratory Technician,29,Female,3339,7,Yes,3,3,Yes,0.90762013,90.8,🔴 Critical,$3K-$6K
+796,Sales,Sales Executive,26,Male,5326,4,No,1,2,Yes,0.9061363,90.6,🔴 Critical,$3K-$6K
+445,Sales,Sales Executive,39,Female,5238,1,Yes,3,2,Yes,0.90532947,90.5,🔴 Critical,$3K-$6K
+1752,Sales,Sales Representative,29,Female,2760,2,No,2,3,Yes,0.9044965,90.4,🔴 Critical,< $3K
+1052,Research & Development,Laboratory Technician,36,Male,4834,1,No,3,2,Yes,0.90135556,90.1,🔴 Critical,$3K-$6K
+1380,Sales,Sales Executive,35,Female,4614,4,Yes,3,2,Yes,0.9010476,90.1,🔴 Critical,$3K-$6K
+1842,Human Resources,Human Resources,31,Male,2956,1,No,1,3,Yes,0.89976346,90.0,🔴 Critical,< $3K
+590,Human Resources,Human Resources,34,Female,9950,3,Yes,1,3,Yes,0.89836633,89.8,🔴 Critical,$6K-$10K
+328,Research & Development,Laboratory Technician,33,Female,2707,9,No,1,4,Yes,0.8968534,89.7,🔴 Critical,< $3K
+1360,Research & Development,Manufacturing Director,58,Female,10008,10,Yes,1,2,Yes,0.8935882,89.4,🔴 Critical,> $10K
+27,Sales,Sales Representative,36,Male,3407,5,No,1,3,Yes,0.8934567,89.3,🔴 Critical,$3K-$6K
+142,Sales,Sales Executive,25,Male,5744,6,Yes,3,3,Yes,0.8925,89.2,🔴 Critical,$3K-$6K
+1459,Research & Development,Manufacturing Director,31,Female,7446,10,No,2,3,Yes,0.8911384,89.1,🔴 Critical,$6K-$10K
+1761,Sales,Sales Executive,31,Male,8161,1,No,3,3,Yes,0.89082426,89.1,🔴 Critical,$6K-$10K
+1457,Sales,Sales Executive,46,Male,10096,7,No,4,4,Yes,0.89032507,89.0,🔴 Critical,> $10K
+1747,Human Resources,Human Resources,30,Female,2180,4,No,4,2,Yes,0.8900059,89.0,🔴 Critical,< $3K
+650,Sales,Sales Executive,31,Male,4233,3,No,1,1,Yes,0.889443,88.9,🔴 Critical,$3K-$6K
+842,Sales,Sales Executive,55,Male,5160,9,No,4,2,Yes,0.88742834,88.7,🔴 Critical,$3K-$6K
+2044,Sales,Sales Executive,50,Male,6728,6,No,3,3,Yes,0.88668334,88.7,🔴 Critical,$6K-$10K
+1792,Research & Development,Research Scientist,44,Male,2342,5,Yes,2,2,Yes,0.88622427,88.6,🔴 Critical,< $3K
+342,Research & Development,Manufacturing Director,37,Male,10048,1,No,3,3,Yes,0.886117,88.6,🔴 Critical,> $10K
+118,Sales,Sales Executive,46,Male,9619,9,No,4,3,Yes,0.88548404,88.5,🔴 Critical,$6K-$10K
+488,Sales,Sales Executive,41,Male,9355,8,No,2,3,Yes,0.8850127,88.5,🔴 Critical,$6K-$10K
+1106,Research & Development,Laboratory Technician,25,Male,3691,7,Yes,4,4,Yes,0.8850092,88.5,🔴 Critical,$3K-$6K
+684,Sales,Sales Executive,45,Female,4286,1,No,1,3,Yes,0.88325757,88.3,🔴 Critical,$3K-$6K
+848,Research & Development,Research Scientist,26,Female,2366,8,Yes,3,3,Yes,0.8832458,88.3,🔴 Critical,< $3K
+967,Sales,Sales Executive,36,Male,10325,16,Yes,4,3,Yes,0.8826721,88.3,🔴 Critical,> $10K
+355,Research & Development,Laboratory Technician,31,Male,3479,5,No,2,4,Yes,0.8813945,88.1,🔴 Critical,$3K-$6K
+1165,Sales,Sales Executive,29,Female,7336,11,No,1,1,Yes,0.88001746,88.0,🔴 Critical,$6K-$10K
+42,Sales,Sales Representative,39,Male,2086,1,No,4,4,Yes,0.8791696,87.9,🔴 Critical,< $3K
+1821,Research & Development,Healthcare Representative,46,Female,8926,9,No,2,4,Yes,0.8777032,87.8,🔴 Critical,$6K-$10K
+723,Sales,Sales Executive,50,Male,6796,4,Yes,3,3,Yes,0.87687343,87.7,🔴 Critical,$6K-$10K
+840,Sales,Sales Executive,49,Female,7654,9,No,4,4,Yes,0.8719307,87.2,🔴 Critical,$6K-$10K
+1907,Research & Development,Laboratory Technician,56,Male,2587,4,No,4,3,Yes,0.8714296,87.1,🔴 Critical,< $3K
+631,Sales,Sales Executive,32,Male,4707,4,No,3,3,Yes,0.8683314,86.8,🔴 Critical,$3K-$6K
+1467,Human Resources,Human Resources,34,Female,2742,2,No,3,3,Yes,0.86784035,86.8,🔴 Critical,< $3K
+433,Research & Development,Research Scientist,52,Male,4941,8,No,2,2,Yes,0.86662287,86.7,🔴 Critical,$3K-$6K
+1809,Research & Development,Manufacturing Director,37,Male,4213,10,No,1,1,Yes,0.8635859,86.4,🔴 Critical,$3K-$6K
+492,Sales,Sales Executive,40,Male,6380,6,Yes,3,3,Yes,0.8630321,86.3,🔴 Critical,$6K-$10K
+565,Research & Development,Research Scientist,29,Female,2546,2,No,2,4,Yes,0.8566654,85.7,🔴 Critical,< $3K
+283,Sales,Sales Executive,29,Female,7639,10,No,4,2,Yes,0.85429233,85.4,🔴 Critical,$6K-$10K
+1157,Sales,Sales Executive,33,Female,8224,5,Yes,1,3,Yes,0.8518042,85.2,🔴 Critical,$6K-$10K
+1310,Research & Development,Research Scientist,39,Male,3904,5,No,1,3,Yes,0.8478646,84.8,🔴 Critical,$3K-$6K
+538,Research & Development,Laboratory Technician,25,Male,4031,2,No,1,3,Yes,0.84566903,84.6,🔴 Critical,$3K-$6K
+1807,Research & Development,Laboratory Technician,34,Male,5346,7,No,1,2,Yes,0.84047645,84.0,🔴 Critical,$3K-$6K
+922,Sales,Sales Representative,20,Female,2044,2,No,3,2,Yes,0.83492494,83.5,🔴 Critical,< $3K
+1101,Research & Development,Research Scientist,33,Female,4508,13,No,3,3,Yes,0.8306829,83.1,🔴 Critical,$3K-$6K
+1042,Research & Development,Laboratory Technician,36,Female,2743,17,No,1,3,Yes,0.8177249,81.8,🔴 Critical,< $3K
+1961,Sales,Sales Representative,38,Male,2858,1,No,1,2,No,0.8153406,81.5,🔴 Critical,< $3K
+1295,Research & Development,Healthcare Representative,44,Female,7978,10,No,4,3,Yes,0.81256396,81.3,🔴 Critical,$6K-$10K
+787,Research & Development,Manager,55,Male,19859,5,Yes,1,3,Yes,0.8123959,81.2,🔴 Critical,> $10K
+926,Research & Development,Manufacturing Director,22,Female,4171,3,Yes,3,4,Yes,0.81165314,81.2,🔴 Critical,$3K-$6K
+1869,Sales,Sales Executive,46,Female,7314,8,No,2,3,Yes,0.8096937,81.0,🔴 Critical,$6K-$10K
+702,Research & Development,Research Scientist,33,Male,3348,10,Yes,1,3,Yes,0.80754834,80.8,🔴 Critical,$3K-$6K
+1056,Sales,Sales Representative,28,Male,1052,1,No,2,3,No,0.8027857,80.3,🔴 Critical,< $3K
+1613,Sales,Sales Executive,31,Male,5332,5,No,1,3,No,0.8015058,80.2,🔴 Critical,$3K-$6K
+1562,Sales,Sales Executive,30,Male,9714,10,No,1,3,Yes,0.79800653,79.8,🔴 Critical,$6K-$10K
+1318,Sales,Sales Executive,40,Male,9094,5,Yes,2,3,Yes,0.797749,79.8,🔴 Critical,$6K-$10K
+1160,Research & Development,Laboratory Technician,31,Male,2610,2,No,3,2,Yes,0.7920171,79.2,🔴 Critical,< $3K
+1646,Research & Development,Research Scientist,24,Female,3760,6,Yes,4,3,No,0.789977,79.0,🔴 Critical,$3K-$6K
+934,Research & Development,Laboratory Technician,34,Male,2008,1,No,2,3,No,0.7724831,77.2,🔴 Critical,< $3K
+1200,Research & Development,Research Scientist,44,Male,2936,6,Yes,3,3,Yes,0.77203876,77.2,🔴 Critical,< $3K
+1033,Research & Development,Healthcare Representative,37,Female,4777,1,No,2,1,Yes,0.7702503,77.0,🔴 Critical,$3K-$6K
+667,Sales,Sales Representative,27,Male,3041,4,No,1,3,Yes,0.75777686,75.8,🔴 Critical,$3K-$6K
+1573,Research & Development,Manufacturing Director,38,Male,4855,5,No,2,3,Yes,0.73585033,73.6,🔴 Critical,$3K-$6K
+828,Research & Development,Research Scientist,28,Male,4382,2,No,3,2,Yes,0.7343635,73.4,🔴 Critical,$3K-$6K
+1839,Research & Development,Research Scientist,18,Female,1514,0,No,3,1,No,0.732081,73.2,🔴 Critical,< $3K
+1974,Research & Development,Laboratory Technician,31,Female,1129,1,Yes,4,3,No,0.7299803,73.0,🔴 Critical,< $3K
+248,Sales,Sales Representative,41,Female,3140,4,Yes,2,2,Yes,0.71625173,71.6,🔴 Critical,$3K-$6K
+1309,Research & Development,Laboratory Technician,32,Male,4883,10,No,3,3,Yes,0.71418726,71.4,🔴 Critical,$3K-$6K
+991,Research & Development,Research Scientist,31,Male,2321,3,Yes,1,3,Yes,0.70038825,70.0,🔴 Critical,< $3K
+4,Research & Development,Laboratory Technician,37,Male,2090,0,Yes,3,3,Yes,0.69060785,69.1,🟠 High,< $3K
+1893,Research & Development,Research Scientist,26,Female,2933,1,Yes,3,2,No,0.68905944,68.9,🟠 High,< $3K
+1198,Research & Development,Laboratory Technician,20,Male,3033,2,No,3,2,No,0.6833873,68.3,🟠 High,$3K-$6K
+144,Research & Development,Laboratory Technician,22,Female,2871,0,No,4,3,No,0.6651136,66.5,🟠 High,< $3K
+773,Research & Development,Research Scientist,38,Male,3057,1,Yes,3,1,No,0.6595258,66.0,🟠 High,$3K-$6K
+1720,Research & Development,Research Scientist,32,Male,3433,5,No,3,2,No,0.6503534,65.0,🟠 High,$3K-$6K
+1581,Research & Development,Research Scientist,26,Female,2061,1,No,4,3,No,0.6411311,64.1,🟠 High,< $3K
+1439,Sales,Sales Representative,25,Male,4400,3,No,1,3,Yes,0.62818974,62.8,🟠 High,$3K-$6K
+434,Research & Development,Research Scientist,27,Female,2478,4,Yes,2,2,No,0.616061,61.6,🟠 High,< $3K
+1818,Human Resources,Human Resources,26,Female,2148,5,Yes,2,3,Yes,0.6038379,60.4,🟠 High,< $3K
+2021,Sales,Sales Representative,21,Male,2380,2,Yes,1,3,No,0.58673847,58.7,🟠 High,< $3K
+47,Sales,Sales Representative,50,Male,2683,3,Yes,3,3,Yes,0.5817746,58.2,🟠 High,< $3K
+315,Research & Development,Research Scientist,29,Male,2389,4,Yes,4,2,Yes,0.57681495,57.7,🟠 High,< $3K
+896,Sales,Sales Representative,29,Female,2800,3,Yes,3,3,Yes,0.5752218,57.5,🟠 High,< $3K
+720,Sales,Sales Executive,24,Female,4577,2,No,3,3,Yes,0.5651021,56.5,🟠 High,$3K-$6K
+1650,Sales,Sales Executive,29,Male,5869,5,No,3,3,No,0.5642491,56.4,🟠 High,$3K-$6K
+939,Research & Development,Research Scientist,33,Male,2799,3,Yes,1,3,No,0.54732823,54.7,🟠 High,< $3K
+923,Research & Development,Research Scientist,21,Female,2693,1,No,4,2,Yes,0.5080506,50.8,🟠 High,< $3K
+90,Research & Development,Research Scientist,36,Male,3388,1,Yes,3,2,Yes,0.50733644,50.7,🟠 High,$3K-$6K
+833,Research & Development,Manufacturing Director,30,Female,6877,0,Yes,4,2,No,0.50723875,50.7,🟠 High,$6K-$10K
+22,Research & Development,Laboratory Technician,22,Male,2935,1,Yes,4,2,No,0.50257987,50.3,🟠 High,< $3K
+424,Human Resources,Human Resources,31,Male,6410,2,No,1,3,No,0.5009754,50.1,🟠 High,$6K-$10K
+201,Research & Development,Laboratory Technician,19,Female,1483,1,No,2,3,No,0.49786752,49.8,🟡 Medium,< $3K
+1391,Sales,Sales Executive,51,Male,10596,4,No,2,3,No,0.49176085,49.2,🟡 Medium,> $10K
+643,Research & Development,Laboratory Technician,24,Male,2127,1,No,2,3,No,0.47950098,48.0,🟡 Medium,< $3K
+527,Sales,Sales Executive,25,Female,4487,5,Yes,4,3,No,0.47928932,47.9,🟡 Medium,$3K-$6K
+54,Research & Development,Laboratory Technician,27,Female,2341,1,No,1,3,No,0.47411072,47.4,🟡 Medium,< $3K
+175,Sales,Sales Executive,31,Female,4559,2,Yes,3,3,Yes,0.46222764,46.2,🟡 Medium,$3K-$6K
+2010,Research & Development,Laboratory Technician,32,Female,2837,6,No,2,3,No,0.44621485,44.6,🟡 Medium,< $3K
+1448,Research & Development,Research Scientist,41,Male,2127,4,Yes,3,2,No,0.44619086,44.6,🟡 Medium,< $3K
+910,Human Resources,Human Resources,33,Male,2277,4,Yes,2,4,No,0.44533855,44.5,🟡 Medium,< $3K
+832,Research & Development,Laboratory Technician,40,Male,5094,1,No,3,3,No,0.43432194,43.4,🟡 Medium,$3K-$6K
+1269,Research & Development,Research Scientist,19,Female,2994,1,Yes,4,3,No,0.42952836,43.0,🟡 Medium,< $3K
+401,Sales,Sales Executive,26,Male,5828,8,Yes,4,3,Yes,0.42610314,42.6,🟡 Medium,$3K-$6K
+744,Research & Development,Laboratory Technician,44,Male,3708,5,No,3,3,No,0.42444333,42.4,🟡 Medium,$3K-$6K
+846,Sales,Sales Executive,28,Female,4779,8,Yes,2,3,No,0.4236004,42.4,🟡 Medium,$3K-$6K
+913,Research & Development,Research Scientist,44,Male,2559,8,Yes,1,3,No,0.4235815,42.4,🟡 Medium,< $3K
+1680,Sales,Sales Representative,20,Male,2728,2,No,1,3,No,0.42332837,42.3,🟡 Medium,< $3K
+1495,Sales,Sales Representative,24,Female,2033,1,No,2,3,No,0.42226613,42.2,🟡 Medium,< $3K
+113,Sales,Sales Representative,23,Male,2322,0,No,1,3,No,0.41970077,42.0,🟡 Medium,< $3K
+467,Sales,Sales Representative,47,Male,2976,0,No,3,3,No,0.41700304,41.7,🟡 Medium,< $3K
+618,Sales,Sales Executive,26,Male,4306,0,No,3,3,No,0.3864895,38.6,🟡 Medium,$3K-$6K
+1286,Research & Development,Laboratory Technician,28,Male,2154,4,Yes,3,2,No,0.38608834,38.6,🟡 Medium,< $3K
+749,Sales,Sales Representative,29,Male,2642,1,No,3,3,No,0.3809279,38.1,🟡 Medium,< $3K
+954,Sales,Sales Executive,40,Male,9705,1,No,2,2,No,0.37679833,37.7,🟡 Medium,$6K-$10K
+974,Sales,Sales Representative,29,Female,2157,3,No,4,3,No,0.37572417,37.6,🟡 Medium,< $3K
+1193,Research & Development,Research Scientist,19,Male,2552,1,No,1,3,No,0.37181368,37.2,🟡 Medium,< $3K
+1605,Research & Development,Research Scientist,22,Female,2814,4,Yes,3,2,No,0.36512658,36.5,🟡 Medium,< $3K
+1865,Human Resources,Human Resources,29,Male,2804,1,No,2,3,No,0.3590967,35.9,🟡 Medium,< $3K
+1173,Research & Development,Laboratory Technician,24,Male,3597,4,No,2,3,No,0.357996,35.8,🟡 Medium,$3K-$6K
+399,Sales,Sales Representative,31,Female,2789,2,No,2,2,No,0.3578,35.8,🟡 Medium,< $3K
+1551,Research & Development,Laboratory Technician,24,Male,2296,1,No,1,3,No,0.35709715,35.7,🟡 Medium,< $3K
+403,Research & Development,Research Scientist,37,Male,2326,4,Yes,4,2,No,0.35496783,35.5,🟡 Medium,< $3K
+1950,Sales,Sales Executive,34,Male,9888,14,No,4,2,No,0.35460466,35.5,🟡 Medium,$6K-$10K
+61,Research & Development,Research Scientist,37,Male,3022,1,No,2,3,No,0.35032874,35.0,🟡 Medium,$3K-$6K
+1030,Research & Development,Laboratory Technician,50,Male,2380,1,No,4,3,No,0.34969428,35.0,🟡 Medium,< $3K
+1203,Research & Development,Research Scientist,22,Male,2853,0,Yes,4,3,Yes,0.3415952,34.2,🟡 Medium,< $3K
+1244,Research & Development,Research Scientist,27,Male,2235,9,Yes,1,2,No,0.34078598,34.1,🟡 Medium,< $3K
+885,Sales,Sales Executive,25,Male,4256,5,No,1,4,No,0.33970246,34.0,🟡 Medium,$3K-$6K
+11,Research & Development,Laboratory Technician,30,Male,2693,1,No,3,3,No,0.32543325,32.5,🟡 Medium,< $3K
+639,Research & Development,Research Scientist,24,Male,2725,6,Yes,4,3,No,0.32456177,32.5,🟡 Medium,< $3K
+1036,Sales,Sales Executive,38,Male,6861,1,Yes,4,3,No,0.32264662,32.3,🟡 Medium,$6K-$10K
+1659,Research & Development,Laboratory Technician,36,Male,2013,4,No,2,3,No,0.3221589,32.2,🟡 Medium,< $3K
+1992,Research & Development,Laboratory Technician,25,Male,3977,2,Yes,3,2,No,0.31652197,31.7,🟡 Medium,$3K-$6K
+652,Research & Development,Laboratory Technician,35,Male,3681,3,No,4,3,No,0.31122229,31.1,🟡 Medium,$3K-$6K
+1419,Human Resources,Human Resources,29,Male,7988,10,No,1,2,No,0.31011832,31.0,🟡 Medium,$6K-$10K
+1708,Sales,Sales Executive,41,Male,9241,10,No,3,3,No,0.30636784,30.6,🟡 Medium,$6K-$10K
+1275,Research & Development,Research Scientist,26,Male,2875,8,Yes,4,2,No,0.3058352,30.6,🟡 Medium,< $3K
+1496,Research & Development,Manufacturing Director,44,Male,10209,2,Yes,3,2,No,0.30492625,30.5,🟡 Medium,> $10K
+1333,Research & Development,Laboratory Technician,44,Male,2362,3,No,1,4,Yes,0.30080768,30.1,🟡 Medium,< $3K
+284,Research & Development,Research Scientist,22,Male,2328,4,Yes,2,2,No,0.29777136,29.8,🟢 Low,< $3K
+1411,Research & Development,Laboratory Technician,37,Female,3629,3,No,3,3,No,0.29652232,29.7,🟢 Low,$3K-$6K
+7,Research & Development,Laboratory Technician,27,Male,3468,2,No,2,3,No,0.29200715,29.2,🟢 Low,$3K-$6K
+161,Research & Development,Research Scientist,56,Female,4963,5,Yes,2,3,Yes,0.2911988,29.1,🟢 Low,$3K-$6K
+508,Sales,Sales Representative,30,Male,2476,1,No,2,3,No,0.28633925,28.6,🟢 Low,< $3K
+1234,Research & Development,Laboratory Technician,32,Female,2743,2,No,2,3,No,0.28633553,28.6,🟢 Low,< $3K
+925,Sales,Sales Representative,47,Female,3294,3,Yes,4,2,No,0.28402674,28.4,🟢 Low,$3K-$6K
+1733,Sales,Sales Executive,36,Male,6134,2,Yes,1,3,Yes,0.28313458,28.3,🟢 Low,$6K-$10K
+51,Research & Development,Research Scientist,36,Female,3419,1,Yes,1,4,No,0.28038442,28.0,🟢 Low,$3K-$6K
+2054,Research & Development,Research Scientist,29,Female,3785,5,No,1,1,No,0.27994415,28.0,🟢 Low,$3K-$6K
+183,Sales,Sales Executive,25,Male,8639,2,No,3,3,No,0.2792371,27.9,🟢 Low,$6K-$10K
+1908,Sales,Sales Executive,36,Male,5507,4,No,2,1,No,0.27677757,27.7,🟢 Low,$3K-$6K
+1396,Sales,Sales Executive,32,Male,4078,3,Yes,2,2,No,0.2760737,27.6,🟢 Low,$3K-$6K
+1014,Research & Development,Healthcare Representative,35,Female,10388,16,Yes,3,2,No,0.27490833,27.5,🟢 Low,> $10K
+1055,Sales,Sales Representative,34,Female,2220,1,Yes,3,3,No,0.2748544,27.5,🟢 Low,< $3K
+390,Research & Development,Healthcare Representative,26,Male,4741,5,Yes,1,3,No,0.27342367,27.3,🟢 Low,$3K-$6K
+982,Sales,Sales Executive,30,Male,7264,8,No,3,4,No,0.27234745,27.2,🟢 Low,$6K-$10K
+1762,Research & Development,Research Scientist,29,Female,2109,1,No,1,3,No,0.2699082,27.0,🟢 Low,< $3K
+1492,Sales,Sales Representative,35,Male,2404,1,No,3,3,No,0.26956904,27.0,🟢 Low,< $3K
+1816,Research & Development,Manufacturing Director,30,Female,9667,7,No,3,3,No,0.2678022,26.8,🟢 Low,$6K-$10K
+5,Research & Development,Research Scientist,33,Female,2909,8,Yes,3,3,No,0.26762125,26.8,🟢 Low,< $3K
+669,Sales,Sales Representative,21,Male,3447,3,No,3,3,No,0.2649504,26.5,🟢 Low,$3K-$6K
+359,Research & Development,Laboratory Technician,32,Male,2794,5,No,2,1,No,0.26435217,26.4,🟢 Low,< $3K
+556,Research & Development,Laboratory Technician,38,Male,1702,1,Yes,4,3,No,0.26039883,26.0,🟢 Low,< $3K
+1987,Human Resources,Human Resources,25,Female,2187,2,No,2,3,No,0.25500712,25.5,🟢 Low,< $3K
+437,Sales,Sales Executive,27,Male,4478,5,Yes,3,3,No,0.25437206,25.4,🟢 Low,$3K-$6K
+1641,Research & Development,Manufacturing Director,40,Female,7945,4,Yes,4,2,No,0.25309065,25.3,🟢 Low,$6K-$10K
+1667,Sales,Sales Executive,35,Male,4581,11,Yes,4,4,Yes,0.2524496,25.2,🟢 Low,$3K-$6K
+1017,Research & Development,Laboratory Technician,30,Female,2422,3,No,2,3,Yes,0.2522231,25.2,🟢 Low,< $3K
+602,Research & Development,Laboratory Technician,39,Female,3755,8,No,3,3,No,0.25214124,25.2,🟢 Low,$3K-$6K
+854,Research & Development,Research Scientist,25,Male,3424,4,No,1,2,No,0.2521099,25.2,🟢 Low,$3K-$6K
+379,Research & Development,Research Scientist,21,Male,3230,3,No,3,4,No,0.25180545,25.2,🟢 Low,$3K-$6K
+1753,Research & Development,Healthcare Representative,29,Male,6294,3,Yes,3,4,No,0.25099483,25.1,🟢 Low,$6K-$10K
+1001,Research & Development,Laboratory Technician,27,Female,2811,2,No,2,3,No,0.25094157,25.1,🟢 Low,< $3K
+933,Research & Development,Research Scientist,27,Female,2318,1,No,3,3,No,0.24871135,24.9,🟢 Low,< $3K
+1296,Research & Development,Laboratory Technician,28,Male,3867,2,Yes,4,3,No,0.2477354,24.8,🟢 Low,$3K-$6K
+1502,Research & Development,Laboratory Technician,33,Female,3838,5,No,2,3,No,0.24679118,24.7,🟢 Low,$3K-$6K
+1787,Sales,Sales Executive,37,Male,4189,5,No,2,3,No,0.2462028,24.6,🟢 Low,$3K-$6K
+72,Sales,Sales Executive,26,Female,4157,2,Yes,4,2,No,0.24191935,24.2,🟢 Low,$3K-$6K
+732,Sales,Sales Executive,60,Male,5405,2,No,1,3,No,0.24068274,24.1,🟢 Low,$3K-$6K
+1324,Sales,Sales Executive,31,Female,9852,10,Yes,3,2,No,0.23935162,23.9,🟢 Low,$6K-$10K
+1258,Research & Development,Laboratory Technician,48,Male,2559,1,No,2,2,No,0.237125,23.7,🟢 Low,< $3K
+1558,Research & Development,Research Scientist,29,Male,2451,1,No,3,2,No,0.23362744,23.4,🟢 Low,< $3K
+1350,Research & Development,Research Scientist,35,Male,4249,9,Yes,3,3,No,0.23305245,23.3,🟢 Low,$3K-$6K
+30,Research & Development,Research Scientist,21,Male,1232,0,No,4,3,No,0.23201226,23.2,🟢 Low,< $3K
+1164,Human Resources,Human Resources,35,Male,4323,5,No,3,1,No,0.23190744,23.2,🟢 Low,$3K-$6K
+1577,Research & Development,Research Scientist,34,Male,2972,1,No,4,1,No,0.23184237,23.2,🟢 Low,< $3K
+2053,Research & Development,Laboratory Technician,29,Male,4025,4,Yes,2,3,No,0.2286989,22.9,🟢 Low,$3K-$6K
+1657,Sales,Sales Representative,20,Female,2783,2,No,3,3,No,0.22572318,22.6,🟢 Low,< $3K
+2027,Research & Development,Research Scientist,29,Male,4787,2,Yes,4,4,Yes,0.22523077,22.5,🟢 Low,$3K-$6K
+1691,Sales,Sales Representative,48,Female,2655,9,Yes,3,3,Yes,0.22328097,22.3,🟢 Low,< $3K
+1070,Sales,Sales Executive,54,Female,10686,9,No,3,3,No,0.22327481,22.3,🟢 Low,> $10K
+792,Research & Development,Laboratory Technician,26,Female,4364,2,No,4,3,No,0.22301401,22.3,🟢 Low,$3K-$6K
+1210,Research & Development,Research Scientist,41,Male,2107,1,No,1,1,Yes,0.22258653,22.3,🟢 Low,< $3K
+75,Research & Development,Laboratory Technician,35,Female,4014,2,Yes,1,3,No,0.22140774,22.1,🟢 Low,$3K-$6K
+1049,Human Resources,Human Resources,45,Male,2177,6,No,2,3,No,0.21979141,22.0,🟢 Low,< $3K
+277,Research & Development,Research Scientist,34,Male,3815,5,Yes,3,4,No,0.21963309,22.0,🟢 Low,$3K-$6K
+2018,Sales,Sales Executive,25,Female,4907,5,Yes,3,2,No,0.2164147,21.6,🟢 Low,$3K-$6K
+511,Research & Development,Research Scientist,22,Female,2244,2,No,2,3,No,0.21633697,21.6,🟢 Low,< $3K
+1853,Sales,Sales Executive,32,Male,4648,0,No,4,4,No,0.21578206,21.6,🟢 Low,$3K-$6K
+1409,Research & Development,Laboratory Technician,52,Female,2950,5,No,1,1,No,0.21573211,21.6,🟢 Low,< $3K
+682,Sales,Sales Executive,53,Female,8381,14,No,1,4,No,0.21415685,21.4,🟢 Low,$6K-$10K
+2046,Sales,Sales Executive,45,Female,4850,5,No,3,3,No,0.2110846,21.1,🟢 Low,$3K-$6K
+1387,Sales,Sales Executive,28,Male,4724,5,No,1,3,No,0.21097624,21.1,🟢 Low,$3K-$6K
+1242,Research & Development,Research Director,42,Female,13191,1,Yes,1,3,No,0.21041577,21.0,🟢 Low,> $10K
+1724,Research & Development,Manufacturing Director,40,Female,6516,1,Yes,1,3,No,0.20846222,20.8,🟢 Low,$6K-$10K
+1506,Research & Development,Research Scientist,28,Male,1563,1,No,3,1,No,0.20771693,20.8,🟢 Low,< $3K
+1998,Research & Development,Research Scientist,42,Male,5410,4,Yes,1,2,No,0.20723303,20.7,🟢 Low,$3K-$6K
+1131,Research & Development,Research Scientist,21,Female,2070,2,Yes,2,4,No,0.2071946,20.7,🟢 Low,< $3K
+95,Research & Development,Research Scientist,31,Male,2501,1,No,2,3,No,0.20675936,20.7,🟢 Low,< $3K
+1617,Research & Development,Laboratory Technician,49,Female,3211,9,No,1,2,No,0.20487338,20.5,🟢 Low,$3K-$6K
+2056,Sales,Sales Executive,39,Female,12031,20,No,4,2,No,0.20359346,20.4,🟢 Low,> $10K
+904,Sales,Sales Executive,37,Male,7642,10,Yes,2,3,No,0.20246227,20.2,🟢 Low,$6K-$10K
+2020,Research & Development,Research Scientist,44,Male,2436,4,Yes,4,3,No,0.20228316,20.2,🟢 Low,< $3K
+1611,Research & Development,Laboratory Technician,45,Female,5769,10,Yes,1,3,No,0.20194769,20.2,🟢 Low,$3K-$6K
+936,Sales,Sales Executive,42,Female,6244,5,No,3,3,No,0.2015139,20.2,🟢 Low,$6K-$10K
+1883,Research & Development,Laboratory Technician,29,Male,2062,3,No,1,3,No,0.199834,20.0,🟢 Low,< $3K
+74,Sales,Sales Executive,35,Male,9069,9,No,1,2,No,0.19875869,19.9,🟢 Low,$6K-$10K
+1881,Research & Development,Laboratory Technician,31,Male,4197,10,No,3,3,No,0.19870798,19.9,🟢 Low,$3K-$6K
+448,Research & Development,Laboratory Technician,43,Female,5257,9,No,3,4,No,0.19769143,19.8,🟢 Low,$3K-$6K
+1254,Sales,Sales Executive,59,Female,5171,6,No,4,3,No,0.19545212,19.5,🟢 Low,$3K-$6K
+1725,Research & Development,Laboratory Technician,24,Male,3907,6,No,1,4,No,0.1941756,19.4,🟢 Low,$3K-$6K
+1226,Sales,Sales Representative,20,Male,2678,2,No,4,3,No,0.19318123,19.3,🟢 Low,< $3K
+1836,Sales,Sales Executive,26,Male,4684,5,No,4,3,No,0.1928967,19.3,🟢 Low,$3K-$6K
+1477,Sales,Sales Executive,33,Male,4373,4,No,1,3,No,0.19268012,19.3,🟢 Low,$3K-$6K
+1292,Research & Development,Research Scientist,42,Female,2372,1,Yes,2,3,No,0.19221899,19.2,🟢 Low,< $3K
+680,Research & Development,Research Scientist,30,Female,2083,1,No,3,3,No,0.19162914,19.2,🟢 Low,< $3K
+493,Research & Development,Research Scientist,31,Male,2657,2,Yes,2,3,No,0.1887031,18.9,🟢 Low,< $3K
+1614,Research & Development,Manufacturing Director,36,Female,4663,3,Yes,3,3,No,0.18834475,18.8,🟢 Low,$3K-$6K
+1019,Research & Development,Laboratory Technician,22,Male,2451,4,No,1,2,No,0.18620862,18.6,🟢 Low,< $3K
+1012,Research & Development,Research Scientist,18,Male,1051,0,No,4,3,No,0.18502656,18.5,🟢 Low,< $3K
+1654,Research & Development,Manufacturing Director,39,Male,5295,5,No,2,3,No,0.18484183,18.5,🟢 Low,$3K-$6K
+1647,Research & Development,Research Scientist,27,Female,3517,3,No,3,3,No,0.18390779,18.4,🟢 Low,$3K-$6K
+1154,Research & Development,Research Scientist,28,Male,2703,3,Yes,3,3,No,0.18375684,18.4,🟢 Low,< $3K
+1801,Sales,Sales Executive,46,Male,7991,2,No,2,3,No,0.18351349,18.4,🟢 Low,$6K-$10K
+155,Research & Development,Laboratory Technician,36,Female,2835,1,No,4,3,No,0.18323407,18.3,🟢 Low,< $3K
+1158,Research & Development,Laboratory Technician,41,Male,4766,1,Yes,4,3,No,0.18237886,18.2,🟢 Low,$3K-$6K
+1585,Sales,Sales Executive,36,Female,6815,1,No,3,3,No,0.18222773,18.2,🟢 Low,$6K-$10K
+1135,Sales,Sales Representative,31,Male,2791,2,No,4,3,No,0.18180479,18.2,🟢 Low,< $3K
+233,Research & Development,Research Scientist,27,Male,3058,5,Yes,2,2,No,0.18143454,18.1,🟢 Low,$3K-$6K
+956,Sales,Sales Executive,26,Male,4294,7,No,1,3,No,0.1791911,17.9,🟢 Low,$3K-$6K
+62,Sales,Sales Executive,46,Male,5772,9,Yes,4,3,No,0.17870077,17.9,🟢 Low,$3K-$6K
+977,Research & Development,Research Scientist,58,Male,2479,1,No,3,3,Yes,0.17846845,17.8,🟢 Low,< $3K
+334,Research & Development,Research Scientist,41,Male,3072,1,No,1,2,No,0.17816141,17.8,🟢 Low,$3K-$6K
+834,Research & Development,Research Scientist,45,Female,2274,1,No,3,3,No,0.17703193,17.7,🟢 Low,< $3K
+1515,Research & Development,Healthcare Representative,33,Male,6388,0,Yes,3,3,No,0.17630829,17.6,🟢 Low,$6K-$10K
+1303,Research & Development,Research Scientist,25,Female,2096,2,No,2,2,No,0.17567463,17.6,🟢 Low,< $3K
+624,Research & Development,Healthcare Representative,46,Female,10527,2,No,3,2,No,0.17397664,17.4,🟢 Low,> $10K
+1856,Research & Development,Laboratory Technician,47,Female,2105,2,No,3,3,No,0.17335904,17.3,🟢 Low,< $3K
+1556,Sales,Sales Representative,36,Male,2644,3,Yes,4,2,No,0.17311695,17.3,🟢 Low,< $3K
+120,Sales,Sales Executive,51,Male,5441,10,Yes,4,1,No,0.17196299,17.2,🟢 Low,$3K-$6K
+686,Research & Development,Laboratory Technician,26,Female,2659,3,Yes,4,3,No,0.17139901,17.1,🟢 Low,< $3K
+783,Sales,Sales Representative,45,Male,6632,8,No,3,3,No,0.17090568,17.1,🟢 Low,$6K-$10K
+1735,Research & Development,Laboratory Technician,23,Female,3295,3,No,2,1,No,0.17016394,17.0,🟢 Low,$3K-$6K
+240,Sales,Sales Executive,45,Female,5006,5,Yes,1,4,No,0.17012735,17.0,🟢 Low,$3K-$6K
+1434,Research & Development,Laboratory Technician,27,Male,2099,5,No,1,4,No,0.16934794,16.9,🟢 Low,< $3K
+1746,Human Resources,Human Resources,24,Male,2145,2,No,4,3,No,0.16890714,16.9,🟢 Low,< $3K
+214,Research & Development,Research Scientist,58,Female,3346,1,Yes,2,2,No,0.16878554,16.9,🟢 Low,$3K-$6K
+470,Human Resources,Human Resources,42,Male,2696,3,Yes,3,3,No,0.16854246,16.9,🟢 Low,< $3K
+1105,Sales,Sales Executive,37,Female,6694,1,Yes,4,3,No,0.16848725,16.8,🟢 Low,$6K-$10K
+466,Research & Development,Manufacturing Director,41,Male,6032,5,Yes,2,3,No,0.16744685,16.7,🟢 Low,$6K-$10K
+2060,Sales,Sales Representative,26,Female,2966,4,No,3,3,No,0.16648646,16.6,🟢 Low,< $3K
+862,Sales,Sales Executive,53,Female,10934,5,Yes,4,3,No,0.16612396,16.6,🟢 Low,> $10K
+1190,Sales,Sales Representative,32,Female,2827,1,No,1,3,No,0.1653932,16.5,🟢 Low,< $3K
+1956,Research & Development,Research Scientist,31,Male,5003,10,No,1,3,No,0.16526745,16.5,🟢 Low,$3K-$6K
+1503,Sales,Sales Executive,47,Female,4591,5,Yes,3,2,No,0.16363645,16.4,🟢 Low,$3K-$6K
+475,Sales,Sales Executive,30,Female,4736,2,Yes,3,4,No,0.16193634,16.2,🟢 Low,$3K-$6K
+1622,Research & Development,Manufacturing Director,28,Female,4877,5,No,1,2,No,0.16165672,16.2,🟢 Low,$3K-$6K
+812,Research & Development,Laboratory Technician,24,Male,2694,1,No,2,3,No,0.16127,16.1,🟢 Low,< $3K
+1481,Sales,Sales Executive,44,Female,4768,1,No,3,2,No,0.16118631,16.1,🟢 Low,$3K-$6K
+1633,Research & Development,Manufacturing Director,39,Female,5042,9,No,3,1,No,0.1611699,16.1,🟢 Low,$3K-$6K
+605,Research & Development,Manufacturing Director,42,Male,7406,10,Yes,1,2,No,0.160435,16.0,🟢 Low,$6K-$10K
+2045,Sales,Sales Executive,36,Female,6652,6,No,4,2,No,0.15968849,16.0,🟢 Low,$6K-$10K
+975,Sales,Sales Executive,35,Female,4601,5,No,3,3,No,0.15872388,15.9,🟢 Low,$3K-$6K
+1265,Research & Development,Research Scientist,34,Female,2585,1,No,3,2,No,0.15813771,15.8,🟢 Low,< $3K
+31,Research & Development,Research Scientist,34,Male,2960,4,No,1,3,Yes,0.15707949,15.7,🟢 Low,< $3K
+1368,Research & Development,Laboratory Technician,18,Female,1611,0,No,4,4,No,0.15585582,15.6,🟢 Low,< $3K
+49,Sales,Sales Representative,35,Female,2014,2,No,4,3,No,0.1557964,15.6,🟢 Low,< $3K
+1321,Research & Development,Manager,30,Female,11916,9,Yes,1,3,No,0.1557123,15.6,🟢 Low,> $10K
+879,Sales,Sales Executive,25,Male,4194,5,Yes,1,3,No,0.15561022,15.6,🟢 Low,$3K-$6K
+463,Sales,Sales Executive,29,Female,8268,7,Yes,2,3,No,0.15540977,15.5,🟢 Low,$6K-$10K
+481,Sales,Sales Executive,36,Male,9699,13,No,4,3,No,0.15496121,15.5,🟢 Low,$6K-$10K
+780,Research & Development,Research Scientist,33,Male,2686,10,Yes,4,2,Yes,0.15445535,15.4,🟢 Low,< $3K
+274,Research & Development,Manufacturing Director,27,Male,4298,2,No,1,3,No,0.1543777,15.4,🟢 Low,$3K-$6K
+547,Research & Development,Research Scientist,42,Female,4556,5,No,3,3,No,0.15402094,15.4,🟢 Low,$3K-$6K
+39,Research & Development,Laboratory Technician,33,Male,2496,1,No,4,3,No,0.15347362,15.3,🟢 Low,< $3K
+1587,Research & Development,Healthcare Representative,35,Female,6142,5,Yes,3,3,No,0.15056807,15.1,🟢 Low,$6K-$10K
+1916,Research & Development,Laboratory Technician,31,Female,3978,2,No,3,2,No,0.15043494,15.0,🟢 Low,$3K-$6K
+1066,Sales,Sales Executive,40,Male,8396,7,No,1,2,No,0.15006606,15.0,🟢 Low,$6K-$10K
+1543,Research & Development,Research Scientist,37,Male,4285,10,No,4,3,No,0.14971213,15.0,🟢 Low,$3K-$6K
+1179,Sales,Sales Executive,30,Male,6578,10,No,3,3,No,0.14937463,14.9,🟢 Low,$6K-$10K
+1297,Research & Development,Laboratory Technician,51,Female,2838,7,No,3,2,No,0.14931205,14.9,🟢 Low,< $3K
+1136,Research & Development,Research Scientist,28,Male,3201,5,No,2,1,No,0.14883904,14.9,🟢 Low,$3K-$6K
+1371,Sales,Sales Executive,27,Male,5071,6,No,4,3,No,0.14875388,14.9,🟢 Low,$3K-$6K
+2003,Research & Development,Laboratory Technician,35,Male,2660,2,Yes,3,3,No,0.14872485,14.9,🟢 Low,< $3K
+1163,Sales,Sales Executive,34,Female,5714,6,No,3,2,No,0.14842272,14.8,🟢 Low,$3K-$6K
+207,Sales,Sales Executive,32,Female,8998,9,No,4,3,No,0.14804468,14.8,🟢 Low,$6K-$10K
+1949,Research & Development,Laboratory Technician,36,Male,2810,5,No,2,3,No,0.14566219,14.6,🟢 Low,< $3K
+1415,Research & Development,Laboratory Technician,25,Male,3229,3,No,4,2,No,0.14483714,14.5,🟢 Low,$3K-$6K
+1082,Research & Development,Healthcare Representative,28,Male,8722,10,No,1,2,Yes,0.14456655,14.5,🟢 Low,$6K-$10K
+1073,Research & Development,Manufacturing Director,36,Female,8858,14,No,4,2,No,0.1442022,14.4,🟢 Low,$6K-$10K
+1436,Sales,Sales Executive,36,Female,5647,3,No,1,2,No,0.14377679,14.4,🟢 Low,$3K-$6K
+1875,Sales,Sales Representative,28,Female,2856,1,No,2,3,No,0.1436491,14.4,🟢 Low,< $3K
+758,Research & Development,Laboratory Technician,23,Male,2500,4,No,1,4,No,0.14361987,14.4,🟢 Low,< $3K
+2009,Research & Development,Healthcare Representative,33,Female,4878,9,Yes,4,3,No,0.14108823,14.1,🟢 Low,$3K-$6K
+1046,Research & Development,Laboratory Technician,32,Female,4025,8,No,3,3,No,0.13994828,14.0,🟢 Low,$3K-$6K
+1171,Sales,Sales Executive,42,Male,5155,6,No,1,4,No,0.13954945,14.0,🟢 Low,$3K-$6K
+837,Research & Development,Healthcare Representative,38,Male,6288,4,No,1,2,No,0.13888411,13.9,🟢 Low,$6K-$10K
+1678,Sales,Sales Executive,41,Male,7082,2,Yes,3,3,No,0.13884598,13.9,🟢 Low,$6K-$10K
+1224,Research & Development,Laboratory Technician,30,Male,3491,10,No,3,2,No,0.13834283,13.8,🟢 Low,$3K-$6K
+382,Sales,Sales Executive,38,Female,5605,8,Yes,1,3,No,0.13725859,13.7,🟢 Low,$3K-$6K
+874,Research & Development,Laboratory Technician,44,Male,2818,3,Yes,4,2,No,0.1368248,13.7,🟢 Low,< $3K
+1425,Sales,Sales Executive,36,Female,9278,5,Yes,2,3,No,0.13652964,13.7,🟢 Low,$6K-$10K
+1102,Research & Development,Laboratory Technician,28,Male,2207,4,No,3,2,No,0.13630469,13.6,🟢 Low,< $3K
+1980,Research & Development,Manufacturing Director,54,Female,4440,5,Yes,1,3,No,0.13567592,13.6,🟢 Low,$3K-$6K
+1453,Sales,Sales Executive,31,Male,10793,13,No,4,3,No,0.13540715,13.5,🟢 Low,> $10K
+1586,Research & Development,Laboratory Technician,29,Male,4723,10,Yes,1,3,No,0.13538328,13.5,🟢 Low,$3K-$6K
+103,Human Resources,Human Resources,46,Male,5021,4,Yes,2,3,No,0.13525318,13.5,🟢 Low,$3K-$6K
+1535,Sales,Sales Executive,34,Male,7083,10,Yes,3,3,No,0.1351494,13.5,🟢 Low,$6K-$10K
+1718,Research & Development,Laboratory Technician,26,Male,2305,3,No,3,4,No,0.1350305,13.5,🟢 Low,< $3K
+656,Sales,Sales Executive,37,Male,9602,3,Yes,3,2,No,0.13496244,13.5,🟢 Low,$6K-$10K
+2040,Human Resources,Human Resources,35,Female,8837,9,Yes,4,3,No,0.13461368,13.5,🟢 Low,$6K-$10K
+1403,Sales,Sales Executive,27,Female,5769,6,Yes,4,3,No,0.13438328,13.4,🟢 Low,$3K-$6K
+269,Research & Development,Laboratory Technician,35,Female,4425,6,No,2,3,No,0.13370681,13.4,🟢 Low,$3K-$6K
+592,Sales,Sales Executive,36,Male,9980,10,No,4,2,No,0.13363633,13.4,🟢 Low,$6K-$10K
+1125,Sales,Sales Executive,38,Male,7351,1,No,2,3,No,0.13351394,13.4,🟢 Low,$6K-$10K
+1739,Sales,Sales Executive,32,Male,9610,4,No,3,1,No,0.13307093,13.3,🟢 Low,$6K-$10K
+752,Research & Development,Research Scientist,42,Male,2759,2,Yes,3,3,Yes,0.1327961,13.3,🟢 Low,< $3K
+549,Research & Development,Manager,60,Female,19566,29,No,1,1,No,0.13184799,13.2,🟢 Low,> $10K
+903,Sales,Sales Executive,47,Female,4537,7,Yes,4,3,No,0.13130476,13.1,🟢 Low,$3K-$6K
+1766,Research & Development,Healthcare Representative,38,Male,5811,1,Yes,4,3,No,0.12972644,13.0,🟢 Low,$3K-$6K
+1377,Research & Development,Laboratory Technician,34,Male,5429,8,No,3,3,No,0.12921554,12.9,🟢 Low,$3K-$6K
+899,Research & Development,Manufacturing Director,35,Male,10903,13,No,2,3,No,0.12886325,12.9,🟢 Low,> $10K
+789,Sales,Sales Executive,36,Male,7587,10,No,1,3,No,0.12792657,12.8,🟢 Low,$6K-$10K
+230,Sales,Sales Executive,38,Female,8686,8,No,4,4,No,0.12764369,12.8,🟢 Low,$6K-$10K
+1399,Sales,Sales Executive,25,Male,6232,3,No,3,2,No,0.12668939,12.7,🟢 Low,$6K-$10K
+1395,Sales,Sales Executive,33,Male,9998,5,No,4,4,No,0.12660809,12.7,🟢 Low,$6K-$10K
+1402,Research & Development,Research Scientist,43,Female,4081,20,Yes,3,1,No,0.12611216,12.6,🟢 Low,$3K-$6K
+1997,Research & Development,Manufacturing Director,38,Male,5321,8,No,3,3,No,0.1253417,12.5,🟢 Low,$3K-$6K
+1148,Research & Development,Laboratory Technician,42,Male,4272,1,No,4,3,No,0.12516484,12.5,🟢 Low,$3K-$6K
+1619,Research & Development,Laboratory Technician,27,Male,4066,7,No,1,3,No,0.12507507,12.5,🟢 Low,$3K-$6K
+632,Sales,Sales Representative,24,Male,2400,2,No,4,3,No,0.1248542,12.5,🟢 Low,< $3K
+738,Sales,Sales Representative,50,Male,3875,2,No,2,3,No,0.12458265,12.5,🟢 Low,$3K-$6K
+1389,Research & Development,Manufacturing Director,31,Male,6179,10,Yes,3,2,Yes,0.12449881,12.4,🟢 Low,$6K-$10K
+1202,Research & Development,Research Scientist,29,Female,2168,5,Yes,4,2,No,0.123657085,12.4,🟢 Low,< $3K
+70,Research & Development,Healthcare Representative,35,Male,9884,4,Yes,1,3,No,0.1227022,12.3,🟢 Low,$6K-$10K
+1507,Sales,Sales Executive,28,Male,4898,4,No,1,3,No,0.12220633,12.2,🟢 Low,$3K-$6K
+446,Sales,Sales Executive,33,Male,4682,7,No,4,2,No,0.12130697,12.1,🟢 Low,$3K-$6K
+764,Research & Development,Healthcare Representative,27,Female,6811,7,No,1,1,No,0.12123922,12.1,🟢 Low,$6K-$10K
+16,Research & Development,Research Scientist,31,Male,2911,5,No,3,2,No,0.12093616,12.1,🟢 Low,< $3K
+689,Research & Development,Manufacturing Director,37,Male,9434,10,No,3,3,No,0.1199917,12.0,🟢 Low,$6K-$10K
+1779,Sales,Sales Executive,34,Female,6029,2,No,4,3,No,0.11987381,12.0,🟢 Low,$6K-$10K
+134,Research & Development,Research Scientist,32,Male,2956,1,No,1,3,No,0.119447134,11.9,🟢 Low,< $3K
+1307,Research & Development,Manager,39,Female,17123,19,Yes,2,3,No,0.11932149,11.9,🟢 Low,> $10K
+784,Research & Development,Research Scientist,23,Male,3505,2,No,3,3,No,0.11910891,11.9,🟢 Low,$3K-$6K
+1694,Research & Development,Research Scientist,55,Male,3537,4,No,2,3,No,0.11837808,11.8,🟢 Low,$3K-$6K
+662,Research & Development,Research Scientist,38,Female,2619,0,No,1,2,No,0.118365385,11.8,🟢 Low,< $3K
+1364,Sales,Sales Representative,27,Female,2534,1,No,4,3,No,0.117793225,11.8,🟢 Low,< $3K
+10,Research & Development,Laboratory Technician,59,Female,2670,1,Yes,1,2,No,0.11657383,11.7,🟢 Low,< $3K
+604,Sales,Sales Executive,31,Male,6582,6,Yes,4,4,No,0.11641002,11.6,🟢 Low,$6K-$10K
+728,Sales,Sales Executive,47,Male,4960,7,No,1,3,No,0.11573676,11.6,🟢 Low,$3K-$6K
+1180,Research & Development,Research Scientist,40,Female,4422,1,Yes,4,1,No,0.115725994,11.6,🟢 Low,$3K-$6K
+1529,Research & Development,Healthcare Representative,35,Female,8606,11,No,2,1,No,0.11561103,11.6,🟢 Low,$6K-$10K
+1539,Research & Development,Research Director,50,Male,14411,32,Yes,4,3,No,0.1151837,11.5,🟢 Low,> $10K
+799,Research & Development,Manufacturing Director,54,Female,5485,5,Yes,1,3,No,0.11414076,11.4,🟢 Low,$3K-$6K
+35,Sales,Sales Executive,42,Male,6825,9,No,2,3,No,0.11348873,11.3,🟢 Low,$6K-$10K
+1043,Research & Development,Manufacturing Director,39,Female,10880,21,Yes,1,3,No,0.11267799,11.3,🟢 Low,> $10K
+498,Sales,Sales Executive,28,Male,5253,7,No,4,3,No,0.11251146,11.3,🟢 Low,$3K-$6K
+641,Sales,Sales Executive,26,Male,6272,5,No,2,4,No,0.11231077,11.2,🟢 Low,$6K-$10K
+1924,Sales,Sales Executive,33,Male,5487,10,No,3,2,No,0.11230061,11.2,🟢 Low,$3K-$6K
+1885,Research & Development,Research Scientist,37,Male,4284,5,Yes,1,3,No,0.11225801,11.2,🟢 Low,$3K-$6K
+110,Research & Development,Manufacturing Director,34,Male,4325,5,No,2,3,No,0.112129666,11.2,🟢 Low,$3K-$6K
+1833,Sales,Sales Executive,31,Female,9637,3,No,1,3,No,0.11139702,11.1,🟢 Low,$6K-$10K
+1356,Sales,Sales Executive,34,Female,6125,10,No,1,4,No,0.111323565,11.1,🟢 Low,$6K-$10K
+286,Research & Development,Laboratory Technician,36,Female,2153,8,No,4,3,No,0.11108237,11.1,🟢 Low,< $3K
+1113,Sales,Sales Executive,50,Male,4728,0,Yes,3,3,Yes,0.11089339,11.1,🟢 Low,$3K-$6K
+772,Research & Development,Laboratory Technician,32,Male,5309,10,No,4,3,No,0.110881425,11.1,🟢 Low,$3K-$6K
+281,Research & Development,Laboratory Technician,40,Male,2741,7,Yes,4,4,No,0.11059576,11.1,🟢 Low,< $3K
+1533,Research & Development,Laboratory Technician,23,Male,2272,4,No,3,3,No,0.110450774,11.0,🟢 Low,< $3K
+1710,Sales,Sales Representative,36,Female,4502,13,No,4,2,No,0.11020908,11.0,🟢 Low,$3K-$6K
+916,Sales,Sales Executive,28,Male,4908,4,No,4,3,No,0.10934927,10.9,🟢 Low,$3K-$6K
+1682,Research & Development,Healthcare Representative,36,Male,5347,3,No,3,2,No,0.10921497,10.9,🟢 Low,$3K-$6K
+2068,Research & Development,Laboratory Technician,34,Male,4404,4,No,3,4,No,0.10910825,10.9,🟢 Low,$3K-$6K
+1081,Research & Development,Research Scientist,51,Male,2461,10,Yes,3,4,Yes,0.10903578,10.9,🟢 Low,< $3K
+1251,Research & Development,Healthcare Representative,31,Male,6833,6,Yes,1,2,No,0.108778216,10.9,🟢 Low,$6K-$10K
+912,Research & Development,Laboratory Technician,29,Female,2532,4,No,4,3,No,0.108547084,10.9,🟢 Low,< $3K
+1704,Research & Development,Research Scientist,35,Male,4930,5,Yes,4,4,No,0.10818921,10.8,🟢 Low,$3K-$6K
+351,Research & Development,Laboratory Technician,42,Female,2593,9,Yes,1,3,No,0.108007476,10.8,🟢 Low,< $3K
+1239,Sales,Sales Executive,40,Female,6852,5,No,2,4,No,0.10797341,10.8,🟢 Low,$6K-$10K
+1301,Research & Development,Research Scientist,28,Male,2080,3,No,1,2,No,0.10790213,10.8,🟢 Low,< $3K
+1850,Research & Development,Laboratory Technician,27,Female,2379,5,Yes,4,2,No,0.10731636,10.7,🟢 Low,< $3K
+525,Research & Development,Laboratory Technician,43,Male,2258,3,No,4,3,No,0.10708258,10.7,🟢 Low,< $3K
+679,Research & Development,Research Scientist,32,Female,6322,6,Yes,4,2,No,0.107009865,10.7,🟢 Low,$6K-$10K
+1932,Research & Development,Research Scientist,34,Male,5747,15,Yes,4,3,No,0.10667545,10.7,🟢 Low,$3K-$6K
+518,Research & Development,Manufacturing Director,37,Male,4197,1,Yes,2,2,No,0.10644053,10.6,🟢 Low,$3K-$6K
+532,Sales,Sales Executive,56,Female,13212,7,No,1,2,No,0.10631243,10.6,🟢 Low,> $10K
+805,Sales,Sales Representative,35,Female,2572,3,No,4,2,No,0.10627225,10.6,🟢 Low,< $3K
+1298,Research & Development,Manufacturing Director,30,Female,4695,8,Yes,3,3,No,0.105197944,10.5,🟢 Low,$3K-$6K
+366,Sales,Sales Executive,29,Male,6644,0,No,2,3,No,0.10514529,10.5,🟢 Low,$6K-$10K
+1975,Sales,Sales Executive,39,Male,13341,20,No,1,3,No,0.10443644,10.4,🟢 Low,> $10K
+1563,Human Resources,Human Resources,38,Male,6077,6,No,3,3,No,0.104134895,10.4,🟢 Low,$6K-$10K
+1683,Human Resources,Human Resources,44,Female,3195,2,Yes,4,3,No,0.10369346,10.4,🟢 Low,$3K-$6K
+803,Research & Development,Manufacturing Director,38,Female,5980,15,Yes,1,3,No,0.10355738,10.4,🟢 Low,$3K-$6K
+1195,Research & Development,Research Scientist,45,Female,4477,3,Yes,3,2,No,0.1034909,10.3,🟢 Low,$3K-$6K
+1945,Sales,Sales Executive,35,Male,5561,5,No,1,1,No,0.10340219,10.3,🟢 Low,$3K-$6K
+396,Research & Development,Research Director,49,Female,18665,3,Yes,1,3,No,0.10309597,10.3,🟢 Low,> $10K
+436,Sales,Sales Executive,32,Female,5228,13,Yes,2,3,No,0.10305442,10.3,🟢 Low,$3K-$6K
+878,Human Resources,Human Resources,36,Male,2342,5,No,1,3,No,0.102770865,10.3,🟢 Low,< $3K
+1475,Research & Development,Research Scientist,44,Male,3420,5,No,2,2,No,0.10240151,10.2,🟢 Low,$3K-$6K
+699,Research & Development,Manufacturing Director,36,Male,8847,3,Yes,2,3,No,0.10214916,10.2,🟢 Low,$6K-$10K
+800,Sales,Sales Executive,27,Male,4342,4,No,4,3,No,0.10214532,10.2,🟢 Low,$3K-$6K
+194,Research & Development,Research Scientist,30,Female,2632,5,No,3,2,No,0.10147298,10.1,🟢 Low,< $3K
+85,Research & Development,Manufacturing Director,36,Male,6499,6,No,2,3,No,0.10134599,10.1,🟢 Low,$6K-$10K
+1548,Sales,Sales Executive,40,Male,5473,8,No,1,4,No,0.10116935,10.1,🟢 Low,$3K-$6K
+1138,Sales,Sales Executive,49,Male,13120,9,No,2,3,No,0.10094351,10.1,🟢 Low,> $10K
+1445,Sales,Sales Executive,24,Female,4162,5,Yes,3,3,No,0.1005718,10.1,🟢 Low,$3K-$6K
+802,Research & Development,Research Scientist,37,Female,2782,5,Yes,1,2,No,0.100536615,10.1,🟢 Low,< $3K
+864,Sales,Sales Executive,45,Male,10761,5,Yes,1,3,No,0.100376,10.0,🟢 Low,> $10K
+1119,Sales,Sales Executive,38,Male,8740,8,Yes,3,3,No,0.09946536,9.9,🟢 Low,$6K-$10K
+159,Research & Development,Research Scientist,30,Male,2613,10,No,3,2,No,0.09939571,9.9,🟢 Low,< $3K
+1513,Research & Development,Laboratory Technician,29,Female,3180,3,No,2,3,No,0.09920862,9.9,🟢 Low,$3K-$6K
+1760,Research & Development,Laboratory Technician,38,Female,2468,6,No,2,2,No,0.09905424,9.9,🟢 Low,< $3K
+91,Sales,Sales Executive,59,Female,5473,4,No,3,2,No,0.099027745,9.9,🟢 Low,$3K-$6K
+941,Sales,Sales Representative,31,Male,2329,7,No,3,4,No,0.09881965,9.9,🟢 Low,< $3K
+1118,Research & Development,Healthcare Representative,52,Male,10445,8,No,2,3,No,0.098656945,9.9,🟢 Low,> $10K
+363,Sales,Manager,46,Female,16872,7,Yes,2,2,No,0.09862466,9.9,🟢 Low,> $10K
+889,Sales,Sales Executive,32,Male,6524,10,No,2,3,No,0.09858333,9.9,🟢 Low,$6K-$10K
+1594,Research & Development,Laboratory Technician,36,Male,5562,3,Yes,1,3,No,0.0983848,9.8,🟢 Low,$3K-$6K
+260,Research & Development,Research Scientist,27,Female,2279,7,No,2,2,No,0.09837287,9.8,🟢 Low,< $3K
+930,Research & Development,Research Scientist,28,Female,2377,2,No,3,3,No,0.09829267,9.8,🟢 Low,< $3K
+577,Research & Development,Laboratory Technician,35,Male,4230,5,No,3,3,No,0.09804168,9.8,🟢 Low,$3K-$6K
+79,Research & Development,Laboratory Technician,38,Female,2406,10,No,4,3,No,0.09801506,9.8,🟢 Low,< $3K
+704,Research & Development,Laboratory Technician,35,Male,1281,1,No,3,3,No,0.09783995,9.8,🟢 Low,< $3K
+585,Sales,Sales Representative,30,Male,2983,3,No,2,3,No,0.09766204,9.8,🟢 Low,< $3K
+2031,Research & Development,Manager,42,Male,18880,22,No,3,2,No,0.097633444,9.8,🟢 Low,> $10K
+1583,Sales,Sales Executive,38,Female,4198,3,No,2,4,No,0.09733785,9.7,🟢 Low,$3K-$6K
+1132,Research & Development,Laboratory Technician,39,Male,6782,5,No,2,2,No,0.09701618,9.7,🟢 Low,$6K-$10K
+1768,Research & Development,Laboratory Technician,42,Male,2766,5,No,2,2,No,0.09685158,9.7,🟢 Low,< $3K
+486,Research & Development,Laboratory Technician,37,Female,3452,5,No,1,3,No,0.096464865,9.6,🟢 Low,$3K-$6K
+321,Human Resources,Human Resources,59,Male,2267,2,No,3,2,No,0.09624415,9.6,🟢 Low,< $3K
+407,Research & Development,Laboratory Technician,36,Male,3688,1,No,4,3,No,0.09595388,9.6,🟢 Low,$3K-$6K
+330,Sales,Sales Representative,32,Female,3931,4,No,2,3,No,0.095493786,9.5,🟢 Low,$3K-$6K
+733,Research & Development,Manufacturing Director,27,Male,8793,9,No,1,2,No,0.09501137,9.5,🟢 Low,$6K-$10K
+510,Research & Development,Research Scientist,26,Male,3102,6,No,1,3,Yes,0.09491013,9.5,🟢 Low,$3K-$6K
+331,Research & Development,Laboratory Technician,32,Male,3730,3,Yes,3,1,Yes,0.09429258,9.4,🟢 Low,$3K-$6K
+221,Research & Development,Research Scientist,28,Male,2713,5,No,4,1,No,0.09422187,9.4,🟢 Low,< $3K
+1640,Research & Development,Research Scientist,37,Female,3936,8,No,2,1,No,0.09414315,9.4,🟢 Low,$3K-$6K
+200,Research & Development,Laboratory Technician,41,Male,2238,5,No,1,3,No,0.09390233,9.4,🟢 Low,< $3K
+1813,Research & Development,Research Scientist,43,Male,2438,3,No,3,2,No,0.09389553,9.4,🟢 Low,< $3K
+215,Sales,Sales Executive,40,Male,10855,12,No,4,2,No,0.09379722,9.4,🟢 Low,> $10K
+1281,Sales,Sales Executive,34,Female,4538,3,Yes,1,3,No,0.09372986,9.4,🟢 Low,$3K-$6K
+1674,Research & Development,Laboratory Technician,49,Female,2587,2,Yes,1,2,No,0.09351352,9.4,🟢 Low,< $3K
+497,Research & Development,Laboratory Technician,27,Male,3816,5,No,2,3,No,0.09344664,9.3,🟢 Low,$3K-$6K
+1485,Research & Development,Research Director,34,Male,17007,14,No,1,2,No,0.093064934,9.3,🟢 Low,> $10K
+314,Sales,Sales Executive,35,Female,8789,10,No,3,4,No,0.09286409,9.3,🟢 Low,$6K-$10K
+534,Sales,Sales Executive,41,Male,8392,10,No,1,3,No,0.0924027,9.2,🟢 Low,$6K-$10K
+2041,Sales,Sales Executive,38,Female,5343,10,No,4,3,No,0.09225175,9.2,🟢 Low,$3K-$6K
+1482,Research & Development,Research Scientist,30,Male,1274,1,No,3,2,No,0.09209103,9.2,🟢 Low,< $3K
+1882,Sales,Sales Executive,34,Male,9713,5,Yes,4,3,No,0.09164248,9.2,🟢 Low,$6K-$10K
+1790,Research & Development,Healthcare Representative,36,Male,8321,12,Yes,1,3,No,0.09148086,9.1,🟢 Low,$6K-$10K
+1218,Sales,Sales Executive,35,Male,8966,7,Yes,1,3,No,0.091439486,9.1,🟢 Low,$6K-$10K
+645,Sales,Sales Representative,25,Male,2096,7,No,3,3,No,0.09138824,9.1,🟢 Low,< $3K
+2019,Sales,Sales Representative,52,Male,3482,9,No,4,2,No,0.091196805,9.1,🟢 Low,$3K-$6K
+762,Research & Development,Healthcare Representative,56,Male,11103,10,No,4,2,No,0.09097364,9.1,🟢 Low,> $10K
+573,Sales,Sales Executive,60,Female,10266,18,No,1,4,No,0.09092592,9.1,🟢 Low,> $10K
+1929,Sales,Sales Executive,39,Female,5736,3,No,3,3,No,0.09037832,9.0,🟢 Low,$3K-$6K
+53,Research & Development,Laboratory Technician,35,Male,1951,1,No,4,3,No,0.09033019,9.0,🟢 Low,< $3K
+1557,Sales,Sales Executive,48,Female,6439,8,No,3,3,No,0.09017919,9.0,🟢 Low,$6K-$10K
+1837,Research & Development,Research Director,58,Male,15787,2,Yes,3,3,No,0.089787155,9.0,🟢 Low,> $10K
+1642,Human Resources,Human Resources,44,Male,5743,10,Yes,4,3,No,0.08962827,9.0,🟢 Low,$3K-$6K
+781,Sales,Sales Executive,25,Female,6180,6,No,4,2,No,0.08955182,9.0,🟢 Low,$6K-$10K
+416,Sales,Sales Executive,31,Male,6929,8,No,4,2,No,0.08920973,8.9,🟢 Low,$6K-$10K
+1568,Sales,Sales Executive,30,Male,9250,4,No,2,3,No,0.08883912,8.9,🟢 Low,$6K-$10K
+1609,Research & Development,Research Scientist,30,Male,2141,6,No,2,2,No,0.08879307,8.9,🟢 Low,< $3K
+73,Research & Development,Research Director,33,Female,13458,15,Yes,4,3,No,0.088764004,8.9,🟢 Low,> $10K
+305,Research & Development,Research Scientist,33,Female,2622,3,No,2,3,No,0.08857335,8.9,🟢 Low,< $3K
+1698,Research & Development,Laboratory Technician,33,Male,2028,14,No,2,3,No,0.088474646,8.8,🟢 Low,< $3K
+78,Research & Development,Manufacturing Director,32,Male,6162,9,Yes,4,3,No,0.088433385,8.8,🟢 Low,$6K-$10K
+1011,Research & Development,Manufacturing Director,31,Female,4148,4,No,1,3,No,0.086884834,8.7,🟢 Low,$3K-$6K
+106,Sales,Sales Executive,55,Male,10239,1,No,4,3,No,0.08614586,8.6,🟢 Low,> $10K
+1951,Sales,Sales Executive,34,Male,8628,8,No,3,2,No,0.086051576,8.6,🟢 Low,$6K-$10K
+868,Sales,Sales Executive,37,Male,6334,1,No,3,3,No,0.086042725,8.6,🟢 Low,$6K-$10K
+329,Sales,Manager,52,Male,19068,33,Yes,3,4,No,0.08572357,8.6,🟢 Low,> $10K
+1428,Sales,Sales Executive,30,Female,4779,3,No,1,3,No,0.085419014,8.5,🟢 Low,$3K-$6K
+1591,Sales,Manager,50,Male,19331,1,Yes,3,3,No,0.08516694,8.5,🟢 Low,> $10K
+1220,Sales,Sales Executive,33,Female,4539,10,No,3,2,No,0.085093275,8.5,🟢 Low,$3K-$6K
+1336,Research & Development,Manager,55,Female,19187,19,No,3,3,No,0.084794186,8.5,🟢 Low,> $10K
+246,Research & Development,Research Scientist,31,Female,3929,4,Yes,4,3,No,0.084391356,8.4,🟢 Low,$3K-$6K
+1032,Research & Development,Manufacturing Director,59,Female,13726,5,Yes,4,3,No,0.08419989,8.4,🟢 Low,> $10K
+1936,Research & Development,Manufacturing Director,39,Male,5151,10,No,1,3,No,0.08414321,8.4,🟢 Low,$3K-$6K
+2065,Sales,Sales Executive,49,Male,5390,9,No,2,2,No,0.08412284,8.4,🟢 Low,$3K-$6K
+238,Research & Development,Laboratory Technician,36,Male,2088,8,No,2,2,No,0.08393575,8.4,🟢 Low,< $3K
+442,Research & Development,Manufacturing Director,31,Female,8943,10,No,3,3,No,0.083445586,8.3,🟢 Low,$6K-$10K
+793,Research & Development,Healthcare Representative,29,Female,4335,8,No,3,2,No,0.083264366,8.3,🟢 Low,$3K-$6K
+1576,Research & Development,Research Scientist,48,Female,2367,8,No,1,2,No,0.08290067,8.3,🟢 Low,< $3K
+1211,Sales,Sales Executive,30,Male,4115,4,No,1,3,No,0.082585365,8.3,🟢 Low,$3K-$6K
+1669,Sales,Sales Executive,29,Male,4187,10,Yes,2,2,No,0.08239271,8.2,🟢 Low,$3K-$6K
+484,Sales,Sales Representative,21,Male,2610,3,No,4,2,No,0.082261235,8.2,🟢 Low,< $3K
+852,Research & Development,Healthcare Representative,44,Male,5933,5,No,2,2,No,0.082248434,8.2,🟢 Low,$3K-$6K
+957,Research & Development,Laboratory Technician,41,Male,4721,18,Yes,1,3,No,0.08213107,8.2,🟢 Low,$3K-$6K
+347,Research & Development,Research Scientist,42,Female,6545,3,Yes,1,3,No,0.08211682,8.2,🟢 Low,$6K-$10K
+88,Research & Development,Research Scientist,35,Male,2194,3,No,1,2,No,0.081908114,8.2,🟢 Low,< $3K
+897,Sales,Sales Executive,53,Male,11836,2,No,4,3,No,0.08172793,8.2,🟢 Low,> $10K
+961,Research & Development,Healthcare Representative,31,Female,5855,9,Yes,4,1,No,0.081715494,8.2,🟢 Low,$3K-$6K
+162,Research & Development,Research Director,51,Male,19537,20,No,3,3,No,0.08161356,8.2,🟢 Low,> $10K
+1835,Sales,Sales Representative,38,Female,5405,4,Yes,4,2,No,0.08143092,8.1,🟢 Low,$3K-$6K
+439,Research & Development,Research Scientist,32,Female,5055,7,No,4,2,No,0.08133364,8.1,🟢 Low,$3K-$6K
+747,Sales,Sales Executive,30,Male,5304,8,No,4,2,No,0.08108046,8.1,🟢 Low,$3K-$6K
+1971,Research & Development,Healthcare Representative,43,Male,7510,10,No,3,3,No,0.08077053,8.1,🟢 Low,$6K-$10K
+204,Sales,Sales Executive,35,Male,7295,10,No,2,3,No,0.08064876,8.1,🟢 Low,$6K-$10K
+41,Research & Development,Laboratory Technician,30,Male,2206,10,No,3,3,No,0.08064665,8.1,🟢 Low,< $3K
+412,Research & Development,Healthcare Representative,28,Male,5661,8,No,1,3,No,0.08040477,8.0,🟢 Low,$3K-$6K
+68,Sales,Sales Executive,44,Female,5454,4,Yes,1,2,No,0.08031671,8.0,🟢 Low,$3K-$6K
+616,Research & Development,Healthcare Representative,41,Female,6811,8,Yes,3,3,No,0.07895116,7.9,🟢 Low,$6K-$10K
+1329,Sales,Sales Executive,41,Male,6151,19,No,2,3,No,0.07870615,7.9,🟢 Low,$6K-$10K
+1731,Sales,Sales Executive,47,Male,4978,1,No,2,1,No,0.07863046,7.9,🟢 Low,$3K-$6K
+1283,Research & Development,Manufacturing Director,59,Male,10512,9,No,4,2,No,0.07856419,7.9,🟢 Low,> $10K
+1358,Research & Development,Laboratory Technician,25,Male,3669,3,No,4,2,No,0.07805636,7.8,🟢 Low,$3K-$6K
+657,Research & Development,Research Scientist,20,Female,2836,1,No,2,4,No,0.07800142,7.8,🟢 Low,< $3K
+1435,Research & Development,Laboratory Technician,36,Male,5810,10,No,4,2,No,0.07783497,7.8,🟢 Low,$3K-$6K
+568,Sales,Manager,57,Male,14118,1,No,4,2,No,0.077191405,7.7,🟢 Low,> $10K
+516,Sales,Sales Executive,40,Female,5715,5,No,2,3,No,0.07705065,7.7,🟢 Low,$3K-$6K
+1985,Research & Development,Laboratory Technician,40,Female,6323,10,No,3,4,No,0.07680682,7.7,🟢 Low,$6K-$10K
+1083,Research & Development,Laboratory Technician,26,Male,3955,5,No,1,3,No,0.07623164,7.6,🟢 Low,$3K-$6K
+895,Research & Development,Research Scientist,31,Male,2356,6,Yes,4,3,No,0.07609752,7.6,🟢 Low,< $3K
+998,Research & Development,Healthcare Representative,33,Female,5488,6,Yes,2,3,No,0.07601601,7.6,🟢 Low,$3K-$6K
+1706,Sales,Sales Executive,43,Male,7847,10,Yes,4,3,No,0.07574831,7.6,🟢 Low,$6K-$10K
+453,Sales,Sales Executive,40,Male,7457,4,Yes,4,2,No,0.07567622,7.6,🟢 Low,$6K-$10K
+1749,Sales,Sales Executive,31,Male,8346,5,No,3,3,No,0.07530055,7.5,🟢 Low,$6K-$10K
+1729,Research & Development,Research Scientist,30,Male,2862,10,No,4,2,No,0.07526331,7.5,🟢 Low,< $3K
+1373,Research & Development,Manufacturing Director,56,Male,13402,19,Yes,2,3,No,0.075251326,7.5,🟢 Low,> $10K
+2057,Research & Development,Manufacturing Director,31,Male,9936,9,No,1,3,No,0.075038426,7.5,🟢 Low,$6K-$10K
+591,Research & Development,Laboratory Technician,42,Male,2093,2,No,3,3,No,0.074998155,7.5,🟢 Low,< $3K
+428,Research & Development,Manager,33,Female,11878,10,No,2,3,No,0.07495131,7.5,🟢 Low,> $10K
+1126,Research & Development,Manufacturing Director,43,Female,10820,8,No,1,3,No,0.074927114,7.5,🟢 Low,> $10K
+771,Research & Development,Healthcare Representative,35,Female,5093,1,No,1,4,No,0.074708894,7.5,🟢 Low,$3K-$6K
+388,Sales,Sales Executive,29,Male,4554,10,No,4,2,No,0.0739493,7.4,🟢 Low,$3K-$6K
+2,Research & Development,Research Scientist,49,Male,5130,10,No,2,3,No,0.073862635,7.4,🟢 Low,$3K-$6K
+1311,Research & Development,Laboratory Technician,30,Female,4627,9,No,4,3,No,0.073653735,7.4,🟢 Low,$3K-$6K
+1216,Research & Development,Laboratory Technician,28,Male,3196,6,No,1,3,No,0.07339967,7.3,🟢 Low,$3K-$6K
+2013,Sales,Sales Representative,32,Male,2269,2,No,2,3,No,0.07294224,7.3,🟢 Low,< $3K
+1612,Sales,Sales Executive,45,Male,4385,10,No,1,3,No,0.07287999,7.3,🟢 Low,$3K-$6K
+983,Sales,Sales Executive,38,Female,5666,5,Yes,4,3,No,0.07277559,7.3,🟢 Low,$3K-$6K
+1886,Research & Development,Manufacturing Director,35,Female,4788,3,Yes,2,3,No,0.07274887,7.3,🟢 Low,$3K-$6K
+705,Research & Development,Research Scientist,23,Male,2819,3,No,1,4,No,0.072587244,7.3,🟢 Low,< $3K
+451,Research & Development,Healthcare Representative,43,Female,9985,1,No,1,2,No,0.07251048,7.3,🟢 Low,$6K-$10K
+1909,Sales,Sales Executive,41,Female,4393,5,No,2,3,No,0.07235513,7.2,🟢 Low,$3K-$6K
+1751,Research & Development,Research Scientist,27,Female,3445,6,No,4,2,No,0.07167911,7.2,🟢 Low,$3K-$6K
+698,Human Resources,Human Resources,54,Male,10725,9,No,2,4,No,0.07166748,7.2,🟢 Low,> $10K
+15,Research & Development,Laboratory Technician,29,Female,4193,9,Yes,3,3,No,0.07159941,7.2,🟢 Low,$3K-$6K
+1597,Research & Development,Healthcare Representative,34,Male,5063,8,No,3,2,No,0.0712437,7.1,🟢 Low,$3K-$6K
+1673,Sales,Sales Executive,31,Female,5476,10,No,4,3,No,0.071189076,7.1,🟢 Low,$3K-$6K
+1282,Sales,Manager,51,Male,19847,29,Yes,2,2,No,0.07118882,7.1,🟢 Low,> $10K
+1763,Research & Development,Healthcare Representative,30,Male,5294,7,No,3,3,No,0.07078088,7.1,🟢 Low,$3K-$6K
+496,Research & Development,Healthcare Representative,35,Male,6540,1,No,2,3,No,0.070680775,7.1,🟢 Low,$6K-$10K
+474,Research & Development,Research Scientist,37,Male,5974,7,Yes,1,3,No,0.070207514,7.0,🟢 Low,$3K-$6K
+1599,Research & Development,Laboratory Technician,43,Male,4876,6,No,2,3,No,0.070133746,7.0,🟢 Low,$3K-$6K
+224,Research & Development,Research Scientist,27,Male,2566,1,Yes,3,2,No,0.069897,7.0,🟢 Low,< $3K
+1754,Sales,Sales Executive,30,Male,7140,7,No,1,3,No,0.06985417,7.0,🟢 Low,$6K-$10K
+1172,Research & Development,Laboratory Technician,35,Male,2258,8,No,3,3,No,0.06929295,6.9,🟢 Low,< $3K
+1784,Sales,Sales Executive,31,Female,5468,12,No,4,3,No,0.06923608,6.9,🟢 Low,$3K-$6K
+12,Research & Development,Manufacturing Director,38,Male,9526,9,No,3,3,No,0.069087856,6.9,🟢 Low,$6K-$10K
+24,Research & Development,Research Scientist,38,Male,3944,3,Yes,4,3,No,0.068876624,6.9,🟢 Low,$3K-$6K
+1969,Research & Development,Research Scientist,54,Female,2897,4,No,3,2,No,0.068388194,6.8,🟢 Low,< $3K
+850,Research & Development,Research Scientist,27,Male,1706,0,No,4,2,No,0.0679184,6.8,🟢 Low,< $3K
+1465,Research & Development,Manufacturing Director,45,Male,9380,3,Yes,4,4,No,0.067581266,6.8,🟢 Low,$6K-$10K
+1394,Research & Development,Research Scientist,37,Male,2996,6,Yes,3,3,No,0.06745162,6.7,🟢 Low,< $3K
+21,Research & Development,Research Scientist,32,Male,3298,6,Yes,2,2,No,0.067221425,6.7,🟢 Low,$3K-$6K
+170,Research & Development,Manufacturing Director,49,Female,6567,15,No,1,2,No,0.06720421,6.7,🟢 Low,$6K-$10K
+1993,Research & Development,Healthcare Representative,47,Male,8633,17,No,3,3,No,0.06702607,6.7,🟢 Low,$6K-$10K
+530,Research & Development,Laboratory Technician,31,Male,2218,4,No,1,3,No,0.06681445,6.7,🟢 Low,< $3K
+1864,Sales,Sales Representative,27,Female,3540,9,No,3,3,No,0.0665317,6.7,🟢 Low,$3K-$6K
+859,Sales,Sales Executive,32,Male,4403,5,No,4,2,No,0.066425495,6.6,🟢 Low,$3K-$6K
+1124,Sales,Manager,46,Male,17465,12,No,3,3,No,0.066322684,6.6,🟢 Low,> $10K
+1560,Sales,Sales Executive,33,Male,6392,2,No,1,1,No,0.06622168,6.6,🟢 Low,$6K-$10K
+1185,Research & Development,Laboratory Technician,35,Male,2376,2,No,4,4,No,0.065945715,6.6,🟢 Low,< $3K
+578,Research & Development,Laboratory Technician,54,Female,3780,1,No,3,3,No,0.065452285,6.5,🟢 Low,$3K-$6K
+218,Research & Development,Research Scientist,27,Male,2024,2,No,2,1,No,0.06535641,6.5,🟢 Low,< $3K
+362,Research & Development,Laboratory Technician,32,Male,2176,6,No,1,3,No,0.06524145,6.5,🟢 Low,< $3K
+397,Research & Development,Research Scientist,36,Male,4485,8,No,2,3,No,0.065216795,6.5,🟢 Low,$3K-$6K
+195,Sales,Sales Executive,32,Male,4668,8,No,4,4,No,0.06508182,6.5,🟢 Low,$3K-$6K
+1150,Research & Development,Manufacturing Director,29,Male,5056,10,Yes,4,2,No,0.06447193,6.4,🟢 Low,$3K-$6K
+337,Research & Development,Research Director,31,Male,13675,2,No,3,3,No,0.06409781,6.4,🟢 Low,> $10K
+1212,Sales,Sales Executive,40,Male,4327,0,No,2,3,No,0.064073555,6.4,🟢 Low,$3K-$6K
+1022,Research & Development,Healthcare Representative,48,Male,4240,2,No,3,3,No,0.06377205,6.4,🟢 Low,$3K-$6K
+205,Sales,Sales Representative,53,Male,2306,7,Yes,3,1,No,0.06362872,6.4,🟢 Low,< $3K
+1915,Sales,Sales Executive,34,Female,8103,4,Yes,4,2,No,0.06356488,6.4,🟢 Low,$6K-$10K
+626,Sales,Sales Executive,37,Male,8834,9,No,2,3,No,0.06349563,6.3,🟢 Low,$6K-$10K
+1317,Research & Development,Research Director,50,Female,16880,3,Yes,1,3,No,0.063438915,6.3,🟢 Low,> $10K
+875,Research & Development,Research Scientist,42,Male,2515,2,Yes,4,3,No,0.06342211,6.3,🟢 Low,< $3K
+1549,Research & Development,Laboratory Technician,33,Male,5207,15,Yes,3,3,No,0.06321486,6.3,🟢 Low,$3K-$6K
+1447,Research & Development,Laboratory Technician,34,Female,3294,5,No,2,2,No,0.06299404,6.3,🟢 Low,$3K-$6K
+128,Sales,Sales Executive,24,Female,4999,3,No,3,2,No,0.06296706,6.3,🟢 Low,$3K-$6K
+729,Sales,Sales Executive,40,Male,10475,18,Yes,1,3,No,0.062935084,6.3,🟢 Low,> $10K
+1972,Human Resources,Human Resources,38,Male,2991,6,Yes,2,3,No,0.06274124,6.3,🟢 Low,< $3K
+1431,Research & Development,Research Scientist,34,Male,2996,4,No,1,3,No,0.0626175,6.3,🟢 Low,< $3K
+725,Research & Development,Manufacturing Director,27,Female,7412,9,No,1,3,No,0.062472228,6.2,🟢 Low,$6K-$10K
+241,Research & Development,Research Scientist,56,Female,4257,2,Yes,1,3,No,0.06231155,6.2,🟢 Low,$3K-$6K
+124,Research & Development,Healthcare Representative,46,Male,10673,10,Yes,1,2,No,0.0622799,6.2,🟢 Low,> $10K
+1564,Research & Development,Laboratory Technician,35,Male,2450,3,No,1,3,No,0.062172882,6.2,🟢 Low,< $3K
+495,Research & Development,Research Scientist,29,Male,2201,3,No,4,3,No,0.061976776,6.2,🟢 Low,< $3K
+1582,Sales,Sales Executive,38,Male,9924,9,No,2,3,No,0.061758406,6.2,🟢 Low,$6K-$10K
+666,Sales,Sales Representative,34,Female,2579,8,Yes,3,3,No,0.06150564,6.2,🟢 Low,< $3K
+311,Sales,Sales Representative,37,Male,2793,9,No,4,3,No,0.06145086,6.1,🟢 Low,< $3K
+2025,Research & Development,Manufacturing Director,36,Female,5131,4,No,2,3,No,0.06144478,6.1,🟢 Low,$3K-$6K
+1826,Research & Development,Laboratory Technician,35,Male,2705,5,No,3,4,No,0.061346106,6.1,🟢 Low,< $3K
+216,Sales,Sales Representative,34,Female,2231,4,No,3,3,No,0.06132653,6.1,🟢 Low,< $3K
+1480,Research & Development,Laboratory Technician,42,Female,3673,12,No,4,3,No,0.06132167,6.1,🟢 Low,$3K-$6K
+838,Research & Development,Research Scientist,34,Female,2553,5,No,4,3,No,0.061309192,6.1,🟢 Low,< $3K
+515,Research & Development,Laboratory Technician,37,Female,3034,18,No,1,2,No,0.06117972,6.1,🟢 Low,$3K-$6K
+171,Research & Development,Research Scientist,43,Female,4739,3,No,3,3,No,0.06103847,6.1,🟢 Low,$3K-$6K
+981,Sales,Manager,53,Male,14852,17,No,3,4,No,0.060844697,6.1,🟢 Low,> $10K
+872,Research & Development,Manufacturing Director,22,Male,4775,2,No,4,1,No,0.06075378,6.1,🟢 Low,$3K-$6K
+690,Sales,Sales Executive,29,Female,5561,6,No,3,2,No,0.060550276,6.1,🟢 Low,$3K-$6K
+945,Research & Development,Research Scientist,48,Male,2259,0,No,3,2,No,0.060539328,6.1,🟢 Low,< $3K
+1509,Research & Development,Laboratory Technician,49,Female,4789,3,No,1,3,No,0.060318884,6.0,🟢 Low,$3K-$6K
+228,Sales,Sales Executive,30,Female,9419,10,No,4,3,No,0.060120832,6.0,🟢 Low,$6K-$10K
+533,Sales,Sales Executive,30,Female,6577,5,No,3,3,No,0.059981976,6.0,🟢 Low,$6K-$10K
+621,Sales,Sales Executive,34,Male,5337,10,No,4,3,No,0.059869666,6.0,🟢 Low,$3K-$6K
+1829,Research & Development,Healthcare Representative,40,Female,4448,7,No,1,3,No,0.059852265,6.0,🟢 Low,$3K-$6K
+2014,Research & Development,Research Scientist,39,Male,4108,7,No,4,3,No,0.059775032,6.0,🟢 Low,$3K-$6K
+1074,Research & Development,Manager,55,Male,16756,9,No,1,4,No,0.059129104,5.9,🟢 Low,> $10K
+1948,Research & Development,Research Scientist,31,Male,3065,4,Yes,1,4,No,0.059009314,5.9,🟢 Low,$3K-$6K
+179,Research & Development,Manufacturing Director,51,Male,10650,4,No,4,3,Yes,0.058799956,5.9,🟢 Low,> $10K
+52,Sales,Sales Executive,33,Female,5376,5,No,1,3,No,0.05874956,5.9,🟢 Low,$3K-$6K
+471,Research & Development,Laboratory Technician,32,Female,2370,8,No,2,3,No,0.05861486,5.9,🟢 Low,< $3K
+861,Research & Development,Research Scientist,30,Male,3761,5,No,4,2,No,0.0586104,5.9,🟢 Low,$3K-$6K
+1094,Research & Development,Laboratory Technician,27,Male,4621,3,No,3,3,No,0.058590952,5.9,🟢 Low,$3K-$6K
+164,Research & Development,Research Scientist,26,Female,2368,5,No,2,2,No,0.058582243,5.9,🟢 Low,< $3K
+429,Research & Development,Manager,39,Male,17068,21,Yes,1,3,No,0.058492307,5.8,🟢 Low,> $10K
+267,Research & Development,Research Scientist,37,Male,3564,8,Yes,1,2,No,0.0582141,5.8,🟢 Low,$3K-$6K
+193,Research & Development,Research Scientist,38,Female,4317,3,Yes,3,3,No,0.057972603,5.8,🟢 Low,$3K-$6K
+1794,Human Resources,Human Resources,37,Male,4071,10,No,2,2,No,0.057960663,5.8,🟢 Low,$3K-$6K
+513,Sales,Sales Executive,36,Male,7596,10,No,3,3,No,0.057915878,5.8,🟢 Low,$6K-$10K
+893,Sales,Sales Representative,38,Male,2899,2,No,2,3,No,0.05768533,5.8,🟢 Low,< $3K
+1294,Research & Development,Manufacturing Director,36,Female,5410,16,Yes,2,3,No,0.05766202,5.8,🟢 Low,$3K-$6K
+1852,Research & Development,Laboratory Technician,29,Male,3812,11,No,4,4,No,0.057122983,5.7,🟢 Low,$3K-$6K
+333,Sales,Sales Executive,32,Male,4465,3,No,4,3,No,0.057027236,5.7,🟢 Low,$3K-$6K
+536,Research & Development,Laboratory Technician,28,Male,4558,10,No,1,3,No,0.056684975,5.7,🟢 Low,$3K-$6K
+543,Research & Development,Manufacturing Director,52,Male,7969,5,Yes,3,3,No,0.056621168,5.7,🟢 Low,$6K-$10K
+152,Sales,Sales Executive,37,Male,7428,5,No,4,3,No,0.056409128,5.6,🟢 Low,$6K-$10K
+586,Research & Development,Healthcare Representative,35,Male,7632,8,Yes,3,3,No,0.056365963,5.6,🟢 Low,$6K-$10K
+1352,Human Resources,Manager,51,Male,14026,33,Yes,2,3,No,0.05631756,5.6,🟢 Low,> $10K
+1314,Human Resources,Human Resources,46,Female,3423,7,No,1,4,No,0.05616295,5.6,🟢 Low,$3K-$6K
+1270,Research & Development,Research Scientist,23,Male,1223,1,No,3,3,No,0.056025516,5.6,🟢 Low,< $3K
+524,Research & Development,Manufacturing Director,31,Female,4306,13,No,1,1,No,0.056007672,5.6,🟢 Low,$3K-$6K
+775,Research & Development,Manufacturing Director,34,Female,5121,0,No,1,3,No,0.055739094,5.6,🟢 Low,$3K-$6K
+150,Research & Development,Laboratory Technician,24,Male,2774,5,No,3,3,No,0.055726208,5.6,🟢 Low,< $3K
+1631,Research & Development,Manufacturing Director,37,Male,5768,4,No,3,2,No,0.055488877,5.5,🟢 Low,$3K-$6K
+1062,Research & Development,Healthcare Representative,37,Female,4107,4,No,2,2,No,0.055357996,5.5,🟢 Low,$3K-$6K
+476,Sales,Sales Executive,26,Male,5296,8,No,3,3,No,0.05531647,5.5,🟢 Low,$3K-$6K
+2012,Research & Development,Laboratory Technician,40,Male,2406,1,No,4,2,No,0.054997727,5.5,🟢 Low,< $3K
+1446,Sales,Sales Executive,32,Male,9204,4,No,4,2,No,0.054984607,5.5,🟢 Low,$6K-$10K
+431,Research & Development,Healthcare Representative,49,Female,13964,7,Yes,3,3,No,0.054795064,5.5,🟢 Low,> $10K
+176,Sales,Sales Executive,41,Male,8189,9,Yes,3,3,No,0.054741606,5.5,🟢 Low,$6K-$10K
+1830,Research & Development,Research Scientist,54,Female,6854,7,No,4,2,No,0.05467908,5.5,🟢 Low,$6K-$10K
+717,Research & Development,Healthcare Representative,34,Female,8621,8,No,2,4,No,0.05438607,5.4,🟢 Low,$6K-$10K
+316,Research & Development,Laboratory Technician,52,Female,3212,2,No,4,2,No,0.05431342,5.4,🟢 Low,$3K-$6K
+2064,Research & Development,Manufacturing Director,27,Male,6142,6,Yes,2,3,No,0.054309417,5.4,🟢 Low,$6K-$10K
+80,Research & Development,Research Director,50,Female,18740,27,Yes,3,2,No,0.054234795,5.4,🟢 Low,> $10K
+462,Research & Development,Manufacturing Director,31,Female,7143,11,Yes,4,2,No,0.054184347,5.4,🟢 Low,$6K-$10K
+254,Research & Development,Research Director,55,Male,18722,24,No,2,3,No,0.05410663,5.4,🟢 Low,> $10K
+97,Research & Development,Laboratory Technician,36,Female,3038,1,No,4,3,No,0.053999677,5.4,🟢 Low,$3K-$6K
+1441,Research & Development,Research Scientist,56,Female,2066,3,No,1,4,No,0.053977497,5.4,🟢 Low,< $3K
+900,Sales,Sales Representative,37,Female,2973,5,No,4,3,No,0.05396177,5.4,🟢 Low,< $3K
+1028,Research & Development,Laboratory Technician,35,Male,3917,3,No,4,2,No,0.05390191,5.4,🟢 Low,$3K-$6K
+125,Sales,Sales Executive,32,Male,5010,11,No,3,3,No,0.053438667,5.3,🟢 Low,$3K-$6K
+18,Research & Development,Laboratory Technician,34,Male,2661,2,No,4,3,No,0.05337305,5.3,🟢 Low,< $3K
+808,Sales,Sales Executive,34,Female,6500,3,No,1,3,No,0.05296225,5.3,🟢 Low,$6K-$10K
+223,Research & Development,Healthcare Representative,57,Male,9439,5,Yes,4,1,No,0.052902527,5.3,🟢 Low,$6K-$10K
+1243,Sales,Sales Executive,35,Female,10377,13,Yes,4,2,No,0.052747007,5.3,🟢 Low,> $10K
+1732,Sales,Sales Executive,46,Male,10368,10,Yes,4,2,No,0.052629795,5.3,🟢 Low,> $10K
+1860,Research & Development,Laboratory Technician,42,Male,3968,0,No,3,3,No,0.05254896,5.3,🟢 Low,$3K-$6K
+2062,Research & Development,Healthcare Representative,39,Male,9991,7,No,1,3,No,0.052274115,5.2,🟢 Low,$6K-$10K
+615,Sales,Sales Executive,40,Male,10932,1,No,1,3,No,0.052223846,5.2,🟢 Low,> $10K
+1392,Research & Development,Research Scientist,41,Female,5467,6,Yes,4,2,No,0.0520928,5.2,🟢 Low,$3K-$6K
+1912,Sales,Sales Executive,31,Female,6583,5,Yes,4,3,No,0.052089762,5.2,🟢 Low,$6K-$10K
+597,Sales,Manager,55,Female,16835,10,No,2,3,No,0.051991258,5.2,🟢 Low,> $10K
+1225,Research & Development,Research Scientist,44,Male,4541,20,No,4,3,No,0.051945705,5.2,🟢 Low,$3K-$6K
+1006,Research & Development,Research Scientist,38,Male,2684,2,No,3,2,No,0.05183165,5.2,🟢 Low,< $3K
+1740,Sales,Manager,40,Male,19833,21,No,2,2,No,0.051523786,5.2,🟢 Low,> $10K
+920,Research & Development,Manufacturing Director,43,Female,4765,1,No,2,4,No,0.051310264,5.1,🟢 Low,$3K-$6K
+1866,Research & Development,Manager,43,Female,19392,16,No,3,3,No,0.05130657,5.1,🟢 Low,> $10K
+455,Research & Development,Laboratory Technician,29,Male,3983,3,No,4,3,No,0.051108573,5.1,🟢 Low,$3K-$6K
+1927,Sales,Sales Executive,28,Male,6834,7,Yes,4,3,No,0.05103939,5.1,🟢 Low,$6K-$10K
+1390,Sales,Sales Executive,39,Male,6120,5,Yes,4,4,No,0.050923567,5.1,🟢 Low,$6K-$10K
+1598,Sales,Sales Executive,40,Female,4639,5,No,1,3,No,0.050890334,5.1,🟢 Low,$3K-$6K
+227,Research & Development,Research Scientist,41,Male,2451,9,No,3,3,No,0.050887227,5.1,🟢 Low,< $3K
+2038,Research & Development,Research Scientist,32,Male,2439,4,No,1,3,No,0.050881125,5.1,🟢 Low,< $3K
+1034,Research & Development,Healthcare Representative,55,Male,6385,8,Yes,2,3,No,0.050681155,5.1,🟢 Low,$6K-$10K
+829,Human Resources,Human Resources,36,Male,2143,5,No,2,3,No,0.050535478,5.1,🟢 Low,< $3K
+1943,Sales,Sales Executive,42,Male,5087,0,Yes,4,3,No,0.05030583,5.0,🟢 Low,$3K-$6K
+1812,Sales,Sales Executive,39,Male,4127,2,No,4,3,No,0.050242275,5.0,🟢 Low,$3K-$6K
+174,Sales,Sales Executive,50,Female,9208,2,No,4,3,No,0.05009196,5.0,🟢 Low,$6K-$10K
+951,Research & Development,Laboratory Technician,32,Female,2332,3,No,2,3,No,0.049856756,5.0,🟢 Low,< $3K
+303,Sales,Sales Executive,54,Female,5940,6,No,1,3,No,0.04968299,5.0,🟢 Low,$3K-$6K
+406,Sales,Sales Executive,35,Male,8020,11,No,2,2,No,0.049665634,5.0,🟢 Low,$6K-$10K
+1555,Research & Development,Research Scientist,32,Female,5878,7,No,2,3,No,0.049606554,5.0,🟢 Low,$3K-$6K
+856,Research & Development,Research Scientist,35,Female,2559,6,No,1,2,No,0.049542513,5.0,🟢 Low,< $3K
+1727,Research & Development,Healthcare Representative,46,Male,5562,10,No,2,3,No,0.04952331,5.0,🟢 Low,$3K-$6K
+763,Research & Development,Research Scientist,40,Female,2342,4,Yes,4,2,No,0.049422067,4.9,🟢 Low,< $3K
+1859,Research & Development,Healthcare Representative,29,Male,6384,7,No,3,3,No,0.049413957,4.9,🟢 Low,$6K-$10K
+346,Research & Development,Research Scientist,29,Male,2340,6,No,4,3,No,0.049384423,4.9,🟢 Low,< $3K
+560,Research & Development,Research Scientist,26,Female,2886,3,No,4,1,No,0.049380347,4.9,🟢 Low,< $3K
+1648,Research & Development,Research Scientist,27,Male,2580,4,No,4,2,No,0.049306333,4.9,🟢 Low,< $3K
+1461,Human Resources,Human Resources,31,Female,2109,3,No,2,3,No,0.04922593,4.9,🟢 Low,< $3K
+1401,Research & Development,Manufacturing Director,52,Female,13247,5,Yes,3,2,No,0.049031354,4.9,🟢 Low,> $10K
+426,Research & Development,Research Scientist,31,Male,2695,2,Yes,4,1,No,0.04888902,4.9,🟢 Low,< $3K
+353,Research & Development,Research Scientist,51,Male,2723,1,No,4,2,No,0.04886787,4.9,🟢 Low,< $3K
+1039,Sales,Sales Executive,44,Female,13320,12,Yes,4,3,No,0.04869169,4.9,🟢 Low,> $10K
+1338,Human Resources,Manager,56,Male,19717,7,No,2,3,No,0.04843388,4.8,🟢 Low,> $10K
+81,Sales,Sales Executive,59,Female,7637,21,No,1,2,No,0.048224844,4.8,🟢 Low,$6K-$10K
+521,Research & Development,Laboratory Technician,40,Female,3448,1,No,3,3,No,0.047896918,4.8,🟢 Low,$3K-$6K
+746,Sales,Sales Executive,47,Female,13770,22,Yes,3,2,No,0.04785097,4.8,🟢 Low,> $10K
+715,Research & Development,Research Scientist,37,Male,4680,1,No,4,3,No,0.047713,4.8,🟢 Low,$3K-$6K
+1240,Sales,Sales Executive,25,Male,4950,4,No,4,3,No,0.04760737,4.8,🟢 Low,$3K-$6K
+1002,Research & Development,Laboratory Technician,45,Male,3633,9,Yes,1,3,No,0.047565304,4.8,🟢 Low,$3K-$6K
+1757,Sales,Sales Executive,49,Female,4507,5,No,4,4,No,0.04753999,4.8,🟢 Low,$3K-$6K
+141,Research & Development,Research Director,50,Female,18172,8,Yes,2,2,No,0.047505286,4.8,🟢 Low,> $10K
+438,Sales,Sales Executive,31,Male,7547,7,No,4,3,No,0.047330685,4.7,🟢 Low,$6K-$10K
+1308,Research & Development,Research Scientist,58,Male,2372,2,No,3,3,No,0.047326762,4.7,🟢 Low,< $3K
+1514,Research & Development,Manufacturing Director,28,Male,6549,8,No,2,2,No,0.04705044,4.7,🟢 Low,$6K-$10K
+2016,Sales,Sales Executive,32,Female,10422,14,No,4,3,No,0.047031052,4.7,🟢 Low,> $10K
+1873,Research & Development,Research Scientist,55,Male,2662,5,No,4,4,No,0.046903268,4.7,🟢 Low,< $3K
+1479,Sales,Sales Executive,30,Male,5301,2,No,3,2,No,0.046804775,4.7,🟢 Low,$3K-$6K
+1931,Research & Development,Research Scientist,27,Male,2226,5,No,2,2,No,0.04675873,4.7,🟢 Low,< $3K
+995,Research & Development,Research Scientist,33,Female,3452,3,No,4,3,No,0.046549775,4.7,🟢 Low,$3K-$6K
+1588,Sales,Sales Executive,39,Male,8237,7,No,3,3,No,0.046524245,4.7,🟢 Low,$6K-$10K
+1615,Research & Development,Manufacturing Director,34,Male,4724,9,No,4,3,No,0.04644862,4.6,🟢 Low,$3K-$6K
+116,Research & Development,Laboratory Technician,51,Male,2075,4,No,4,3,No,0.04617949,4.6,🟢 Low,< $3K
+206,Research & Development,Laboratory Technician,45,Male,2348,17,No,2,1,No,0.04608147,4.6,🟢 Low,< $3K
+887,Research & Development,Research Scientist,49,Female,3580,4,No,1,3,No,0.045956768,4.6,🟢 Low,$3K-$6K
+1103,Research & Development,Healthcare Representative,34,Male,7756,6,No,4,2,No,0.045809153,4.6,🟢 Low,$6K-$10K
+469,Sales,Sales Executive,29,Male,4649,4,No,3,2,No,0.04579444,4.6,🟢 Low,$3K-$6K
+1207,Human Resources,Human Resources,33,Male,3600,5,No,3,3,No,0.045739878,4.6,🟢 Low,$3K-$6K
+449,Sales,Sales Executive,27,Male,6349,5,Yes,2,3,No,0.045690015,4.6,🟢 Low,$6K-$10K
+1252,Research & Development,Healthcare Representative,31,Female,6812,10,No,1,3,No,0.04565673,4.6,🟢 Low,$6K-$10K
+1553,Research & Development,Healthcare Representative,45,Male,7441,10,No,2,3,No,0.045455165,4.5,🟢 Low,$6K-$10K
+1701,Research & Development,Research Scientist,34,Female,2929,10,No,4,3,No,0.045419436,4.5,🟢 Low,< $3K
+1071,Research & Development,Research Scientist,56,Female,2942,5,No,3,3,No,0.04535031,4.5,🟢 Low,< $3K
+1770,Research & Development,Research Director,55,Male,19038,1,No,1,3,No,0.045010716,4.5,🟢 Low,> $10K
+132,Research & Development,Laboratory Technician,44,Male,2042,3,No,2,4,No,0.044993654,4.5,🟢 Low,< $3K
+1545,Research & Development,Manufacturing Director,33,Male,4320,5,No,2,3,No,0.044977225,4.5,🟢 Low,$3K-$6K
+1050,Sales,Sales Executive,53,Female,7525,15,No,2,3,No,0.044941384,4.5,🟢 Low,$6K-$10K
+1221,Research & Development,Laboratory Technician,36,Male,2741,7,No,3,3,No,0.044900887,4.5,🟢 Low,< $3K
+1143,Research & Development,Research Scientist,29,Female,3291,7,No,2,2,No,0.044542376,4.5,🟢 Low,$3K-$6K
+458,Sales,Sales Executive,27,Female,6214,8,No,2,3,No,0.044536218,4.5,🟢 Low,$6K-$10K
+769,Research & Development,Laboratory Technician,53,Male,2450,2,No,4,3,No,0.0444434,4.4,🟢 Low,< $3K
+165,Research & Development,Healthcare Representative,58,Female,10312,40,No,4,2,Yes,0.04437286,4.4,🟢 Low,> $10K
+1009,Research & Development,Manufacturing Director,24,Female,4377,4,No,3,3,No,0.04431848,4.4,🟢 Low,$3K-$6K
+1478,Sales,Sales Executive,34,Male,4759,13,No,1,3,No,0.044030994,4.4,🟢 Low,$3K-$6K
+249,Research & Development,Laboratory Technician,50,Male,3690,3,No,3,2,No,0.043964725,4.4,🟢 Low,$3K-$6K
+1547,Research & Development,Healthcare Representative,42,Male,10124,20,Yes,4,1,No,0.04389272,4.4,🟢 Low,> $10K
+1880,Sales,Sales Executive,36,Female,5673,10,Yes,3,3,No,0.04389244,4.4,🟢 Low,$3K-$6K
+307,Sales,Sales Executive,38,Male,10609,16,No,3,2,No,0.043875113,4.4,🟢 Low,> $10K
+700,Research & Development,Research Scientist,27,Male,2045,4,No,4,3,No,0.043875072,4.4,🟢 Low,< $3K
+1544,Research & Development,Healthcare Representative,29,Female,9715,7,No,1,3,No,0.04381025,4.4,🟢 Low,$6K-$10K
+1803,Research & Development,Healthcare Representative,42,Male,5538,0,No,1,2,No,0.043797895,4.4,🟢 Low,$3K-$6K
+169,Research & Development,Laboratory Technician,22,Male,2523,2,No,4,3,No,0.043606404,4.4,🟢 Low,< $3K
+1217,Research & Development,Research Director,46,Male,19081,4,No,2,3,No,0.04344654,4.3,🟢 Low,> $10K
+1048,Sales,Manager,59,Male,11904,6,Yes,4,1,No,0.043371074,4.3,🟢 Low,> $10K
+964,Research & Development,Research Scientist,40,Male,3617,1,Yes,2,3,No,0.04317174,4.3,🟢 Low,$3K-$6K
+1965,Sales,Sales Executive,27,Male,4105,7,No,4,3,No,0.04315325,4.3,🟢 Low,$3K-$6K
+1541,Sales,Sales Representative,34,Male,2308,11,Yes,3,3,No,0.042681694,4.3,🟢 Low,< $3K
+1076,Sales,Sales Executive,43,Male,10798,1,No,4,3,No,0.042445593,4.2,🟢 Low,> $10K
+743,Research & Development,Manufacturing Director,38,Female,7861,1,Yes,3,4,No,0.04222102,4.2,🟢 Low,$6K-$10K
+649,Research & Development,Research Scientist,34,Male,3622,6,Yes,4,3,No,0.041675244,4.2,🟢 Low,$3K-$6K
+804,Research & Development,Research Scientist,34,Female,4381,6,No,1,3,No,0.041635126,4.2,🟢 Low,$3K-$6K
+1994,Research & Development,Laboratory Technician,33,Male,2008,1,No,3,2,No,0.0413433,4.1,🟢 Low,< $3K
+239,Research & Development,Laboratory Technician,30,Male,3072,12,No,1,3,No,0.040698733,4.1,🟢 Low,$3K-$6K
+192,Research & Development,Research Scientist,45,Male,3452,6,No,4,2,No,0.040673897,4.1,🟢 Low,$3K-$6K
+1981,Research & Development,Healthcare Representative,24,Male,4617,4,No,3,2,No,0.04055277,4.1,🟢 Low,$3K-$6K
+1935,Sales,Sales Executive,56,Female,5380,0,No,1,3,No,0.040550865,4.1,🟢 Low,$3K-$6K
+1827,Research & Development,Manufacturing Director,47,Female,10333,22,Yes,2,3,No,0.040413473,4.0,🟢 Low,> $10K
+1469,Sales,Sales Executive,28,Male,8463,5,No,1,3,No,0.04031533,4.0,🟢 Low,$6K-$10K
+888,Research & Development,Laboratory Technician,24,Male,3162,5,No,4,2,No,0.040304806,4.0,🟢 Low,$3K-$6K
+404,Sales,Sales Executive,42,Female,13525,20,No,2,4,No,0.0402352,4.0,🟢 Low,> $10K
+1417,Research & Development,Laboratory Technician,26,Male,3578,7,No,1,3,No,0.040235005,4.0,🟢 Low,$3K-$6K
+101,Research & Development,Research Director,45,Male,13245,0,Yes,1,4,No,0.040196106,4.0,🟢 Low,> $10K
+1675,Research & Development,Laboratory Technician,38,Female,2440,4,No,2,3,No,0.0401367,4.0,🟢 Low,< $3K
+1775,Research & Development,Manufacturing Director,53,Female,12965,3,Yes,3,2,No,0.04010729,4.0,🟢 Low,> $10K
+1772,Research & Development,Laboratory Technician,41,Male,2289,5,No,1,3,No,0.039803058,4.0,🟢 Low,< $3K
+1736,Research & Development,Manufacturing Director,31,Female,5238,5,No,4,2,No,0.03979281,4.0,🟢 Low,$3K-$6K
+721,Research & Development,Healthcare Representative,39,Female,4553,20,No,3,3,No,0.03976475,4.0,🟢 Low,$3K-$6K
+944,Research & Development,Laboratory Technician,49,Female,7403,26,No,2,2,No,0.03975289,4.0,🟢 Low,$6K-$10K
+1798,Research & Development,Research Scientist,33,Male,3143,10,No,1,3,No,0.03971892,4.0,🟢 Low,$3K-$6K
+1966,Research & Development,Manufacturing Director,32,Male,9679,1,No,4,3,No,0.0395526,4.0,🟢 Low,$6K-$10K
+199,Research & Development,Manager,41,Male,17181,7,No,1,2,No,0.039359502,3.9,🟢 Low,> $10K
+1918,Research & Development,Laboratory Technician,26,Male,2544,7,No,4,3,No,0.03910445,3.9,🟢 Low,< $3K
+1996,Sales,Sales Representative,31,Male,3067,2,No,3,3,No,0.03893014,3.9,🟢 Low,$3K-$6K
+1334,Research & Development,Manager,42,Male,17861,20,Yes,3,2,No,0.038743787,3.9,🟢 Low,> $10K
+245,Research & Development,Laboratory Technician,38,Female,2288,2,No,4,3,No,0.0384009,3.8,🟢 Low,< $3K
+500,Sales,Sales Executive,51,Female,4936,7,No,4,2,No,0.038384,3.8,🟢 Low,$3K-$6K
+1084,Research & Development,Manufacturing Director,30,Male,9957,6,No,1,2,No,0.03834654,3.8,🟢 Low,$6K-$10K
+1805,Human Resources,Human Resources,38,Male,2592,11,No,2,3,No,0.03833316,3.8,🟢 Low,< $3K
+1497,Sales,Sales Executive,29,Male,8620,10,No,3,3,No,0.03804243,3.8,🟢 Low,$6K-$10K
+63,Research & Development,Laboratory Technician,35,Male,2269,1,No,4,3,No,0.0379995,3.8,🟢 Low,< $3K
+473,Sales,Manager,48,Female,12504,0,No,3,1,No,0.037944466,3.8,🟢 Low,> $10K
+766,Sales,Sales Representative,29,Male,2297,2,No,2,3,No,0.03766664,3.8,🟢 Low,< $3K
+691,Research & Development,Research Scientist,35,Male,6646,17,No,4,3,No,0.037508473,3.8,🟢 Low,$6K-$10K
+663,Research & Development,Laboratory Technician,43,Male,5679,8,Yes,3,3,No,0.037482996,3.7,🟢 Low,$3K-$6K
+2061,Research & Development,Laboratory Technician,36,Male,2571,5,No,4,3,No,0.0373862,3.7,🟢 Low,< $3K
+332,Research & Development,Laboratory Technician,39,Female,2232,3,No,3,3,No,0.037160654,3.7,🟢 Low,< $3K
+644,Human Resources,Manager,50,Male,18200,32,No,2,3,No,0.03704112,3.7,🟢 Low,> $10K
+1166,Research & Development,Research Director,40,Female,13499,18,No,3,2,No,0.03695048,3.7,🟢 Low,> $10K
+217,Research & Development,Research Scientist,22,Male,2323,2,No,4,3,No,0.036681857,3.7,🟢 Low,< $3K
+600,Sales,Sales Executive,35,Male,4717,11,No,3,3,No,0.03659455,3.7,🟢 Low,$3K-$6K
+483,Research & Development,Laboratory Technician,40,Female,2213,7,Yes,3,3,No,0.036594357,3.7,🟢 Low,< $3K
+1306,Research & Development,Manager,45,Female,18061,0,No,2,3,No,0.03655791,3.7,🟢 Low,> $10K
+444,Research & Development,Manager,39,Male,19272,21,No,4,3,No,0.03653683,3.7,🟢 Low,> $10K
+992,Sales,Manager,33,Male,17444,10,No,3,3,No,0.036522146,3.7,🟢 Low,> $10K
+1802,Research & Development,Laboratory Technician,40,Female,3377,4,No,1,2,No,0.03642923,3.6,🟢 Low,$3K-$6K
+1721,Research & Development,Laboratory Technician,31,Male,3477,5,No,3,4,No,0.036422867,3.6,🟢 Low,$3K-$6K
+1407,Research & Development,Research Scientist,26,Male,3904,4,No,4,3,No,0.036421187,3.6,🟢 Low,$3K-$6K
+865,Research & Development,Research Scientist,32,Female,5175,5,No,3,2,No,0.035881273,3.6,🟢 Low,$3K-$6K
+635,Research & Development,Manufacturing Director,37,Female,6447,6,No,2,2,No,0.035776526,3.6,🟢 Low,$6K-$10K
+1628,Research & Development,Manufacturing Director,40,Female,10435,18,No,3,3,No,0.035752837,3.6,🟢 Low,> $10K
+491,Research & Development,Healthcare Representative,50,Male,10496,4,No,4,3,No,0.035714127,3.6,🟢 Low,> $10K
+817,Research & Development,Research Director,33,Male,11691,13,No,3,4,No,0.035706617,3.6,🟢 Low,> $10K
+1824,Sales,Manager,58,Male,16291,16,No,2,2,No,0.035629563,3.6,🟢 Low,> $10K
+620,Sales,Sales Executive,35,Female,4859,5,No,3,3,No,0.035466924,3.5,🟢 Low,$3K-$6K
+760,Human Resources,Human Resources,39,Female,6389,8,No,2,1,No,0.03491181,3.5,🟢 Low,$6K-$10K
+1898,Sales,Sales Executive,27,Female,6500,8,No,3,2,No,0.03478142,3.5,🟢 Low,$6K-$10K
+273,Research & Development,Manufacturing Director,38,Male,6261,7,No,4,1,No,0.0347506,3.5,🟢 Low,$6K-$10K
+293,Sales,Sales Executive,27,Female,9981,7,No,3,3,No,0.034625124,3.5,🟢 Low,$6K-$10K
+247,Research & Development,Research Scientist,34,Female,2311,3,No,2,3,No,0.03455605,3.5,🟢 Low,< $3K
+813,Research & Development,Laboratory Technician,52,Female,3149,5,No,3,3,No,0.034299545,3.4,🟢 Low,$3K-$6K
+958,Research & Development,Laboratory Technician,36,Male,2519,11,No,3,3,No,0.034228045,3.4,🟢 Low,< $3K
+905,Research & Development,Manager,50,Male,17924,31,No,1,3,No,0.03413195,3.4,🟢 Low,> $10K
+1460,Research & Development,Healthcare Representative,45,Male,10851,7,Yes,1,3,No,0.03391016,3.4,🟢 Low,> $10K
+160,Sales,Sales Executive,33,Male,6146,7,No,2,4,No,0.03387493,3.4,🟢 Low,$6K-$10K
+1177,Research & Development,Laboratory Technician,26,Male,4420,8,No,4,3,No,0.033758882,3.4,🟢 Low,$3K-$6K
+198,Research & Development,Laboratory Technician,30,Male,2720,5,No,4,3,No,0.033742048,3.4,🟢 Low,< $3K
+339,Research & Development,Manufacturing Director,34,Male,5957,11,No,1,3,No,0.033723827,3.4,🟢 Low,$3K-$6K
+177,Human Resources,Human Resources,26,Female,2942,8,No,3,3,No,0.033678133,3.4,🟢 Low,< $3K
+1525,Research & Development,Manufacturing Director,39,Female,8376,2,No,2,3,No,0.0335416,3.4,🟢 Low,$6K-$10K
+14,Research & Development,Laboratory Technician,35,Male,2426,5,No,2,3,No,0.033339407,3.3,🟢 Low,< $3K
+309,Research & Development,Research Scientist,59,Male,2177,1,No,4,3,No,0.03313454,3.3,🟢 Low,< $3K
+1982,Research & Development,Laboratory Technician,23,Male,2647,5,No,4,4,No,0.03310515,3.3,🟢 Low,< $3K
+56,Sales,Sales Executive,27,Male,8726,9,No,3,3,No,0.033063423,3.3,🟢 Low,$6K-$10K
+60,Sales,Sales Executive,34,Male,4568,9,No,3,3,No,0.032869764,3.3,🟢 Low,$3K-$6K
+1061,Research & Development,Research Director,50,Male,19237,8,Yes,3,2,No,0.032864332,3.3,🟢 Low,> $10K
+1789,Research & Development,Research Director,46,Male,19328,2,Yes,4,3,No,0.032861732,3.3,🟢 Low,> $10K
+1092,Research & Development,Healthcare Representative,40,Male,10322,11,No,4,3,No,0.0327574,3.3,🟢 Low,> $10K
+1088,Research & Development,Healthcare Representative,38,Female,8823,19,No,3,2,No,0.032701578,3.3,🟢 Low,$6K-$10K
+1845,Sales,Sales Executive,45,Female,5154,8,No,3,4,No,0.032532874,3.3,🟢 Low,$3K-$6K
+1241,Research & Development,Research Scientist,30,Male,3579,11,Yes,2,3,No,0.032381523,3.2,🟢 Low,$3K-$6K
+1191,Research & Development,Manager,56,Female,19943,5,No,1,3,No,0.032354824,3.2,🟢 Low,> $10K
+275,Research & Development,Manufacturing Director,49,Male,6804,7,Yes,4,3,No,0.03216425,3.2,🟢 Low,$6K-$10K
+606,Sales,Sales Executive,45,Male,4805,8,No,2,4,No,0.032157574,3.2,🟢 Low,$3K-$6K
+1590,Research & Development,Healthcare Representative,29,Male,8853,6,No,4,4,No,0.03213749,3.2,🟢 Low,$6K-$10K
+1374,Research & Development,Research Scientist,34,Female,2029,5,No,3,3,No,0.031950213,3.2,🟢 Low,< $3K
+1293,Sales,Sales Executive,43,Female,10231,21,No,4,4,No,0.03187576,3.2,🟢 Low,> $10K
+1602,Sales,Manager,46,Male,17567,26,No,1,1,No,0.03185032,3.2,🟢 Low,> $10K
+1527,Sales,Manager,46,Female,16606,13,No,2,4,No,0.0316757,3.2,🟢 Low,> $10K
+653,Sales,Sales Executive,31,Male,5460,7,No,4,4,No,0.031618994,3.2,🟢 Low,$3K-$6K
+836,Research & Development,Manufacturing Director,42,Male,4434,9,No,2,2,No,0.031617258,3.2,🟢 Low,$3K-$6K
+611,Research & Development,Manufacturing Director,29,Male,4262,3,No,4,4,No,0.031430278,3.1,🟢 Low,$3K-$6K
+154,Sales,Sales Executive,36,Female,9738,9,No,4,3,No,0.031412613,3.1,🟢 Low,$6K-$10K
+776,Sales,Manager,52,Male,16856,34,No,1,4,No,0.031350516,3.1,🟢 Low,> $10K
+151,Research & Development,Research Scientist,34,Female,4505,1,No,2,3,No,0.031262346,3.1,🟢 Low,$3K-$6K
+1771,Research & Development,Research Scientist,33,Male,3055,9,No,2,2,No,0.031167725,3.1,🟢 Low,$3K-$6K
+1890,Human Resources,Human Resources,36,Male,3886,10,No,4,2,No,0.031003762,3.1,🟢 Low,$3K-$6K
+1849,Sales,Sales Executive,43,Male,5675,7,No,4,3,No,0.030955482,3.1,🟢 Low,$3K-$6K
+675,Research & Development,Research Scientist,22,Male,2773,2,No,3,3,No,0.03089814,3.1,🟢 Low,< $3K
+1044,Sales,Sales Representative,33,Female,2342,2,No,4,2,No,0.030824652,3.1,🟢 Low,< $3K
+901,Research & Development,Research Director,53,Female,14275,12,No,4,3,No,0.030698182,3.1,🟢 Low,> $10K
+1206,Research & Development,Research Scientist,44,Male,2290,0,No,3,3,No,0.030609494,3.1,🟢 Low,< $3K
+567,Sales,Sales Executive,30,Female,8412,9,No,1,3,No,0.030445023,3.0,🟢 Low,$6K-$10K
+367,Research & Development,Healthcare Representative,31,Male,5582,9,No,4,3,No,0.030388884,3.0,🟢 Low,$3K-$6K
+1700,Sales,Sales Executive,37,Male,9525,6,No,4,2,No,0.030385282,3.0,🟢 Low,$6K-$10K
+1060,Research & Development,Research Scientist,38,Male,2821,2,No,3,3,No,0.030337468,3.0,🟢 Low,< $3K
+386,Research & Development,Research Director,53,Male,17584,5,Yes,3,2,No,0.03023238,3.0,🟢 Low,> $10K
+1140,Research & Development,Manufacturing Director,34,Male,4033,3,No,3,2,No,0.029987426,3.0,🟢 Low,$3K-$6K
+1782,Research & Development,Laboratory Technician,38,Female,3702,5,No,3,3,No,0.029872408,3.0,🟢 Low,$3K-$6K
+1438,Research & Development,Research Scientist,47,Male,3420,6,No,4,2,No,0.02970445,3.0,🟢 Low,$3K-$6K
+1938,Sales,Manager,58,Female,17875,1,Yes,4,2,No,0.02967764,3.0,🟢 Low,> $10K
+1312,Research & Development,Healthcare Representative,36,Female,7094,7,No,3,3,No,0.029437365,2.9,🟢 Low,$6K-$10K
+296,Research & Development,Research Director,51,Male,12490,10,No,2,1,No,0.029386483,2.9,🟢 Low,> $10K
+1182,Research & Development,Manufacturing Director,35,Male,10274,7,No,2,4,No,0.029275175,2.9,🟢 Low,> $10K
+754,Sales,Sales Executive,43,Male,6804,2,No,4,3,No,0.029216368,2.9,🟢 Low,$6K-$10K
+1080,Research & Development,Research Scientist,46,Female,4615,16,Yes,1,3,No,0.029157432,2.9,🟢 Low,$3K-$6K
+384,Research & Development,Manufacturing Director,26,Female,6397,6,No,2,1,No,0.029082166,2.9,🟢 Low,$6K-$10K
+580,Sales,Sales Executive,46,Female,9071,3,Yes,4,3,No,0.029079236,2.9,🟢 Low,$6K-$10K
+1238,Research & Development,Research Scientist,33,Male,2781,14,No,4,3,No,0.028812947,2.9,🟢 Low,< $3K
+1681,Sales,Sales Executive,33,Female,5368,6,Yes,4,3,No,0.028801681,2.9,🟢 Low,$3K-$6K
+1120,Research & Development,Research Scientist,29,Female,2514,7,No,4,3,No,0.028759876,2.9,🟢 Low,< $3K
+1204,Sales,Manager,46,Female,17048,26,No,1,3,No,0.028710747,2.9,🟢 Low,> $10K
+984,Sales,Sales Executive,35,Male,7823,10,No,4,3,No,0.028701408,2.9,🟢 Low,$6K-$10K
+20,Research & Development,Manufacturing Director,29,Female,9980,10,No,1,3,No,0.028566353,2.9,🟢 Low,$6K-$10K
+844,Research & Development,Research Director,27,Male,12808,9,Yes,4,3,No,0.028555546,2.9,🟢 Low,> $10K
+425,Research & Development,Laboratory Technician,45,Male,5210,24,No,1,3,No,0.028522793,2.9,🟢 Low,$3K-$6K
+231,Research & Development,Research Scientist,32,Male,3038,5,No,3,3,No,0.02851645,2.9,🟢 Low,$3K-$6K
+1499,Human Resources,Human Resources,30,Male,2064,5,No,3,4,No,0.028462285,2.8,🟢 Low,< $3K
+1542,Research & Development,Laboratory Technician,42,Male,4841,1,No,2,3,No,0.02843141,2.8,🟢 Low,$3K-$6K
+501,Research & Development,Research Scientist,36,Female,2543,2,No,3,3,No,0.028421355,2.8,🟢 Low,< $3K
+1756,Sales,Sales Executive,33,Female,5147,11,No,2,2,No,0.028377771,2.8,🟢 Low,$3K-$6K
+374,Research & Development,Manager,55,Male,19045,36,Yes,1,3,No,0.027960995,2.8,🟢 Low,> $10K
+104,Research & Development,Laboratory Technician,30,Male,5126,10,Yes,4,2,No,0.027824938,2.8,🟢 Low,$3K-$6K
+1745,Research & Development,Research Scientist,30,Female,4968,9,No,1,3,No,0.027671233,2.8,🟢 Low,$3K-$6K
+1362,Sales,Sales Executive,36,Female,4639,15,No,1,2,No,0.027653059,2.8,🟢 Low,$3K-$6K
+340,Research & Development,Research Scientist,37,Female,3920,3,No,1,2,No,0.027549446,2.8,🟢 Low,$3K-$6K
+757,Research & Development,Healthcare Representative,34,Female,6142,5,No,3,3,No,0.027532704,2.8,🟢 Low,$6K-$10K
+1854,Research & Development,Research Scientist,42,Male,2936,6,No,3,2,No,0.027466334,2.7,🟢 Low,< $3K
+786,Sales,Sales Executive,34,Male,6274,6,No,4,3,No,0.027378704,2.7,🟢 Low,$6K-$10K
+1322,Research & Development,Manufacturing Director,39,Male,4534,8,No,3,3,No,0.027300842,2.7,🟢 Low,$3K-$6K
+1814,Research & Development,Healthcare Representative,41,Male,6870,3,No,2,1,No,0.027204424,2.7,🟢 Low,$6K-$10K
+722,Sales,Sales Executive,32,Male,5396,10,No,4,2,No,0.02719447,2.7,🟢 Low,$3K-$6K
+242,Research & Development,Research Scientist,33,Male,2500,3,No,4,4,No,0.027175585,2.7,🟢 Low,< $3K
+1047,Sales,Sales Executive,34,Male,9725,15,No,4,2,No,0.027076857,2.7,🟢 Low,$6K-$10K
+36,Research & Development,Healthcare Representative,44,Female,10248,22,No,4,3,No,0.026724825,2.7,🟢 Low,> $10K
+575,Research & Development,Research Director,46,Male,17861,3,No,3,1,No,0.02667428,2.7,🟢 Low,> $10K
+710,Research & Development,Research Scientist,29,Male,2720,10,No,4,3,No,0.026651103,2.7,🟢 Low,< $3K
+2024,Sales,Sales Executive,36,Female,7644,9,No,4,3,No,0.026621258,2.7,🟢 Low,$6K-$10K
+1473,Research & Development,Healthcare Representative,49,Male,6651,3,No,3,2,No,0.026592905,2.7,🟢 Low,$6K-$10K
+102,Research & Development,Research Director,37,Male,13664,5,No,3,4,No,0.026560357,2.7,🟢 Low,> $10K
+2035,Sales,Sales Executive,34,Female,6712,8,No,3,3,No,0.026527211,2.7,🟢 Low,$6K-$10K
+562,Research & Development,Laboratory Technician,30,Male,2097,5,No,4,1,No,0.026490562,2.6,🟢 Low,< $3K
+1466,Sales,Sales Executive,48,Male,5486,2,No,1,3,No,0.026408007,2.6,🟢 Low,$3K-$6K
+197,Research & Development,Research Scientist,30,Female,3204,3,No,1,3,No,0.026397951,2.6,🟢 Low,$3K-$6K
+1291,Research & Development,Research Scientist,35,Male,3506,3,Yes,3,3,No,0.026236657,2.6,🟢 Low,$3K-$6K
+1344,Research & Development,Healthcare Representative,34,Male,8500,9,No,4,2,No,0.026213648,2.6,🟢 Low,$6K-$10K
+712,Sales,Sales Executive,48,Male,8120,2,No,2,3,No,0.026111947,2.6,🟢 Low,$6K-$10K
+1440,Research & Development,Laboratory Technician,37,Male,3500,6,No,3,1,No,0.026098128,2.6,🟢 Low,$3K-$6K
+256,Research & Development,Manufacturing Director,34,Male,9547,10,No,3,2,No,0.0260319,2.6,🟢 Low,$6K-$10K
+1304,Sales,Sales Executive,32,Male,6209,10,No,4,4,No,0.02599151,2.6,🟢 Low,$6K-$10K
+1623,Research & Development,Research Scientist,21,Male,3117,2,No,4,3,No,0.025918173,2.6,🟢 Low,$3K-$6K
+1340,Research & Development,Research Scientist,40,Male,3544,4,No,3,3,No,0.025900315,2.6,🟢 Low,$3K-$6K
+1709,Research & Development,Laboratory Technician,29,Female,2974,5,No,3,3,No,0.025876932,2.6,🟢 Low,< $3K
+465,Research & Development,Research Scientist,23,Male,2904,4,No,4,2,No,0.025836192,2.6,🟢 Low,< $3K
+306,Research & Development,Research Director,37,Male,12185,10,Yes,4,3,No,0.025821535,2.6,🟢 Low,> $10K
+408,Research & Development,Manufacturing Director,51,Male,5482,4,No,2,3,No,0.02576683,2.6,🟢 Low,$3K-$6K
+184,Human Resources,Human Resources,30,Male,6347,11,Yes,4,1,No,0.025721097,2.6,🟢 Low,$6K-$10K
+613,Sales,Manager,31,Male,11557,5,No,4,2,No,0.025684815,2.6,🟢 Low,> $10K
+1233,Sales,Sales Executive,60,Male,5220,11,Yes,4,3,No,0.025521519,2.6,🟢 Low,$3K-$6K
+630,Research & Development,Research Scientist,52,Male,5577,10,Yes,1,3,No,0.02544747,2.5,🟢 Low,$3K-$6K
+1601,Research & Development,Laboratory Technician,35,Male,2690,1,No,4,2,No,0.025445128,2.5,🟢 Low,< $3K
+1786,Research & Development,Manager,51,Female,13116,2,No,3,3,No,0.025387557,2.5,🟢 Low,> $10K
+288,Research & Development,Healthcare Representative,46,Male,9396,4,No,1,3,No,0.02537991,2.5,🟢 Low,$6K-$10K
+949,Research & Development,Research Scientist,36,Male,4678,6,No,4,3,No,0.025357967,2.5,🟢 Low,$3K-$6K
+1800,Research & Development,Research Director,39,Male,13464,4,No,3,3,No,0.025356812,2.5,🟢 Low,> $10K
+271,Research & Development,Manufacturing Director,38,Male,6553,1,No,3,3,No,0.025347812,2.5,🟢 Low,$6K-$10K
+1361,Research & Development,Laboratory Technician,40,Male,2387,4,No,2,3,No,0.025295947,2.5,🟢 Low,< $3K
+145,Research & Development,Healthcare Representative,51,Female,7484,13,No,1,2,No,0.025083287,2.5,🟢 Low,$6K-$10K
+1857,Research & Development,Manufacturing Director,46,Male,8578,9,No,4,2,No,0.025006086,2.5,🟢 Low,$6K-$10K
+1249,Research & Development,Research Scientist,29,Female,3760,3,No,4,3,No,0.02495863,2.5,🟢 Low,$3K-$6K
+1289,Human Resources,Human Resources,34,Male,4490,10,No,2,4,No,0.024933198,2.5,🟢 Low,$3K-$6K
+574,Research & Development,Manufacturing Director,47,Female,5070,5,No,4,3,No,0.024770994,2.5,🟢 Low,$3K-$6K
+1133,Research & Development,Manufacturing Director,36,Male,7779,11,No,4,3,No,0.024766078,2.5,🟢 Low,$6K-$10K
+1013,Research & Development,Manufacturing Director,54,Female,10739,10,No,3,3,No,0.024621986,2.5,🟢 Low,> $10K
+129,Sales,Sales Executive,28,Male,4221,5,No,3,4,No,0.024492979,2.4,🟢 Low,$3K-$6K
+1430,Research & Development,Research Director,31,Female,16422,3,No,2,4,No,0.024446853,2.4,🟢 Low,> $10K
+1007,Research & Development,Manufacturing Director,46,Male,10845,8,No,3,3,No,0.024432555,2.4,🟢 Low,> $10K
+1472,Research & Development,Research Director,53,Male,16598,9,No,2,2,No,0.024234138,2.4,🟢 Low,> $10K
+1550,Human Resources,Manager,40,Male,16437,21,Yes,4,3,No,0.02422011,2.4,🟢 Low,> $10K
+1501,Research & Development,Healthcare Representative,55,Male,4035,3,Yes,3,3,No,0.024206016,2.4,🟢 Low,$3K-$6K
+112,Research & Development,Manufacturing Director,56,Male,7260,6,No,4,2,No,0.024188234,2.4,🟢 Low,$6K-$10K
+707,Sales,Sales Executive,25,Male,4851,3,No,2,3,No,0.024069268,2.4,🟢 Low,$3K-$6K
+96,Research & Development,Research Scientist,32,Male,6220,10,No,2,3,No,0.023955032,2.4,🟢 Low,$6K-$10K
+1114,Sales,Sales Executive,33,Female,4302,3,No,2,3,No,0.023821548,2.4,🟢 Low,$3K-$6K
+1870,Research & Development,Research Scientist,27,Female,4774,7,No,1,2,No,0.023763744,2.4,🟢 Low,$3K-$6K
+338,Research & Development,Research Scientist,33,Female,2911,2,No,4,2,No,0.023761163,2.4,🟢 Low,< $3K
+564,Research & Development,Research Director,29,Male,11935,10,No,3,3,No,0.023750639,2.4,🟢 Low,> $10K
+894,Research & Development,Laboratory Technician,42,Female,5231,5,Yes,4,2,No,0.02354688,2.4,🟢 Low,$3K-$6K
+2037,Sales,Sales Executive,41,Male,8938,5,No,2,3,No,0.023476372,2.3,🟢 Low,$6K-$10K
+1638,Research & Development,Manufacturing Director,38,Female,7756,5,Yes,3,4,No,0.023406005,2.3,🟢 Low,$6K-$10K
+1973,Human Resources,Manager,55,Male,19636,10,Yes,2,3,No,0.023302514,2.3,🟢 Low,> $10K
+202,Research & Development,Research Scientist,40,Female,5605,20,No,2,3,No,0.02320944,2.3,🟢 Low,$3K-$6K
+1237,Research & Development,Manufacturing Director,36,Female,10252,7,Yes,1,3,No,0.023147825,2.3,🟢 Low,> $10K
+569,Research & Development,Manager,50,Male,17046,27,No,3,3,No,0.023059152,2.3,🟢 Low,> $10K
+1137,Sales,Sales Executive,35,Male,4968,5,No,4,3,No,0.022958035,2.3,🟢 Low,$3K-$6K
+2051,Research & Development,Research Scientist,40,Female,2001,5,No,3,3,No,0.02293639,2.3,🟢 Low,< $3K
+1382,Research & Development,Research Scientist,38,Male,2610,4,No,3,3,No,0.022929857,2.3,🟢 Low,< $3K
+1719,Research & Development,Research Director,45,Female,16704,21,No,2,3,No,0.022925109,2.3,🟢 Low,> $10K
+423,Research & Development,Research Scientist,31,Male,4821,5,Yes,4,3,No,0.022887852,2.3,🟢 Low,$3K-$6K
+98,Research & Development,Manufacturing Director,31,Female,4424,11,No,4,3,No,0.022857802,2.3,🟢 Low,$3K-$6K
+1235,Research & Development,Research Scientist,32,Female,4998,8,Yes,3,3,No,0.022838311,2.3,🟢 Low,$3K-$6K
+529,Research & Development,Research Scientist,37,Female,4449,13,Yes,3,3,No,0.022763437,2.3,🟢 Low,$3K-$6K
+158,Sales,Manager,43,Male,16959,25,Yes,4,4,No,0.022739487,2.3,🟢 Low,> $10K
+1003,Sales,Sales Executive,47,Female,4163,9,Yes,4,3,No,0.022652673,2.3,🟢 Low,$3K-$6K
+1471,Research & Development,Laboratory Technician,44,Male,3162,5,No,3,3,No,0.02254191,2.3,🟢 Low,$3K-$6K
+23,Sales,Manager,53,Female,15427,25,No,4,3,No,0.022537692,2.3,🟢 Low,> $10K
+1815,Sales,Sales Executive,41,Female,10447,22,Yes,3,4,No,0.022237414,2.2,🟢 Low,> $10K
+1267,Sales,Manager,44,Male,18213,22,No,2,3,No,0.022164265,2.2,🟢 Low,> $10K
+2036,Sales,Sales Executive,36,Male,5406,15,No,4,2,No,0.022152212,2.2,🟢 Low,$3K-$6K
+1523,Research & Development,Research Director,44,Male,16328,20,No,1,4,No,0.022041209,2.2,🟢 Low,> $10K
+2034,Research & Development,Manufacturing Director,41,Female,13570,20,No,2,3,No,0.022012994,2.2,🟢 Low,> $10K
+40,Research & Development,Healthcare Representative,44,Male,6465,4,Yes,4,4,No,0.021967316,2.2,🟢 Low,$6K-$10K
+1192,Research & Development,Laboratory Technician,29,Female,3131,10,No,4,3,No,0.021956455,2.2,🟢 Low,$3K-$6K
+304,Research & Development,Laboratory Technician,36,Male,5914,13,No,2,4,No,0.021953495,2.2,🟢 Low,$3K-$6K
+1952,Research & Development,Laboratory Technician,26,Male,2867,7,No,1,2,No,0.02194222,2.2,🟢 Low,< $3K
+1596,Research & Development,Laboratory Technician,35,Male,3407,10,No,3,2,No,0.021875584,2.2,🟢 Low,$3K-$6K
+38,Sales,Manager,46,Female,18947,2,No,1,2,No,0.021733405,2.2,🟢 Low,> $10K
+1260,Research & Development,Healthcare Representative,29,Male,6623,6,Yes,4,3,No,0.021721983,2.2,🟢 Low,$6K-$10K
+823,Research & Development,Manufacturing Director,36,Female,5228,9,No,2,3,No,0.02162074,2.2,🟢 Low,$3K-$6K
+452,Research & Development,Research Scientist,45,Male,3697,10,No,4,3,No,0.021600317,2.2,🟢 Low,$3K-$6K
+380,Research & Development,Research Director,37,Female,13603,5,Yes,4,3,No,0.021598075,2.2,🟢 Low,> $10K
+985,Sales,Sales Executive,39,Male,7880,8,No,3,3,No,0.021569466,2.2,🟢 Low,$6K-$10K
+806,Research & Development,Laboratory Technician,30,Male,3833,2,No,3,3,No,0.02144667,2.1,🟢 Low,$3K-$6K
+1285,Research & Development,Laboratory Technician,34,Female,4444,11,No,2,4,No,0.021436391,2.1,🟢 Low,$3K-$6K
+966,Research & Development,Manufacturing Director,32,Female,6725,8,No,1,4,No,0.021434275,2.1,🟢 Low,$6K-$10K
+302,Sales,Sales Executive,45,Female,8865,19,No,4,3,No,0.021379055,2.1,🟢 Low,$6K-$10K
+731,Human Resources,Manager,41,Male,19141,21,No,4,2,No,0.021358993,2.1,🟢 Low,> $10K
+1128,Research & Development,Research Director,40,Male,19626,20,No,3,4,No,0.021353068,2.1,🟢 Low,> $10K
+131,Sales,Sales Executive,58,Male,13872,37,No,3,2,No,0.02123234,2.1,🟢 Low,> $10K
+520,Research & Development,Research Director,43,Male,14336,25,No,2,3,No,0.021092441,2.1,🟢 Low,> $10K
+1315,Research & Development,Laboratory Technician,28,Female,6674,9,No,4,3,No,0.021078577,2.1,🟢 Low,$6K-$10K
+244,Sales,Sales Executive,46,Female,10453,24,No,1,3,No,0.021064399,2.1,🟢 Low,> $10K
+1109,Research & Development,Manager,42,Male,17665,22,No,1,3,No,0.02096314,2.1,🟢 Low,> $10K
+1592,Research & Development,Research Scientist,23,Male,2073,2,No,3,3,No,0.020889,2.1,🟢 Low,< $3K
+1937,Research & Development,Research Scientist,38,Female,2133,20,Yes,2,3,No,0.020813778,2.1,🟢 Low,< $3K
+8,Research & Development,Laboratory Technician,32,Male,3068,7,No,4,2,No,0.020751914,2.1,🟢 Low,$3K-$6K
+1847,Research & Development,Research Scientist,36,Female,6962,1,Yes,2,3,No,0.020743331,2.1,🟢 Low,$6K-$10K
+1755,Research & Development,Research Scientist,34,Male,2932,5,Yes,4,3,No,0.020734606,2.1,🟢 Low,< $3K
+1257,Research & Development,Research Scientist,36,Male,3692,11,No,2,2,No,0.0206839,2.1,🟢 Low,$3K-$6K
+544,Research & Development,Research Scientist,45,Male,2654,2,No,4,2,No,0.020602189,2.1,🟢 Low,< $3K
+1651,Research & Development,Healthcare Representative,36,Female,8008,3,No,1,3,No,0.020565147,2.1,🟢 Low,$6K-$10K
+1412,Research & Development,Manufacturing Director,35,Male,9362,2,No,4,3,No,0.02052892,2.1,🟢 Low,$6K-$10K
+845,Research & Development,Manufacturing Director,35,Male,10221,8,No,3,4,No,0.020499777,2.0,🟢 Low,> $10K
+882,Research & Development,Laboratory Technician,32,Male,2314,3,No,4,3,No,0.020462342,2.0,🟢 Low,< $3K
+1278,Research & Development,Healthcare Representative,55,Male,13577,33,Yes,2,3,No,0.020440724,2.0,🟢 Low,> $10K
+507,Sales,Sales Executive,24,Female,4260,5,Yes,3,4,No,0.020375704,2.0,🟢 Low,$3K-$6K
+148,Human Resources,Manager,54,Female,17328,5,Yes,4,3,No,0.020352751,2.0,🟢 Low,> $10K
+548,Research & Development,Manufacturing Director,30,Female,6091,5,No,4,3,No,0.020286413,2.0,🟢 Low,$6K-$10K
+57,Research & Development,Laboratory Technician,30,Female,4011,12,No,4,3,No,0.020238724,2.0,🟢 Low,$3K-$6K
+1024,Research & Development,Healthcare Representative,48,Male,10999,15,No,3,3,No,0.020099794,2.0,🟢 Low,> $10K
+902,Research & Development,Healthcare Representative,43,Female,5562,5,No,4,2,No,0.020099564,2.0,🟢 Low,$3K-$6K
+1259,Research & Development,Research Scientist,27,Male,2517,5,No,3,3,No,0.020011796,2.0,🟢 Low,< $3K
+422,Research & Development,Healthcare Representative,58,Male,5660,5,Yes,3,3,No,0.020011496,2.0,🟢 Low,$3K-$6K
+139,Research & Development,Healthcare Representative,37,Male,5163,1,No,4,4,No,0.019992232,2.0,🟢 Low,$3K-$6K
+1934,Research & Development,Research Scientist,47,Male,5467,8,No,2,4,No,0.019947965,2.0,🟢 Low,$3K-$6K
+742,Research & Development,Research Director,36,Female,11713,8,No,1,3,No,0.019833546,2.0,🟢 Low,> $10K
+211,Research & Development,Manufacturing Director,51,Male,6132,1,No,3,3,No,0.019757878,2.0,🟢 Low,$6K-$10K
+1554,Sales,Sales Representative,35,Female,2430,5,No,3,3,No,0.019725038,2.0,🟢 Low,< $3K
+880,Research & Development,Manufacturing Director,35,Female,10685,17,Yes,3,3,No,0.019593058,2.0,🟢 Low,> $10K
+419,Research & Development,Laboratory Technician,36,Female,5674,9,No,2,3,No,0.019585406,2.0,🟢 Low,$3K-$6K
+450,Research & Development,Research Scientist,54,Female,4869,4,No,3,2,No,0.019534964,2.0,🟢 Low,$3K-$6K
+2052,Research & Development,Research Scientist,35,Female,2977,4,No,4,3,No,0.01935455,1.9,🟢 Low,< $3K
+1892,Research & Development,Manager,40,Male,16823,19,No,1,3,No,0.019080713,1.9,🟢 Low,> $10K
+1355,Sales,Sales Executive,38,Female,6893,7,No,1,3,No,0.019073894,1.9,🟢 Low,$6K-$10K
+499,Research & Development,Healthcare Representative,49,Male,10965,5,No,3,3,No,0.01897659,1.9,🟢 Low,> $10K
+1947,Research & Development,Research Scientist,28,Male,2144,5,No,3,2,No,0.018788641,1.9,🟢 Low,< $3K
+264,Research & Development,Manager,45,Male,16792,20,No,4,3,No,0.018715724,1.9,🟢 Low,> $10K
+924,Research & Development,Healthcare Representative,36,Male,6586,16,Yes,4,2,No,0.018713595,1.9,🟢 Low,$6K-$10K
+1367,Research & Development,Manufacturing Director,51,Female,13142,5,No,2,2,No,0.018709937,1.9,🟢 Low,> $10K
+1888,Research & Development,Manufacturing Director,45,Female,5906,9,No,4,2,No,0.018696984,1.9,🟢 Low,$3K-$6K
+1703,Research & Development,Healthcare Representative,44,Female,7879,8,Yes,4,3,No,0.018653473,1.9,🟢 Low,$6K-$10K
+1256,Research & Development,Manager,49,Male,18711,1,No,3,4,No,0.018619603,1.9,🟢 Low,> $10K
+1097,Research & Development,Research Scientist,28,Female,3660,8,No,3,4,No,0.018616814,1.9,🟢 Low,$3K-$6K
+1778,Human Resources,Human Resources,43,Male,3539,9,No,4,3,No,0.018572517,1.9,🟢 Low,$3K-$6K
+105,Research & Development,Research Scientist,35,Male,2859,6,No,3,3,No,0.018558068,1.9,🟢 Low,< $3K
+343,Research & Development,Healthcare Representative,39,Female,10938,19,No,3,3,No,0.01853449,1.9,🟢 Low,> $10K
+1764,Research & Development,Research Scientist,32,Male,2718,7,No,2,3,No,0.018440166,1.8,🟢 Low,< $3K
+327,Sales,Manager,43,Female,16064,17,Yes,4,3,No,0.018390412,1.8,🟢 Low,> $10K
+551,Research & Development,Healthcare Representative,42,Female,4523,6,No,4,4,No,0.018253325,1.8,🟢 Low,$3K-$6K
+671,Research & Development,Manager,44,Male,19513,2,Yes,4,4,No,0.018147359,1.8,🟢 Low,> $10K
+1245,Research & Development,Manufacturing Director,54,Female,10502,5,No,3,1,No,0.018122049,1.8,🟢 Low,> $10K
+601,Research & Development,Manufacturing Director,40,Female,13237,20,No,3,3,No,0.017980358,1.8,🟢 Low,> $10K
+1954,Research & Development,Healthcare Representative,29,Male,5373,5,No,1,2,No,0.017893264,1.8,🟢 Low,$3K-$6K
+372,Research & Development,Healthcare Representative,45,Male,13496,20,Yes,4,3,No,0.017889744,1.8,🟢 Low,> $10K
+1911,Research & Development,Research Director,42,Male,13348,13,No,1,4,No,0.017851822,1.8,🟢 Low,> $10K
+1068,Research & Development,Research Scientist,26,Female,2007,5,No,3,3,No,0.017805882,1.8,🟢 Low,< $3K
+942,Research & Development,Healthcare Representative,35,Female,4014,10,Yes,4,1,No,0.017784113,1.8,🟢 Low,$3K-$6K
+1867,Research & Development,Research Director,48,Male,19665,22,No,2,3,No,0.017779917,1.8,🟢 Low,> $10K
+522,Research & Development,Research Director,54,Male,19406,4,No,1,2,No,0.017739223,1.8,🟢 Low,> $10K
+807,Research & Development,Healthcare Representative,40,Female,4244,8,No,2,3,No,0.01765082,1.8,🟢 Low,$3K-$6K
+855,Sales,Sales Executive,33,Male,4037,9,No,1,3,No,0.017479133,1.7,🟢 Low,$3K-$6K
+250,Research & Development,Manufacturing Director,53,Female,4450,4,No,1,3,No,0.01746102,1.7,🟢 Low,$3K-$6K
+1346,Research & Development,Research Scientist,40,Male,4661,9,No,4,3,No,0.01744277,1.7,🟢 Low,$3K-$6K
+571,Research & Development,Laboratory Technician,30,Female,2564,11,No,4,2,No,0.017323466,1.7,🟢 Low,< $3K
+1656,Research & Development,Research Director,50,Female,13269,14,No,1,3,No,0.0173145,1.7,🟢 Low,> $10K
+298,Sales,Manager,41,Female,13591,1,Yes,4,3,No,0.017290281,1.7,🟢 Low,> $10K
+1161,Research & Development,Healthcare Representative,37,Female,5731,6,No,4,3,No,0.017111667,1.7,🟢 Low,$3K-$6K
+1422,Research & Development,Research Director,54,Female,17328,20,No,4,2,No,0.017081771,1.7,🟢 Low,> $10K
+517,Research & Development,Laboratory Technician,42,Female,2576,5,No,1,3,No,0.017022515,1.7,🟢 Low,< $3K
+692,Research & Development,Healthcare Representative,33,Male,7725,13,No,4,1,No,0.016897762,1.7,🟢 Low,$6K-$10K
+456,Sales,Sales Executive,30,Female,6118,10,No,3,3,No,0.016881881,1.7,🟢 Low,$6K-$10K
+86,Research & Development,Research Scientist,45,Male,9724,1,No,1,3,No,0.016857237,1.7,🟢 Low,$6K-$10K
+1823,Sales,Sales Executive,34,Male,6799,10,No,3,3,No,0.016631808,1.7,🟢 Low,$6K-$10K
+84,Research & Development,Manager,55,Female,14756,5,Yes,3,3,No,0.016617268,1.7,🟢 Low,> $10K
+659,Research & Development,Healthcare Representative,42,Female,4089,10,No,4,3,No,0.01654398,1.7,🟢 Low,$3K-$6K
+389,Research & Development,Laboratory Technician,55,Male,5415,10,Yes,4,3,No,0.01647281,1.6,🟢 Low,$3K-$6K
+378,Sales,Sales Executive,37,Male,6502,5,No,4,4,No,0.016431376,1.6,🟢 Low,$6K-$10K
+665,Human Resources,Human Resources,44,Female,5985,2,No,3,4,No,0.016392611,1.6,🟢 Low,$3K-$6K
+1618,Research & Development,Manufacturing Director,39,Male,5377,7,No,1,3,No,0.016342979,1.6,🟢 Low,$3K-$6K
+1474,Research & Development,Research Scientist,40,Male,2345,3,No,3,4,No,0.016323835,1.6,🟢 Low,< $3K
+477,Research & Development,Healthcare Representative,42,Male,6781,1,No,4,3,No,0.016237173,1.6,🟢 Low,$6K-$10K
+1986,Sales,Sales Executive,40,Female,5677,11,No,2,3,No,0.016074862,1.6,🟢 Low,$3K-$6K
+430,Research & Development,Laboratory Technician,43,Female,2455,8,No,4,3,No,0.015842581,1.6,🟢 Low,< $3K
+523,Sales,Sales Executive,34,Female,6538,3,No,3,3,No,0.015811741,1.6,🟢 Low,$6K-$10K
+1121,Research & Development,Manufacturing Director,28,Female,7655,9,No,2,2,No,0.015769064,1.6,🟢 Low,$6K-$10K
+479,Sales,Sales Executive,36,Female,6653,1,No,4,3,No,0.01565973,1.6,🟢 Low,$6K-$10K
+972,Research & Development,Laboratory Technician,45,Male,4447,9,No,2,2,No,0.015582024,1.6,🟢 Low,$3K-$6K
+623,Research & Development,Manufacturing Director,37,Female,7491,6,No,4,4,No,0.015573556,1.6,🟢 Low,$6K-$10K
+28,Research & Development,Research Director,34,Female,11994,12,No,2,3,No,0.015567774,1.6,🟢 Low,> $10K
+420,Sales,Sales Executive,32,Male,5484,13,No,3,2,No,0.015505147,1.6,🟢 Low,$3K-$6K
+1268,Sales,Sales Executive,33,Male,8380,9,Yes,3,3,No,0.015494073,1.5,🟢 Low,$6K-$10K
+1689,Research & Development,Healthcare Representative,53,Male,7005,4,No,4,3,No,0.015481771,1.5,🟢 Low,$6K-$10K
+1516,Research & Development,Manager,32,Male,11244,5,No,4,4,No,0.015471838,1.5,🟢 Low,> $10K
+153,Research & Development,Manager,34,Female,11631,11,No,1,3,No,0.015390683,1.5,🟢 Low,> $10K
+143,Research & Development,Research Scientist,25,Male,2889,2,No,4,3,No,0.015332702,1.5,🟢 Low,< $3K
+369,Research & Development,Healthcare Representative,25,Male,4000,6,No,1,3,No,0.015272799,1.5,🟢 Low,$3K-$6K
+58,Research & Development,Research Director,41,Female,19545,22,No,3,3,Yes,0.015215112,1.5,🟢 Low,> $10K
+1162,Research & Development,Research Scientist,27,Male,2539,4,No,3,3,No,0.01521477,1.5,🟢 Low,< $3K
+468,Research & Development,Research Director,42,Female,15992,1,No,4,3,No,0.01520267,1.5,🟢 Low,> $10K
+505,Research & Development,Manager,55,Female,16659,5,Yes,4,3,No,0.015171134,1.5,🟢 Low,> $10K
+843,Research & Development,Research Director,43,Male,17159,4,No,1,3,No,0.015066739,1.5,🟢 Low,> $10K
+2008,Research & Development,Research Scientist,35,Male,5098,10,No,3,3,No,0.015063599,1.5,🟢 Low,$3K-$6K
+387,Sales,Sales Executive,42,Male,4907,20,No,3,3,No,0.014998439,1.5,🟢 Low,$3K-$6K
+827,Research & Development,Manufacturing Director,42,Female,6062,4,Yes,4,3,No,0.014883016,1.5,🟢 Low,$6K-$10K
+1999,Research & Development,Research Scientist,41,Male,2782,5,No,4,3,No,0.014881296,1.5,🟢 Low,< $3K
+1661,Research & Development,Healthcare Representative,49,Female,13966,15,Yes,3,3,No,0.014872931,1.5,🟢 Low,> $10K
+1655,Research & Development,Research Director,49,Female,16413,4,No,2,3,No,0.014856117,1.5,🟢 Low,> $10K
+716,Research & Development,Laboratory Technician,50,Male,3221,20,Yes,3,3,No,0.014787833,1.5,🟢 Low,$3K-$6K
+634,Research & Development,Healthcare Representative,38,Female,9824,1,No,3,3,No,0.014604756,1.5,🟢 Low,$6K-$10K
+1015,Research & Development,Research Director,30,Female,11416,8,Yes,1,2,No,0.014598483,1.5,🟢 Low,> $10K
+385,Research & Development,Research Director,50,Male,19144,10,No,2,2,No,0.0144621665,1.4,🟢 Low,> $10K
+1363,Research & Development,Manufacturing Director,48,Male,7898,10,No,4,3,No,0.014408673,1.4,🟢 Low,$6K-$10K
+1152,Human Resources,Human Resources,38,Male,2844,7,No,3,4,No,0.014405511,1.4,🟢 Low,< $3K
+947,Sales,Sales Executive,31,Female,6932,9,No,3,2,No,0.014305475,1.4,🟢 Low,$6K-$10K
+2049,Research & Development,Healthcare Representative,35,Male,5689,10,Yes,3,4,No,0.014094611,1.4,🟢 Low,$3K-$6K
+1989,Research & Development,Laboratory Technician,30,Male,3748,12,No,2,2,No,0.014002152,1.4,🟢 Low,$3K-$6K
+1979,Research & Development,Research Director,31,Female,11031,11,No,3,4,No,0.0139387855,1.4,🟢 Low,> $10K
+259,Research & Development,Manager,52,Male,19999,33,No,3,3,No,0.013915184,1.4,🟢 Low,> $10K
+178,Research & Development,Manufacturing Director,36,Male,4941,3,No,2,3,No,0.013837596,1.4,🟢 Low,$3K-$6K
+625,Sales,Manager,41,Female,16595,18,No,1,3,No,0.0138278715,1.4,🟢 Low,> $10K
+410,Sales,Manager,41,Male,16015,22,No,2,3,No,0.013766823,1.4,🟢 Low,> $10K
+292,Research & Development,Manufacturing Director,30,Male,8474,11,No,3,3,No,0.013748675,1.4,🟢 Low,$6K-$10K
+1858,Human Resources,Human Resources,28,Male,2706,3,No,4,3,No,0.013690288,1.4,🟢 Low,< $3K
+1483,Research & Development,Research Scientist,57,Male,4900,12,No,3,2,No,0.013683735,1.4,🟢 Low,$3K-$6K
+76,Research & Development,Laboratory Technician,31,Male,5915,7,No,4,2,No,0.013675109,1.4,🟢 Low,$3K-$6K
+32,Research & Development,Manager,53,Female,19094,14,No,3,2,No,0.013650343,1.4,🟢 Low,> $10K
+300,Research & Development,Research Scientist,29,Male,2058,6,No,3,2,Yes,0.013488146,1.3,🟢 Low,< $3K
+350,Research & Development,Manufacturing Director,25,Female,4898,4,No,3,3,No,0.01347088,1.3,🟢 Low,$3K-$6K
+1349,Sales,Sales Executive,41,Female,4103,9,No,1,3,No,0.013425166,1.3,🟢 Low,$3K-$6K
+1580,Research & Development,Research Scientist,34,Male,5484,2,No,4,2,No,0.013405336,1.3,🟢 Low,$3K-$6K
+1025,Research & Development,Manufacturing Director,41,Female,5003,2,No,3,3,No,0.013336035,1.3,🟢 Low,$3K-$6K
+138,Research & Development,Research Scientist,34,Female,4809,16,No,3,3,No,0.013308244,1.3,🟢 Low,$3K-$6K
+391,Research & Development,Research Scientist,37,Female,2115,17,No,4,3,No,0.013306742,1.3,🟢 Low,< $3K
+117,Research & Development,Healthcare Representative,30,Male,4152,11,No,4,3,No,0.013180451,1.3,🟢 Low,$3K-$6K
+226,Research & Development,Manager,50,Female,19926,5,No,2,3,No,0.01312969,1.3,🟢 Low,> $10K
+595,Sales,Sales Executive,48,Female,4051,9,No,4,3,No,0.013124365,1.3,🟢 Low,$3K-$6K
+851,Sales,Manager,51,Female,16307,20,No,3,2,No,0.013066854,1.3,🟢 Low,> $10K
+121,Sales,Sales Executive,30,Female,5209,11,Yes,2,2,No,0.012877216,1.3,🟢 Low,$3K-$6K
+1722,Human Resources,Human Resources,41,Male,6430,3,No,2,3,No,0.0128767,1.3,🟢 Low,$6K-$10K
+1863,Sales,Sales Executive,46,Female,13225,19,No,1,3,No,0.012803061,1.3,🟢 Low,> $10K
+940,Research & Development,Healthcare Representative,58,Female,10552,6,Yes,2,3,No,0.012754713,1.3,🟢 Low,> $10K
+1578,Sales,Manager,55,Male,19586,36,No,4,3,No,0.012744234,1.3,🟢 Low,> $10K
+341,Research & Development,Manufacturing Director,45,Male,6434,3,No,3,3,No,0.012741259,1.3,🟢 Low,$6K-$10K
+126,Research & Development,Research Director,54,Female,13549,4,No,3,1,No,0.012727147,1.3,🟢 Low,> $10K
+1098,Human Resources,Human Resources,44,Male,10482,20,No,1,3,Yes,0.012695091,1.3,🟢 Low,> $10K
+1005,Research & Development,Manufacturing Director,50,Male,13973,12,Yes,3,3,No,0.012559678,1.3,🟢 Low,> $10K
+1246,Research & Development,Research Scientist,44,Female,2011,10,No,4,3,No,0.012481409,1.2,🟢 Low,< $3K
+867,Research & Development,Manufacturing Director,52,Female,13826,9,No,4,3,No,0.01238116,1.2,🟢 Low,> $10K
+13,Research & Development,Healthcare Representative,36,Male,5237,7,No,3,2,No,0.012259051,1.2,🟢 Low,$3K-$6K
+253,Research & Development,Manager,40,Female,19033,20,No,3,3,No,0.011949113,1.2,🟢 Low,> $10K
+1027,Research & Development,Manufacturing Director,27,Female,4227,3,No,4,3,No,0.01187359,1.2,🟢 Low,$3K-$6K
+826,Research & Development,Research Scientist,35,Female,2506,2,No,3,3,No,0.011787009,1.2,🟢 Low,< $3K
+526,Research & Development,Healthcare Representative,43,Female,4522,5,Yes,3,3,No,0.011744611,1.2,🟢 Low,$3K-$6K
+208,Research & Development,Manufacturing Director,29,Male,4319,10,No,3,3,No,0.0115746455,1.2,🟢 Low,$3K-$6K
+83,Research & Development,Healthcare Representative,36,Female,10096,17,No,3,3,No,0.011523092,1.2,🟢 Low,> $10K
+847,Human Resources,Human Resources,34,Male,3737,3,No,4,1,No,0.0114323795,1.1,🟢 Low,$3K-$6K
+1922,Research & Development,Healthcare Representative,45,Male,5399,4,No,3,3,No,0.011426982,1.1,🟢 Low,$3K-$6K
+1029,Sales,Manager,42,Male,18303,1,No,3,4,No,0.011379339,1.1,🟢 Low,> $10K
+1955,Research & Development,Healthcare Representative,32,Female,6667,5,No,4,3,No,0.011365341,1.1,🟢 Low,$6K-$10K
+824,Research & Development,Research Scientist,29,Male,2700,10,No,3,3,No,0.011350707,1.1,🟢 Low,< $3K
+1728,Research & Development,Manufacturing Director,35,Male,6883,7,No,3,3,No,0.011262224,1.1,🟢 Low,$6K-$10K
+312,Sales,Sales Executive,29,Female,7918,11,No,4,3,No,0.011195305,1.1,🟢 Low,$6K-$10K
+809,Research & Development,Manager,42,Male,18430,24,No,4,2,No,0.011186367,1.1,🟢 Low,> $10K
+1871,Research & Development,Research Scientist,39,Male,3902,2,No,4,3,No,0.011022659,1.1,🟢 Low,$3K-$6K
+26,Research & Development,Manufacturing Director,24,Female,4011,4,No,3,2,No,0.010906642,1.1,🟢 Low,$3K-$6K
+655,Research & Development,Research Scientist,27,Female,2187,5,No,3,2,No,0.010870432,1.1,🟢 Low,< $3K
+820,Research & Development,Manager,47,Female,16752,26,Yes,4,2,No,0.010862651,1.1,🟢 Low,> $10K
+1085,Research & Development,Research Scientist,41,Female,3376,10,No,3,3,No,0.010861351,1.1,🟢 Low,$3K-$6K
+381,Research & Development,Manager,35,Female,11996,7,No,2,2,No,0.010815709,1.1,🟢 Low,> $10K
+969,Research & Development,Healthcare Representative,33,Female,6949,5,No,4,3,No,0.010813618,1.1,🟢 Low,$6K-$10K
+815,Research & Development,Research Director,50,Male,17639,4,No,3,3,No,0.01071981,1.1,🟢 Low,> $10K
+460,Research & Development,Manufacturing Director,37,Male,6347,6,No,4,2,No,0.010711802,1.1,🟢 Low,$6K-$10K
+727,Research & Development,Research Director,32,Female,11159,7,No,4,3,No,0.010696175,1.1,🟢 Low,> $10K
+797,Research & Development,Research Scientist,34,Female,3280,4,No,4,3,No,0.010679117,1.1,🟢 Low,$3K-$6K
+2048,Research & Development,Research Scientist,40,Male,2809,2,No,3,3,No,0.010532266,1.1,🟢 Low,< $3K
+287,Research & Development,Healthcare Representative,40,Male,4876,3,No,4,1,No,0.010414367,1.0,🟢 Low,$3K-$6K
+531,Research & Development,Manager,39,Male,19197,21,Yes,3,3,No,0.010304948,1.0,🟢 Low,> $10K
+1693,Research & Development,Laboratory Technician,26,Male,2570,7,No,4,3,No,0.010144704,1.0,🟢 Low,< $3K
+714,Sales,Sales Executive,27,Female,4647,6,Yes,4,3,No,0.0100118695,1.0,🟢 Low,$3K-$6K
+1552,Research & Development,Healthcare Representative,40,Male,4069,2,Yes,4,3,No,0.009985889,1.0,🟢 Low,$3K-$6K
+421,Research & Development,Research Director,38,Female,12061,10,No,2,3,No,0.009889118,1.0,🟢 Low,> $10K
+308,Research & Development,Manufacturing Director,31,Male,4345,5,No,3,3,No,0.009823296,1.0,🟢 Low,$3K-$6K
+1621,Research & Development,Research Scientist,35,Male,5208,16,No,1,3,No,0.009758874,1.0,🟢 Low,$3K-$6K
+1744,Human Resources,Human Resources,45,Female,9756,5,No,3,4,No,0.009727364,1.0,🟢 Low,$6K-$10K
+1670,Sales,Sales Executive,33,Male,5505,6,No,4,3,No,0.009680419,1.0,🟢 Low,$3K-$6K
+1664,Research & Development,Healthcare Representative,36,Male,6842,5,No,1,3,No,0.009631401,1.0,🟢 Low,$6K-$10K
+1595,Research & Development,Manager,42,Male,19613,1,No,4,3,No,0.0096279215,1.0,🟢 Low,> $10K
+395,Research & Development,Research Scientist,28,Female,3310,5,No,4,3,No,0.009541817,1.0,🟢 Low,$3K-$6K
+319,Research & Development,Manager,42,Male,19232,22,No,4,3,No,0.009536731,1.0,🟢 Low,> $10K
+77,Research & Development,Manufacturing Director,37,Male,5993,7,No,3,4,No,0.009495969,0.9,🟢 Low,$3K-$6K
+1962,Sales,Sales Executive,35,Female,5204,10,Yes,4,3,No,0.009482434,0.9,🟢 Low,$3K-$6K
+909,Human Resources,Human Resources,39,Female,5204,5,No,4,3,No,0.00946564,0.9,🟢 Low,$3K-$6K
+1546,Research & Development,Research Scientist,45,Male,2132,5,No,4,3,No,0.009222489,0.9,🟢 Low,< $3K
+1687,Research & Development,Laboratory Technician,38,Female,3306,0,No,3,2,No,0.00919243,0.9,🟢 Low,$3K-$6K
+1018,Research & Development,Manufacturing Director,26,Male,5472,8,No,4,3,No,0.009168297,0.9,🟢 Low,$3K-$6K
+2017,Research & Development,Research Director,37,Female,13744,16,Yes,4,3,No,0.009102005,0.9,🟢 Low,> $10K
+1572,Research & Development,Manufacturing Director,53,Female,10169,33,No,4,3,Yes,0.009090203,0.9,🟢 Low,> $10K
+1976,Research & Development,Research Scientist,42,Male,4332,20,No,3,3,No,0.0090092765,0.9,🟢 Low,$3K-$6K
+1228,Research & Development,Manufacturing Director,46,Male,7379,6,No,4,2,No,0.008971953,0.9,🟢 Low,$6K-$10K
+1375,Research & Development,Healthcare Representative,40,Female,6377,12,No,3,3,No,0.008926731,0.9,🟢 Low,$6K-$10K
+335,Research & Development,Research Scientist,40,Male,3319,9,No,4,3,No,0.008856609,0.9,🟢 Low,$3K-$6K
+677,Sales,Sales Executive,33,Male,7104,5,No,3,3,No,0.008694001,0.9,🟢 Low,$6K-$10K
+581,Research & Development,Manufacturing Director,31,Male,10648,13,No,2,4,No,0.008648188,0.9,🟢 Low,> $10K
+1635,Research & Development,Manufacturing Director,45,Female,5770,10,No,4,3,No,0.008597873,0.9,🟢 Low,$3K-$6K
+349,Sales,Sales Executive,29,Male,6931,3,No,4,3,No,0.008479324,0.8,🟢 Low,$6K-$10K
+461,Research & Development,Research Director,38,Male,11510,11,Yes,4,3,No,0.008441175,0.8,🟢 Low,> $10K
+1666,Research & Development,Research Director,43,Male,17603,14,No,3,3,No,0.008380612,0.8,🟢 Low,> $10K
+100,Sales,Sales Executive,35,Male,4312,15,No,1,3,No,0.008375802,0.8,🟢 Low,$3K-$6K
+2015,Research & Development,Research Director,38,Female,13206,18,No,3,3,No,0.008195689,0.8,🟢 Low,> $10K
+1606,Research & Development,Healthcare Representative,50,Male,11245,30,Yes,3,3,No,0.008026203,0.8,🟢 Low,> $10K
+1671,Research & Development,Research Scientist,32,Male,5470,9,No,2,2,No,0.007987673,0.8,🟢 Low,$3K-$6K
+709,Sales,Sales Executive,38,Female,4028,7,No,4,3,No,0.007843277,0.8,🟢 Low,$3K-$6K
+1653,Research & Development,Manufacturing Director,25,Male,5206,7,No,3,3,No,0.0077740275,0.8,🟢 Low,$3K-$6K
+987,Research & Development,Manufacturing Director,47,Male,5067,19,Yes,3,4,No,0.0076040635,0.8,🟢 Low,$3K-$6K
+661,Research & Development,Research Director,43,Male,16627,1,Yes,4,2,No,0.0075881644,0.8,🟢 Low,> $10K
+550,Research & Development,Manufacturing Director,46,Female,4810,10,No,3,2,No,0.007578532,0.8,🟢 Low,$3K-$6K
+830,Research & Development,Manufacturing Director,32,Female,6162,14,No,3,3,No,0.0075158826,0.8,🟢 Low,$6K-$10K
+869,Human Resources,Human Resources,28,Male,4936,5,No,4,3,No,0.007508527,0.8,🟢 Low,$3K-$6K
+1677,Research & Development,Manager,49,Male,15379,8,No,3,3,No,0.0074507594,0.7,🟢 Low,> $10K
+377,Research & Development,Research Scientist,28,Male,2070,5,No,4,2,No,0.0074107405,0.7,🟢 Low,< $3K
+734,Human Resources,Manager,41,Male,19189,22,No,3,3,No,0.007410397,0.7,🟢 Low,> $10K
+1834,Research & Development,Research Scientist,28,Female,3591,3,No,1,3,No,0.00727007,0.7,🟢 Low,$3K-$6K
+1231,Human Resources,Human Resources,42,Male,6272,4,No,1,4,No,0.007221091,0.7,🟢 Low,$6K-$10K
+1115,Research & Development,Research Scientist,34,Male,2979,0,No,4,3,No,0.007176617,0.7,🟢 Low,< $3K
+683,Research & Development,Research Scientist,34,Male,2691,10,No,4,2,No,0.0071028313,0.7,🟢 Low,< $3K
+361,Sales,Sales Executive,38,Male,5249,8,No,4,3,No,0.0069195353,0.7,🟢 Low,$3K-$6K
+791,Research & Development,Research Scientist,52,Male,4258,4,No,4,3,No,0.006915359,0.7,🟢 Low,$3K-$6K
+1397,Research & Development,Healthcare Representative,39,Male,10920,6,No,3,3,No,0.006766369,0.7,🟢 Low,> $10K
+2007,Research & Development,Research Scientist,22,Male,3375,3,No,3,4,No,0.006761894,0.7,🟢 Low,$3K-$6K
+664,Research & Development,Manager,48,Female,15402,3,No,1,1,No,0.0066675916,0.7,🟢 Low,> $10K
+1900,Research & Development,Manager,48,Female,17174,22,No,4,3,No,0.0066375714,0.7,🟢 Low,> $10K
+579,Research & Development,Research Scientist,34,Male,2768,7,No,3,3,No,0.006480599,0.6,🟢 Low,< $3K
+1658,Research & Development,Research Scientist,34,Female,5433,11,No,2,3,No,0.0064464137,0.6,🟢 Low,$3K-$6K
+1737,Research & Development,Laboratory Technician,39,Male,6472,9,Yes,4,3,No,0.006397547,0.6,🟢 Low,$6K-$10K
+1707,Research & Development,Research Scientist,24,Male,4401,5,No,3,3,No,0.0063167345,0.6,🟢 Low,$3K-$6K
+1035,Research & Development,Research Director,41,Female,19973,21,No,3,3,No,0.0063128513,0.6,🟢 Low,> $10K
+1026,Research & Development,Manufacturing Director,39,Female,12742,21,No,4,3,No,0.006237185,0.6,🟢 Low,> $10K
+999,Research & Development,Research Director,41,Male,19419,18,No,3,4,No,0.0061880737,0.6,🟢 Low,> $10K
+464,Research & Development,Manufacturing Director,35,Male,8095,16,No,2,3,No,0.0061754324,0.6,🟢 Low,$6K-$10K
+417,Research & Development,Healthcare Representative,39,Male,9613,18,No,4,2,No,0.0061752633,0.6,🟢 Low,$6K-$10K
+393,Research & Development,Healthcare Representative,38,Male,5745,2,No,4,3,No,0.0060997936,0.6,🟢 Low,$3K-$6K
+487,Research & Development,Manufacturing Director,46,Female,5258,1,No,3,4,No,0.006075817,0.6,🟢 Low,$3K-$6K
+599,Sales,Sales Executive,41,Male,6230,14,No,4,3,No,0.0060690744,0.6,🟢 Low,$6K-$10K
+252,Research & Development,Research Scientist,33,Female,2756,8,No,2,3,No,0.0060558687,0.6,🟢 Low,< $3K
+1903,Research & Development,Healthcare Representative,44,Male,5033,2,No,1,3,No,0.0059976657,0.6,🟢 Low,$3K-$6K
+1941,Research & Development,Research Director,49,Male,19161,5,No,4,3,No,0.0059055598,0.6,🟢 Low,> $10K
+119,Research & Development,Healthcare Representative,40,Male,13503,22,No,2,2,No,0.005904085,0.6,🟢 Low,> $10K
+1484,Research & Development,Healthcare Representative,49,Male,10466,8,No,2,3,No,0.005899259,0.6,🟢 Low,> $10K
+2000,Research & Development,Research Director,47,Female,11957,13,No,2,1,No,0.005844589,0.6,🟢 Low,> $10K
+1449,Research & Development,Laboratory Technician,40,Male,3975,8,No,3,4,No,0.00583277,0.6,🟢 Low,$3K-$6K
+1443,Research & Development,Research Director,47,Female,17169,20,No,3,4,No,0.005755928,0.6,🟢 Low,> $10K
+1280,Sales,Manager,46,Female,18789,11,No,2,3,No,0.0057380735,0.6,🟢 Low,> $10K
+1574,Research & Development,Research Scientist,32,Male,4087,6,No,1,2,No,0.005601528,0.6,🟢 Low,$3K-$6K
+1184,Research & Development,Healthcare Representative,34,Male,5343,13,No,1,3,No,0.0055658957,0.6,🟢 Low,$3K-$6K
+1099,Research & Development,Healthcare Representative,33,Male,7119,3,No,4,3,No,0.0055628354,0.6,🟢 Low,$6K-$10K
+1288,Research & Development,Manager,44,Male,19190,25,No,1,2,No,0.005449016,0.5,🟢 Low,> $10K
+1096,Research & Development,Manufacturing Director,55,Male,10976,3,No,2,3,No,0.0054259347,0.5,🟢 Low,> $10K
+1607,Research & Development,Research Scientist,32,Female,3312,3,No,4,3,No,0.0053176,0.5,🟢 Low,$3K-$6K
+1799,Research & Development,Research Scientist,28,Male,2044,5,No,4,4,No,0.005268119,0.5,🟢 Low,< $3K
+996,Research & Development,Laboratory Technician,45,Female,2270,5,No,4,3,No,0.005262262,0.5,🟢 Low,< $3K
+546,Research & Development,Manager,52,Female,16555,5,No,4,1,No,0.0052286927,0.5,🟢 Low,> $10K
+1196,Research & Development,Manufacturing Director,37,Female,6474,14,No,4,2,No,0.0052152574,0.5,🟢 Low,$6K-$10K
+1383,Research & Development,Healthcare Representative,34,Female,6687,14,No,4,4,No,0.0052017504,0.5,🟢 Low,$6K-$10K
+1040,Sales,Sales Executive,50,Female,6347,18,No,3,3,No,0.005093853,0.5,🟢 Low,$6K-$10K
+1069,Research & Development,Research Director,46,Male,19627,2,No,4,3,No,0.0050883973,0.5,🟢 Low,> $10K
+857,Sales,Sales Executive,36,Male,6201,18,Yes,4,2,No,0.005077052,0.5,🟢 Low,$6K-$10K
+638,Research & Development,Research Director,49,Male,19502,31,Yes,3,3,No,0.0050679552,0.5,🟢 Low,> $10K
+1369,Research & Development,Laboratory Technician,35,Female,5363,9,No,4,3,No,0.0050616288,0.5,🟢 Low,$3K-$6K
+1644,Research & Development,Manager,48,Male,15202,2,No,4,3,No,0.005024,0.5,🟢 Low,> $10K
+990,Sales,Sales Executive,36,Male,5079,7,No,4,3,No,0.0050207307,0.5,🟢 Low,$3K-$6K
+1627,Research & Development,Laboratory Technician,39,Male,3069,10,No,3,3,No,0.004898565,0.5,🟢 Low,$3K-$6K
+182,Sales,Sales Executive,39,Female,5902,15,No,3,4,No,0.0048388815,0.5,🟢 Low,$3K-$6K
+94,Research & Development,Research Scientist,29,Male,2703,5,No,2,3,No,0.00478857,0.5,🟢 Low,< $3K
+1676,Sales,Manager,47,Female,15972,3,No,2,3,No,0.0047162827,0.5,🟢 Low,> $10K
+1940,Research & Development,Research Scientist,38,Male,4771,5,No,4,4,No,0.0046920483,0.5,🟢 Low,$3K-$6K
+1263,Research & Development,Research Director,48,Male,18265,1,No,4,4,No,0.0043931683,0.4,🟢 Low,> $10K
+258,Research & Development,Healthcare Representative,51,Female,13734,7,No,2,3,No,0.004311111,0.4,🟢 Low,> $10K
+336,Research & Development,Manager,45,Male,19202,24,No,4,3,No,0.004291997,0.4,🟢 Low,> $10K
+976,Research & Development,Manager,52,Male,17099,9,No,4,2,No,0.00417216,0.4,🟢 Low,> $10K
+1625,Human Resources,Manager,47,Female,19658,5,No,3,3,No,0.004164118,0.4,🟢 Low,> $10K
+107,Research & Development,Research Scientist,38,Female,5329,13,Yes,4,3,No,0.004065577,0.4,🟢 Low,$3K-$6K
+373,Research & Development,Laboratory Technician,36,Male,3210,15,No,4,3,No,0.004042226,0.4,🟢 Low,$3K-$6K
+612,Research & Development,Research Director,33,Female,16184,6,No,3,3,No,0.0039863684,0.4,🟢 Low,> $10K
+1696,Research & Development,Laboratory Technician,34,Male,3986,15,No,4,4,No,0.0038953333,0.4,🟢 Low,$3K-$6K
+1423,Research & Development,Research Director,58,Female,19701,9,Yes,1,3,No,0.0037431705,0.4,🟢 Low,> $10K
+1697,Research & Development,Healthcare Representative,60,Male,10883,1,No,4,4,No,0.003638292,0.4,🟢 Low,> $10K
+724,Research & Development,Healthcare Representative,38,Female,7625,9,No,4,2,No,0.0035390344,0.4,🟢 Low,$6K-$10K
+730,Research & Development,Research Director,53,Male,14814,5,No,3,3,No,0.0034864014,0.3,🟢 Low,> $10K
+441,Research & Development,Research Scientist,30,Female,5775,10,No,4,3,No,0.0034093831,0.3,🟢 Low,$3K-$6K
+447,Research & Development,Research Director,47,Male,18300,3,No,3,3,No,0.0032876784,0.3,🟢 Low,> $10K
+1468,Research & Development,Research Director,40,Male,13757,9,No,2,3,No,0.0032496483,0.3,🟢 Low,> $10K
+1665,Research & Development,Manager,54,Female,17426,10,No,3,3,No,0.00308467,0.3,🟢 Low,> $10K
+1408,Human Resources,Manager,42,Female,16799,20,No,1,3,No,0.0030754532,0.3,🟢 Low,> $10K
+1668,Research & Development,Research Scientist,38,Male,4735,13,No,4,4,No,0.0030459666,0.3,🟢 Low,$3K-$6K
+1215,Research & Development,Manager,50,Female,17856,2,No,1,3,No,0.0029483682,0.3,🟢 Low,> $10K
+323,Sales,Manager,50,Female,19517,7,No,4,2,No,0.0029268626,0.3,🟢 Low,> $10K
+1608,Research & Development,Research Director,44,Female,19049,22,Yes,4,2,No,0.002859566,0.3,🟢 Low,> $10K
+482,Research & Development,Healthcare Representative,57,Male,6755,3,No,3,3,No,0.0027716549,0.3,🟢 Low,$6K-$10K
+1822,Research & Development,Healthcare Representative,40,Female,6513,5,No,4,3,No,0.0027148938,0.3,🟢 Low,$6K-$10K
+270,Research & Development,Manufacturing Director,42,Female,5265,5,No,3,3,No,0.0027092744,0.3,🟢 Low,$3K-$6K
+140,Human Resources,Manager,59,Female,18844,3,No,4,3,No,0.0026004086,0.3,🟢 Low,> $10K
+1970,Research & Development,Healthcare Representative,33,Male,5968,9,No,3,3,No,0.0025339806,0.3,🟢 Low,$3K-$6K
+262,Research & Development,Research Scientist,43,Male,2089,5,No,4,4,No,0.0024227663,0.2,🟢 Low,< $3K
+1117,Sales,Sales Executive,45,Female,5593,15,No,3,3,No,0.0024215288,0.2,🟢 Low,$3K-$6K
+1662,Research & Development,Manufacturing Director,36,Female,4374,3,No,3,3,No,0.002393174,0.2,🟢 Low,$3K-$6K
+1116,Research & Development,Manager,48,Male,16885,5,No,4,2,No,0.0023540962,0.2,🟢 Low,> $10K
+1520,Research & Development,Manager,54,Female,16032,14,No,4,3,No,0.0022996047,0.2,🟢 Low,> $10K
+1255,Research & Development,Research Director,43,Male,19740,8,No,4,3,No,0.0022656647,0.2,🟢 Low,> $10K
+352,Research & Development,Research Director,40,Male,19436,21,No,3,3,No,0.0022064743,0.2,🟢 Low,> $10K
+1712,Research & Development,Healthcare Representative,45,Male,10748,23,No,3,2,No,0.0021821547,0.2,🟢 Low,> $10K
+2022,Research & Development,Manager,39,Male,19431,6,No,4,2,No,0.0021611783,0.2,🟢 Low,> $10K
+1250,Research & Development,Research Director,54,Male,17779,10,No,4,3,No,0.001955894,0.2,🟢 Low,> $10K
+1995,Sales,Sales Executive,38,Male,4440,15,No,2,3,No,0.0019090254,0.2,🟢 Low,$3K-$6K
+46,Research & Development,Research Scientist,43,Female,2645,5,No,3,2,No,0.0017720929,0.2,🟢 Low,< $3K
+1201,Research & Development,Manager,53,Female,18606,7,No,3,3,No,0.001712691,0.2,🟢 Low,> $10K
+2026,Research & Development,Healthcare Representative,56,Male,6306,13,No,3,2,No,0.0016358233,0.2,🟢 Low,$6K-$10K
+558,Sales,Manager,40,Female,18041,20,No,3,3,No,0.0016282931,0.2,🟢 Low,> $10K
+950,Research & Development,Research Director,38,Female,13582,15,No,1,3,No,0.0013579283,0.1,🟢 Low,> $10K
+1264,Research & Development,Research Director,29,Female,16124,7,No,4,2,No,0.0012685898,0.1,🟢 Low,> $10K
+1045,Sales,Manager,45,Female,17650,9,No,4,4,No,0.0012407948,0.1,🟢 Low,> $10K
+1804,Research & Development,Manufacturing Director,35,Male,5762,7,No,4,3,No,0.0012231504,0.1,🟢 Low,$3K-$6K
+997,Research & Development,Research Director,50,Male,17399,5,No,4,2,No,0.0011212769,0.1,🟢 Low,> $10K
+1630,Research & Development,Healthcare Representative,35,Female,4148,14,No,3,3,No,0.0010124679,0.1,🟢 Low,$3K-$6K
+1774,Sales,Sales Executive,34,Male,4001,15,Yes,3,3,No,0.0009358262,0.1,🟢 Low,$3K-$6K
+1424,Research & Development,Research Director,55,Male,14732,7,No,4,4,No,0.0005295511,0.1,🟢 Low,> $10K
