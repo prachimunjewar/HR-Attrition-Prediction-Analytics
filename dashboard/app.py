@@ -212,7 +212,7 @@ def color_tier(val):
 
 st.dataframe(
     df[display_cols].sort_values("Risk_Score", ascending=False).head(100)
-                    .style.applymap(color_tier, subset=["Risk_Tier"]),
+                    .style.map(color_tier, subset=["Risk_Tier"]),
     use_container_width=True, hide_index=True, height=400
 )
 
