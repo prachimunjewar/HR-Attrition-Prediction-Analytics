@@ -3,6 +3,8 @@
 > End-to-end HR analytics project predicting employee attrition using Logistic Regression & XGBoost with SHAP explainability, risk scoring, and an interactive Streamlit dashboard.
 
 ---
+## Live Demo
+https://hr-attrition-prediction-analytics-hugyj5bxdwtuym5tvnkpdf.streamlit.app/
 
 ## 🎯 Business Problem
 Companies lose $50,000–$200,000 per employee who leaves due to hiring and training costs.
